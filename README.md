@@ -1,0 +1,3 @@
+This is the source code for my papers on the use of observable linguist features to improve predictions of lexical blends in English. The papers can be found in [SIGMORPHON workshop proceedings](https://aclanthology.org/2023.sigmorphon-1.10.pdf) and my [Master's thesis](https://search.proquest.com/openview/955eb55e7fb0905f1b45c41dc5872c05/1?pq-origsite=gscholar&cbl=18750&diss=y) at UNC-Chapel Hill.
+
+This project is under currently under renovation as I transfer from my old school Git account, with a more comprehensive set of instructions coming soon.
