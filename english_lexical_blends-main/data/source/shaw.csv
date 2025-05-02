@@ -1,0 +1,1406 @@
+﻿Blend,Head,Type,Brand,POS,sw1,sw1_POS,sw2,sw2_POS,sw3,sw3_POS,Source,sw source,Definition,LengthDiffSyll,LengthDiffSeg,sw1_stress,sw2_stress,StressReduction,StressHypothesis,SegReduction,sw1length,sw1percent,sw1deleted,sw2length,sw2percent,sw2deleted,SegHypothesis
+abhorrible,2,WW,no,adj,abhor,v,horrible,adj,,,Thurner (OED),,dreadful; detestable,-1,-4,1,1,0,0,0,5,1,0,7,1,0,0
+abnormous,1,LR,no,adj,abnormal,adj,enormous,adj,,,Thurner (WE),,abnormal or irregular,0,1,1,1,0,1,1,8,0.875,1,7,0.857142857,1,0
+abortuary,2,LR,no,n,abortion,n,mortuary,n,,,Thurner,,"an abortion clinic, labeled as such by foes of legalized abortion",-1,-3,1,1,0,0,1,7,0.571428571,3,8,0.875,1,1
+Abracurldabra,both,embed,yes,n,Abracadabra,expr,curl,n,,,Thurner (BTC),KS,hair-curling appliance (Windmere Corp),,,,,,,,,,,,,,
+absolete,2,LR,no,adj,absolute,adj,obsolete,adj,,,Thurner (OED),,"complete, finished, or done with",0,0,1,1,0,0,1,7,0.857142857,1,7,0.857142857,1,0
+abusak,2,WR,no,n,abuse,v,Muzak,n,,,Thurner (SL),,a slang term for elevator music,0,-1,1,1,0,0,0.5,5,1,0,6,0.833333333,1,0
+acceleread,1,LW,no,v,accelerate,v,read,v,,,Thurner (MBN),,the act of increasing one's reading speed,3,11,1,0.5,0.5,1,1,8,0.75,2,3,0.666666667,1,0
+adaptitude,2,WW,no,n,adapt,v,aptitude,n,,,Thurner (WE),,a special ability or aptitude,-1,-4,1,1,0,0,0,5,1,0,7,1,0,0
+administralia,1,LR,no,n,administration,n,Australia,n,,,Thurner (JA),,"the uppper echelon of corporate management, a realm which is, for many employees, as remote and mysterious as a distant foreign land",2,9,1,1,0,1,1,13,0.846153846,2,8,0.875,1,1
+administrivia,2,LR,no,n,administration,n,trivia,n,,,Thurner (JO),,a derisive name for the presumed duties of an administrator,2,11,1,1,0,0,0.5,13,0.769230769,3,6,1,0,1
+adrenergic,2,LW,no,adj,adrenalin,n,energic,adj,,,Thurner (DNW),,pertaining to physiological actions and reactions resulting from the release of adrenalin,1,5,1,1,0,0,0.5,9,0.666666667,3,6,1,0,1
+adverteasement,matrix,embed,no,n,advertisement,n,tease,v,,,Thurner (WW),,newspaper slang for a phony print ad which is meant to help determine whether customers are actually reading a newspaper's printed advertising,,,,,,,,,,,,,,
+advertique,both,LR,no,n,advertisement,n,antique,n,,,Thurner (OED),,an antique collector's name for an early piece of advertising,2,10,0.5,1,0.5,0,1,11,0.454545455,6,5,0.8,1,1
+advertorial,both,LR,no,n,advertisement,n,editorial,n,,,Thurner (NW),,a feature in a newspaper or magazine which appears as an editorial but is paid for by an advertiser,-1,0,0.5,1,0.5,0,1,11,0.545454545,5,9,0.777777778,2,1
+Africar,2,WW,no,n,Africa,n,car,n,,,Thurner (NW),KS,a light all-terrain vehicle which has been designed for use in the African wilderness,2,7,1,0.5,0.5,0,0.5,6,0.833333333,1,3,1,0,1
+Africrafts,2,LW,yes,n,Africa,n,crafts,n,,,Thurner (BTC),KS,"woodenware figurines, drums, stools (Holladay International)",,,,,,,,,,,,,,
+aggranoy,both,LR,no,v,aggravate,v,annoy,v,,,Thurner (DS),,"Australian slang, meaning to annoy",1,6,0.5,1,0.5,0,0.5,7,0.571428571,3,3,1,0,1
+aggrovoke,both,LR,no,v,aggravate,v,provoke,v,,,Thurner (DS),,"Australian slang, meaning to incite or provoke",1,3,0.5,1,0.5,0,1,7,0.714285714,2,6,0.833333333,1,1
+agreemony,2,WR,no,n,agree,v,acrimony,n,,,Thurner (OED),,"agreeableness, the opposite of acrimony",-2,-8,1,0,1,0,0.5,4,1,0,8,0.625,3,0
+agrimation,2,LR,no,n,agriculture,n,automation,n,,,Thurner (AM),,the use of automated systems in farming,0,1,0.5,1,0.5,1,1,9,0.555555556,4,8,0.625,3,1
+agrindustry,2,LW,no,n,agriculture,n,industry,n,,,Thurner (BNE),,a comprehensive term encompassing the various manufacturing and service industries related to agriculture,1,3,0.5,1,0.5,1,0.5,9,0.555555556,4,8,1,0,1
+ailevator,both,LR,no,n,aileron,n,elevator,n,,,Thurner (WE),,an airplane control surface that combines the functions of an aileron and an elevator,-1,-4,1,1,0,1,1,5,0.6,2,7,0.857142857,1,1
+Airacuda,2,WR,no,n,air,n,barracuda,n,,,Thurner (AEM),,the name given to an American fighter-bomber aircraft introduced in 1937,-3,-12,0.5,1,0.5,1,0.5,2,1,0,8,0.875,1,0
+airbrasive,2,WR,no,adj,air,n,abrasive,adj,,,Thurner (WE),,pertaining to the grinding of tooth surfaces with a stream of abrasive particles under air or gas pressure,-2,-9,0.5,1,0.5,1,0.5,2,1,0,7,0.857142857,1,0
+airdraulic,2,WR,no,adj,air,n,hydraulic,adj,,,Thurner (WE),,characteristic of a process which combines pneumatic and hydraulic operations,-2,-10,0.5,1,0.5,1,0.5,2,1,0,8,0.75,2,0
+airmada,2,WR,no,n,air,n,armada,n,,,Thurner (DAS),,a large group or formation of warplanes,-2,-8,0.5,1,0.5,1,0.5,2,1,0,6,0.833333333,1,0
+airphibian,2,WR,no,n,air,n,amphibian,n,,,Thurner (NA),,an all-purpose vehicle proposed by futurists during the 1950s,-3,-12,0.5,1,0.5,1,0.5,2,1,0,8,0.75,2,0
+airtillery,2,WR,no,n,air,n,artillery,n,,,Thurner (DNW),,bombardment consisting of guided missiles or other long-range weapons fired from surface launchers,-3,-11,0.5,1,0.5,1,0.5,2,1,0,7,0.857142857,1,0
+Alaskimo,2,LR,yes,n,Alaska,n,eskimo,n,,,Thurner (BTC),,sporting goods (Stearns),,,,,,,,,,,,,,
+alcoholiday,2,WW,no,n,alcohol,n,holiday,n,,,Thurner (SEL),,a holiday in which the primary activity is the drinking of alcoholic beverages,0,1,0.5,1,0.5,1,0,7,1,0,6,1,0,0
+aldermanity,2,WR,no,n,alderman,n,humanity,n,,,Thurner (DS),,the quality of being an alderman,-1,-4,0.5,1,0.5,1,1,7,0.857142857,1,9,0.666666667,3,0
+alegar,2,LR,no,n,ale,n,vinegar,n,,,Thurner (WE),,vinegar made from ale; malt vinegar,-2,-8,1,1,0,0,0.5,2,1,0,6,0.5,3,0
+alibiography,2,WW,no,n,alibi,n,biography,n,,,Thurner (WW),,an autobiography offered as an explanation or apology for the behavior of the author,-1,-5,0.5,1,0.5,1,0,5,1,0,8,1,0,0
+Aliencounter,2,WW,yes,n,alien,n,encounter,n,,,Thurner (BTC),KS,computer software (Milliken Publishing Co.),,,,,,,,,,,,,,
+alphabetterment,2,WW,no,n,alphabet,n,betterment,n,,,Thurner (MBD),,"government agencies or programs which are meant to promote economic recover and social welfare, so named because they are often characterized by acronymic labels",0,-1,0.5,1,0.5,1,0,7,1,0,8,1,0,0
+alphametic,both,LR,no,n,alphabetic,adj,arithmetic,n,,,Thurner (BDN),,a mathematical puzzle in which a problem is presented using letters instead of numerals,0,0,1,1,0,1,1,9,0.888888889,1,9,0.555555556,4,0
+altazimuth,both,LR,no,n,altitude,n,azimuth,n,,,Thurner (ID),,"the location of an airplane in flight, as determined by its distance from the ground and its relation to the arc of the curved horizon",0,1,0.5,1,0.5,0,0.5,7,0.571428571,3,6,1,0,1
+altiloquence,2,LR,no,n,altitude,n,eloquence,n,,,Thurner (WAW),,high-flown or pompous oratory,0,-1,0.5,1,0.5,1,0.5,7,0.571428571,3,8,1,0,1
+alundum,both,LR,no,n,aluminum,n,corundum,n,,,Thurner (OED),,"a hard material created by fusing aluminum in a furnace, used mainly as an abrasive agent",1,3,1,1,0,1,1,8,0.375,5,7,0.714285714,2,1
+ambiloquence,2,LR,no,n,ambiguous,adj,eloquence,n,,,Thurner (WAW),,skill in the art of double talk,1,3,1,1,0,0,1,9,0.666666667,3,8,0.875,1,1
+ambisextrous,matrix,embed,no,adj,ambidextrous,adj,sex,n,,,Thurner (WE),,a characteristic of one whose sex is not readily distinguishable by appearance alone; also used to describe a person who is bisexual,,,,,,,,,,,,,,
+Amerasian,both,LW,no,n,American,n,Asian,n,,,Thurner (WES),,a person of mixed American and Asian ancestry,2,8,0,1,1,0,0.5,8,0.25,6,4,1,0,1
+Amerathon,both,LW,yes,n,America,n,marathon,n,,,Thurner (BTC),KS,tires (Carlisle Corp),,,,,,,,,,,,,,
+Amerenglish,2,LW,no,n,American,adj,English,n,,,Thurner (OED),,the particular form of English that is spoken in America,2,6,0,1,1,1,0.5,8,0.25,6,6,1,0,1
+Americaid,2,LR,yes,n,America,n,aid,n,,,Thurner (WO),,"a word coined by staff members of the Nixon administration in 1972, offered to take the place and also to relieve the stigma of the word welfare",,,,,,,,,,,,,,
+Americanecdote,2,WW,no,n,American,adj,anecdote,n,,,Thurner,,an anecdote that involves Americans or is characteristic of American life,1,3,0.5,1,0.5,1,0.5,8,0.875,1,7,1,0,1
+Americards,2,WW,yes,n,America,n,cards,n,,,Thurner (TND),KS,Christmas cards (Americom Corp.),,,,,,,,,,,,,,
+Americola,2,LW,yes,n,America,n,cola,n,,,Thurner (BTC),KS,Soft drinks (Polar Corp.),,,,,,,,,,,,,,
+Americrafts,2,LW,yes,n,America,n,crafts,n,,,Thurner (BTC),KS,"Decorative accessories (White Consolodated Industries, Inc.)",,,,,,,,,,,,,,
+Americut,both,LW,yes,n,America,n,cut,n,,,Thurner (BTC),KS,Steel siding (Alside Inc.),,,,,,,,,,,,,,
+Amerindian,2,LW,no,n,American,n,Indian,n,,,Thurner (AL),,an Indian of the North American continent,1,4,0,1,1,1,0.5,8,0.25,6,6,1,0,1
+ampacity,2,LR,no,n,ampere,n,capacity,n,,,Thurner (DST),,a means of rating current-carrying capacity as measured in amperes,-2,-7,0.5,1,0.5,1,1,5,0.6,2,8,0.75,2,1
+Amplifire,1,orth,yes,n,amplifier,n,fire,n,,,Thurner (BTC),KS,"head extractors for fireplaces (Portland Willamette Division of Thomas Industries, Inc.)",,,,,,,,,,,,,,
+anecdotage,2,WW,no,n,anecdote,n,dotage,n,,,Thurner (WE),,advanced age when accompanied by a tendency to reminisce,1,4,0.5,1,0.5,1,0,7,1,0,5,1,0,0
+anecdotard,2,WW,no,n,anecdote,n,dotard,n,,,Thurner (WE),,a person exhibiting the characteristics of anecdotage,1,4,0.5,1,0.5,1,0,7,1,0,5,1,0,0
+animatronics,2,LR,no,n,animate,v,electronics,n,,,Thurner (NW),,techniques of traditional pupetry combined with modern electronics to create special effects for use in modern film animation,-1,-7,0.5,1,0.5,1,0.5,6,1,0,11,0.636363636,4,0
+animule,both,LW,no,n,animal,n,mule,n,,,Thurner (AET),,"American slang serving as a means of addressing an obstinate mule, later used in reference to any stubborn or troublesome animal",2,6,1,0.5,0.5,1,0.5,6,0.833333333,1,4,1,0,1
+aniseed,2,LW,no,n,anise,n,seed,n,,,Thurner (WE),,"the seed of anise, an herb commonly used as a flavoring in cordials and cooking",1,3,1,0.5,0.5,0,0,4,1,0,3,1,0,0
+ansurge,2,WW,no,n,answer,n,urge,n,,,Thurner (WO),,a name given to the sense of being overcome by an irrisistible urge to answer the telephone whenever it rings,1,4,1,0.5,0.5,0,0,4,1,0,2,1,0,0
+anticipointment,both,LR,no,n,anticipation,n,disappointment,n,,,Thurner (AM),,"a sense of great anticipation, immediately followed by great disappointment",1,1,1,1,0,1,1,11,0.818181818,2,12,0.916666667,1,1
+aphidozer,2,WR,no,n,aphid,n,hopperdozer,n,,,Thurner (WE),,"a device consisting of a hopper and revolving brushes, used to brush off and collect aphids from cultivated crops",-2,-8,1,1,0,0,0.5,4,1,0,8,0.5,4,0
+applaudience,2,WW,no,n,applaud,v,audience,n,,,Thurner (FW),,an audience determined to be favorable to a performer or performers,-1,-3,1,1,0,0,0,5,1,0,6,1,0,0
+applaudit,2,WW,no,n,applaud,v,plaudit,n,,,Thurner (OED),,a vigorous expression of approval,0,-1,1,1,0,0,0,5,1,0,6,1,0,0
+apprehendicitis,2,WR,no,n,apprehend,v,appendicitis,n,,,Thurner (SEL),,psychiatric jargon referring to a condition in which intense feelings of apprehension are the cause of acute abdominal pain,-2,-7,0.5,1,0.5,1,0.5,8,1,0,11,0.909090909,1,0
+Apricoating,2,LW,yes,n,apricot,n,coating,n,,,Thurner (BTC),KS,"fruit icing (Adolph J. Mainzer, Inc.)",,,,,,,,,,,,,,
+Aqualarm,2,WW,yes,n,aqua,n,alarm,n,,,Thurner (BTC),KS,"Pool and spa flow switches, boat alarms (Aqualarm, Inc.)",,,,,,,,,,,,,,
+archeolatry,2,LR,no,n,archeology,n,idolatry,n,,,Thurner (MBD),,worship of anything ancient or archaic,1,3,1,1,0,0,1,9,0.888888889,1,8,0.75,2,0
+arcology,2,LR,no,n,architecture,n,ecology,n,,,Thurner (DJ),,a totally integrated city or environment enclosed within a single structure,0,2,0.5,1,0.5,1,1,9,0.444444444,5,7,0.857142857,1,1
+argle,both,LR,no,v,argue,v,haggle,v,,,Thurner (BL),,to argue in a heated fashion,0,0,1,1,0,1,1,5,0.6,2,5,0.6,2,0
+Aristocat,2,LW,yes,n,aristocrat,n,cat,n,,,Thurner (BTC),KS,toy cat (Elka Toys),,,,,,,,,,,,,,
+Arithmetickle,2,WW,yes,n,arithmetic,n,tickle,n,,,Thurner (BTC),KS,computer software (Houghton Mifflin Co.),,,,,,,,,,,,,,
+armoraider,2,WW,no,n,armor,n,raider,n,,,Thurner (NEW),,military slang for a soldier assigned to be the crew member of a tank or other vehicle,0,0,1,0.5,0.5,0,0,4,1,0,4,1,0,0
+Aromanilla,2,WR,yes,n,aroma,n,vanilla,n,,,Thurner (TND),KS,vanilla flavorings (The Aromanilla Co.),,,,,,,,,,,,,,
+asiotic,both,LR,no,adj,asinine,adj,idiotic,adj,,,Thurner (BL),,"idiotic, foolish",-1,-3,0.5,1,0.5,0,1,6,0.333333333,4,7,0.714285714,2,1
+astrometry,both,LR,no,n,astronomy,n,geometry,n,,,Thurner (DST),,the branch of astronomy which deals with the geometric relationships of celestial bodies,0,1,1,1,0,1,1,9,0.777777778,2,8,0.75,2,0
+Athleticare,2,WW,yes,n,athletic,adj,care,n,,,Thurner (BTC),KS,"elastic bandages, cold packs (Johnson & Johnson)",,,,,,,,,,,,,,
+atomaniac,2,WW,no,n,atom,n,maniac,n,,,Thurner (DS),,a person who self-righteously proposes using atomic weapons on any country with a political ideology different from his own,-1,-4,0.5,1,0.5,1,0,4,1,0,6,1,0,0
+atomechanics,2,WW,no,n,atom,n,mechanics,n,,,Thurner (OED),,the mechanics of atoms; the physical laws that determine the structure and behavior of atomic particles,-1,-6,0.5,1,0.5,1,0,4,1,0,8,1,0,0
+Atomist,2,WW,yes,n,atom,n,mist,n,,,Thurner (BTC),KS,an electric mist sprayer (RL Corp.),,,,,,,,,,,,,,
+austempering,2,LW,no,n,austenitic,adj,tempering,n,,,Thurner (DST),,a process for heat-treating austenitic steel,1,4,0,1,1,1,0.5,9,0.444444444,5,7,1,0,1
+austern,both,LW,no,adj,austere,adj,stern,adj,,,Thurner (BL),,"of a severe and austere demeanor. Coined by John Wycliffe, 14th century English theologian",1,3,1,1,0,1,0.5,5,0.6,2,4,1,0,1
+Australasian,both,LW,no,adj,Australian,adj,Asian,adj,,,Thurner (OED),,consisting of or characterized by a combination of that which is Australian and Asian,1,7,0,1,1,0,0.5,9,0.777777778,2,4,1,0,1
+Australorp,2,LL,yes,n,Australian,adj,Orpington,n,,,Thurner (DS),,"An Australian breed of the black Orpington, a species of domesticated fowl originally bred in England",,,,,,,,,,,,,,
+autel,2,LR,no,n,auto,n,hotel,n,,,Thurner (DNW),,a motel; autel eventually disappeared from comon usage because of the public's preference for the word motel,0,-2,0.5,1,0.5,1,1,3,0.666666667,1,5,0.6,2,0
+autobesity,2,WW,no,n,auto,n,obesity,n,,,Thurner (DD),,advertising jargon coined by automobile dealers to describe an excess of vehicles on their sale lots,-2,-8,0.5,1,0.5,1,0,3,1,0,7,1,0,0
+automobility,2,LW,no,n,automobile,n,mobility,n,,,Thurner (WE),,the use of automobiles for transport,0,0,1,1,0,0,0.5,8,0.875,1,8,1,0,1
+autopia,2,LR,no,n,auto,n,utopia,n,,,Thurner (BNW),,a society which is dominated by the automobile,-2,-8,0.5,1,0.5,1,0.5,3,1,0,7,0.714285714,2,0
+avigation,2,WR,no,n,aviation,n,navigation,n,,,Thurner (WE),,the science of aircraft navigation,0,-2,1,1,0,0,1,7,0.857142857,1,9,0.777777778,2,0
+azaleamum,2,WR,no,n,azalea,n,chrysanthemum,n,,,Thurner (WE),,any of the varieties of profusely flowering dwarf chrysanthemum,-1,-7,1,1,0,0,0.5,6,1,0,11,0.363636364,7,0
+backini,2,WR,no,n,back,n,bikini,n,,,Thurner (BAI),,a woman's bathing suit that is designed to fully expose the wearer's back,-2,-7,0.5,1,0.5,1,0.5,3,1,0,6,0.833333333,1,0
+bacronym,2,WW,no,n,back,n,acronym,n,,,Thurner (FW),,an acronym in which the word formed by the initial letters appears to have been deliberately chosen to refer back to what is being abbreviated,-2,-8,1,1,0,0,0,3,1,0,7,1,0,0
+bacterinert,2,LW,no,n,bacteria,n,inert,adj,,,Thurner (DNW),,resistant to the growth of bacteria,2,8,1,0.5,0.5,0,0.5,8,0.75,2,4,1,0,1
+badvertising,2,WW,no,n,bad,n,advertising,n,,,Thurner (TM),,"advertising that is offensive, dim-witted, or inept. Also the name of an award given by Adweek Magazine acknowledging particularly egregious examples of such advertising",-3,-12,1,1,0,0,0,3,1,0,9,1,0,0
+baffound,both,LR,no,v,baffle,v,confound,v,,,Thurner (BL),,to baffle or perplex,0,-2,0.5,1,0.5,0,1,5,0.6,2,7,0.571428571,3,0
+Bakerloo,both,WR,no,n,Baker,n,Waterloo,n,,,Thurner (STY),,"the name given to a major route in London's underground rail system, running between Waterloo Station and Baker Street",-1,-4,1,1,0,1,0.5,4,1,0,6,0.5,3,0
+Bakespeare,both,LR,no,n,Bacon,n,Shakespeare,n,,,Thurner (DS),,"a hypothetical hystorical figure, whimsically proposed as a compromise in the debate regarding whether Sir Francis Bacon is actually the author of Shakespeare's plays",0,-2,1,1,0,1,1,5,0.6,2,7,0.857142857,1,1
+balloonatic,2,WW,no,n,balloon,n,lunatic,n,,,Thurner (DS),,military slang for a person who served in the observation or barrage balloon corps in either world war,-1,-4,1,1,0,0,0,5,1,0,7,1,0,0
+ballute,2,LR,no,n,balloon,n,parachute,n,,,Thurner (WES),,"a small inflatable parachute deployed for the purpose of stabilization or deceleration, usually before a conventional chute opens",-1,-4,1,0,1,0,1,5,0.8,1,7,0.428571429,4,0
+Baltimorons,2,LW,no,n,Baltimore,n,morons,n,,,Thurner (AL),,"a derogatory name for the residents of Baltimore, Maryland. Coined by journalist Harry Black of the Baltimore Evening Sun in 1922",1,4,0.5,1,0.5,1,0,8,1,0,6,1,0,0
+bandstration,2,WR,no,n,band,n,orchestration,n,,,Thurner (WE),,the scoring of music for a band,-3,-13,0.5,1,0.5,1,0.5,4,1,0,11,0.636363636,4,0
+banjoey,2,WR,no,n,banjo,n,joey,n,,,Thurner (DS),,"a banjo player. Joey is British slang for a clown, derived from the name of Joseph Grimaldi, famous 19th century English comic actor and clown",0,2,0.5,1,0.5,1,0,5,1,0,3,1,0,0
+banjolin,both,WR,no,n,banjo,n,mandolin,n,,,Thurner (OED),,a musical instrument combining the characteristics of a mandolin and a banjo,-1,-5,1,1,0,1,0.5,5,1,0,8,0.625,3,0
+banjorine,1,WR,no,n,banjo,n,tambourine,n,,,Thurner (WE),,"a banjo with a short neck, probably so-named because the belly and tension hoop of a banjo resemble a tambourine",-1,-4,0.5,1,0.5,0,0.5,5,1,0,7,0.428571429,4,0
+banjulele,both,LR,no,n,banjo,n,ukelele,n,,,Thurner (OED),,a musical instrument which combines the characteristics of a banjo and a ukelele,-2,-7,0.5,1,0.5,0,1,5,0.8,1,8,0.625,3,0
+bardolatry,2,WR,no,n,bard,n,idolatry,n,,,Thurner (MBD),,adoration of anything having to do with William Shakespeare,-3,-10,0.5,1,0.5,1,0.5,4,1,0,8,0.875,1,0
+baritenor,both,LW,no,n,baritone,n,tenor,n,,,Thurner (TGP),,a vocalist with the voice of a baritone and the range of a tenor,1,5,1,0.5,0.5,1,0.5,7,0.857142857,1,4,1,0,1
+barnacular,2,WR,no,n,barn,n,vernacular,n,,,Thurner (WAW),,another name for government gobbledygook; the use of the word barn is a scatological reference to the presumed origin of such material,-3,-11,0.5,1,0.5,1,0.5,4,1,0,9,0.777777778,2,0
+barococo,both,WW,no,adj,baroque,adj,rococo,adj,,,Thurner (TGP),,"an architectural or decorative style charactherized by grotesquely elaborate features, or by the combination of elements of the baroque and rococo styles",-1,-4,0,0,0,1,0.5,4,1,0,6,0.666666667,2,0
+barsolister,both,LR,no,n,barrister,n,solicitor,n,,,Thurner (BL),,"British slang for an attorney at law. Barsolistor acknowledges the two distinct types of attorney in Britain, since a barrister is expected to argue cases in court, while a solicitor specializes in out-of-court work",-1,-3,0.5,0,0.5,1,0.5,7,1,0,8,0.5,4,0
+Bassassin,2,WR,yes,n,bass,n,assassin,n,,,Thurner (BTC),KS,sporting goods (Burke Flexo ProductsCo.),,,,,,,,,,,,,,
+Batherapy,2,WW,yes,n,bath,n,therapy,n,,,Thurner (TND),KS,"mineral bath salts (General Therapeutics, Inc.)",,,,,,,,,,,,,,
+Bathinette,2,WR,yes,n,bath,n,bassinette,n,,,Thurner (BTC),KS,"portable bathtub for infants (Century Products, Inc.)",,,,,,,,,,,,,,
+bathtize,2,WR,no,n,bath,n,baptize,n,,,Thurner (MBN),,to baptize by total immersion,-1,-5,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+Batmania,2,WW,no,n,Batman,n,mania,n,,,Thurner,,the name given to the record-breaking box office popularity of the 1989 movie Batman,-1,-1,0.5,1,0.5,1,0.5,6,0.833333333,1,5,1,0,1
+Beanimals,both,LR,yes,n,beanbag,n,animals,n,,,Thurner (BTC),KS,bean-bag animals (Possum Trot Corp.),,,,,,,,,,,,,,
+Beatles,2,orth,yes,n,beat,n,beetles,n,,,Thurner,,"the name of a popular British music group, coined in imitation of Buddy Holly's band ""The Crickets""",,,,,,,,,,,,,,
+beautilitarian,2,LW,no,n,beauty,n,utilitarian,n,,,Thurner (BNE),,a person who strives for the aesthetic ideal of beautility,-4,-15,0,1,1,1,0,5,1,0,12,1,0,0
+beautility,both,LW,no,n,beauty,n,utility,n,,,Thurner (BNE),,that which combines the qualities of beauty and utility; design which is as practical as it is beautiful,-2,-7,0,1,1,0,0,5,1,0,8,1,0,0
+beefalo,both,WR,no,n,beef,n,buffalo,n,,,Thurner (WES),,"a hybrid of bef cattle and the American buffalo, typically 3/8 buffalo and 5/8 domestic stock",-2,-7,1,1,0,1,0.5,3,1,0,6,0.833333333,1,0
+Beenut Butter,2,WR,yes,n,bee,n,peanut butter,n,,,Thurner (BTC),KS,"a blend of peanut and honey (American Natural Foods, Inc.)",,,,,,,,,,,,,,
+beerage,2,WR,no,n,beer,n,peerage,n,,,Thurner (WE),,"a derisive name for the British peerage; any group of English brewers, particularly those who have been made peers",-1,-4,1,1,0,0,0.5,3,1,0,5,0.8,1,0
+beerocracy,2,WR,no,n,beer,n,bureaucracy,n,,,Thurner (DS),,collective term for a group or organization of brewers and tavern owners,-3,-13,0,1,1,1,0.5,3,1,0,10,0.8,2,0
+beerstro,2,WR,no,n,beer,n,bistro,n,,,Thurner (SEL),,slang for a tavern,-1,-5,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+beezer,both,LR,no,n,beak,n,sneezer,n,,,Thurner (WE),,a slang name for a person's nose,-1,-4,1,1,0,1,1,3,0.666666667,1,5,0.6,2,0
+begincement,both,WR,no,n,begin,n,commencement,n,,,Thurner (BL),,a beginning,-1,-7,1,1,0,1,0.5,5,1,0,10,0.6,4,0
+belkupping,both,LR,no,n,belch,n,hiccupping,n,,,Thurner (BL),,"belching and hiccuping, occurring simultaneously",-2,-7,1,1,0,1,1,4,0.75,1,7,0.714285714,2,0
+bellcony,2,WR,no,n,bell,n,balcony,n,,,Thurner (BL),,a bell tower,-2,-8,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+bellygram,2,WR,no,n,belly,n,telegram,n,,,Thurner (TM),,a variety of telegram in which delivery of the telegram message is accompanied by a belly dancing performance,-1,-6,1,1,0,0,0.5,4,1,0,8,0.75,2,0
+bellyrina,2,WR,no,n,belly,n,ballerina,n,,,Thurner (BAI),,a belly dancer,-2,-7,0.5,1,0.5,1,0.5,4,1,0,7,0.714285714,2,0
+bestraught,both,LR,no,adj,beset,adj,distraught,adj,,,Thurner (BL),,distressed or overwhelmed by a multitude of woes,0,-2,1,1,0,1,1,5,0.8,1,7,0.857142857,1,1
+bewilderness,2,WW,no,n,bewilder,v,wilderness,n,,,Thurner (TM),,a state of total confusion; a sense of having lost one's bearings or sense of direction; a state of constant tension between sensations of freedom and restraint,0,-1,1,1,0,0,0,7,1,0,8,1,0,0
+Bikexpert,2,WR,yes,n,bike,n,expert,n,,,Thurner (BTC),KS,bicycle parts and accessories (Gallop Cycle),,,,,,,,,,,,,,
+bingle,both,LR,no,n,bob,n,shingle,n,,,Thurner (WE),,"a woman's hairstyle that is characterized by a short bob, partly shingled at the back",-1,-5,1,1,0,1,1,3,0.333333333,2,6,0.833333333,1,1
+birthquake,2,WR,no,n,birth,n,earthquake,n,,,Thurner (DA),,"another name for the ""population explosion""",-1,-5,1,1,0,0,0,3,1,0,6,1,0,0
+biscake,both,LR,no,n,biscuit,n,cake,n,,,Thurner (OED),,another name for a biscuit,1,5,1,0.5,0.5,1,0.5,6,0.666666667,2,3,1,0,1
+Bisquick,both,LW,yes,n,biscuit,n,quick,adj,,,Thurner (BTC),KS,"baking mix (General Mills, Inc.)",,,,,,,,,,,,,,
+bit,2,LR,no,n,binary,adj,digit,n,,,Thurner (DWP),,"computer jargon for an individual piece of data, the smallest part of a binary number",1,2,1,0,1,0,1,5,0.2,4,5,0.4,3,1
+bizark,2,LR,no,adj,bizarre,adj,berserk,adj,,,Thurner (FW),,strangely frenzied,0,0,1,1,0,0,0.5,5,1,0,5,0.4,3,0
+bizotic,both,LR,no,adj,bizarre,n,exotic,n,,,Thurner (SL),,"that which is odd, strange, or rarely seen",-1,-4,1,1,0,1,1,5,0.8,1,7,0.714285714,2,0
+blacketeer,2,LR,no,n,black market,n,racketeer,n,,,Thurner (DS),,journalistic slang for a racketeer dealing in the black market,0,3,0.5,1,0.5,1,1,10,0.5,5,7,0.857142857,1,1
+blacksploitation,2,WR,no,n,black,adj,exploitation,n,,,Thurner (DJ),,"one of a series of relatively low-budget films popular in the 1970s, featuring black characters in stereotypical super-hero roles",-3,-13,0.5,1,0.5,1,0.5,4,1,0,11,0.909090909,1,0
+Blacula,2,WR,no,n,black,adj,Dracula,n,,,Thurner (MOT),,"the title of a 1972 blacksploitation film in which the lead character, a vampire, is black",-2,-8,1,1,0,0,0.5,4,1,0,8,0.75,2,0
+bladderdash,2,WR,no,n,bladder,n,balderdash,n,,,Thurner (OED),,nonsensical speech or writing,-1,-5,1,1,0,0,0.5,5,1,0,8,0.875,1,0
+blandiloquence,2,WR,no,n,bland,n,grandiloquence,n,,,Thurner (DS),,"smooth or flattering speech, intended to soothe emotions instead of arousing them",-3,-14,0,1,1,1,0.5,5,1,0,13,0.846153846,2,0
+blandlubber,2,WR,no,n,bland,n,landlubber,n,,,Thurner (BAI),,a person whose diet consists exclusively of bland food,-2,-7,1,1,0,0,0,5,1,0,8,1,0,0
+blandscape,2,WR,no,n,bland,n,landscape,n,,,Thurner,,scenery distinguished by the fact that it lacks any interesting features,-1,-5,1,1,0,0,0,5,1,0,8,1,0,0
+blastard,2,WR,no,n,blast,n,bastard,n,,,Thurner (DNW),,"military slang for a robot bomb, used by the English in World War II to describe Germany's V-1 and V-2 rockets",-1,-3,1,1,0,0,0,5,1,0,6,1,0,0
+bletcherous,2,WR,no,adj,blech,int,lecherous,adj,,,Thurner (ND),,"unpleasant, disgusting and nasty",-2,-6,1,1,0,0,0.5,4,0.75,1,6,1,0,1
+blort,both,LR,no,n,blow,v,snort,v,,,Thurner (DCS),,"slang term for cocaine, referring to the habit of inhaling it through the nose",0,-2,1,1,0,1,1,3,0.666666667,1,5,0.6,2,0
+bloterature,2,WR,no,n,blot,n,literature,n,,,Thurner (SEL),,"a word coined by John Colet (1467-1519), Dean of St. Paul's Cathedral, to describe written works of ""filth and abuse""",-3,-9,1,1,0,0,0.5,4,1,0,7,0.857142857,1,0
+blottesque,2,WR,no,adj,blot,n,grotesque,adj,,,Thurner (OED),,characteristic of a roughly executed painting,-1,-5,0,1,1,1,0.5,4,1,0,7,0.571428571,3,0
+blowmobile,2,WR,no,n,blow,v,snowmobile,n,,,Thurner (WE),,a snow sledge driven by an airplane propeller,-2,-9,1,1,0,0,0.5,3,1,0,8,0.75,2,0
+blunderhead,2,WR,no,n,blunder,v,dunderhead,n,,,Thurner (OED),,"a blundering, muddle-headed person",-1,-4,1,1,0,0,0.5,6,1,0,8,0.875,1,0
+blunk,2,LR,no,adj,blind,adj,drunk,adj,,,Thurner (DS),,drug slang for a half-drunk or stuporous condition,0,0,1,1,0,0,1,5,0.4,3,5,0.6,2,1
+Boatank,2,WW,yes,n,boat,n,tank,n,,,Thurner (BTC),KS,marine fuel tanks (Bettcher Mfg. Co.),,,,,,,,,,,,,,
+Boatape,2,WW,yes,n,boat,n,tape,n,,,Thurner (BTC),KS,electrical tape (Quick-Cable Corp.),,,,,,,,,,,,,,
+boatel,2,WR,no,n,boat,n,hotel,n,,,Thurner (WES),,"a hotel located near water, and equipped with docks to accommodate persons traveling by boat; a cruise ship equipped with all the amenities of a large hotel",-1,-4,0,1,1,1,0.5,3,1,0,5,0.8,1,0
+bodacious,both,WR,no,adj,bold,adj,audacious,adj,,,Thurner (WE),,complete and unmitigated; extremely bold and brazen,-2,-6,0.5,1,0.5,0,1,4,0.75,1,6,0.833333333,1,1
+boil,both,WR,no,n,boy,n,girl,n,,,Thurner (DS),,a teenager whose sex is not immediately discernable,0,-1,1,1,0,1,0.5,2,1,0,3,0.333333333,2,0
+boldacious,both,WR,no,adj,bold,adj,audacious,adj,,,Thurner (WE),,complete and unmitigated; extremely bold and brazen,-2,-6,0.5,1,0.5,0,0.5,4,1,0,6,0.833333333,1,0
+bombphlet,2,WR,no,n,bomb,n,pamphlet,n,,,Thurner (LWW),,a propaganda leaflet dropped from an airplane,-1,-6,1,1,0,0,0.5,3,1,0,7,0.714285714,2,0
+Bondoggle,2,WR,no,n,Bond,n,boondoggle,n,,,Thurner (BAI),,a motion picture that fails in its attempt to imitate the popular formula of a typical James Bond movie,-2,-8,0.5,1,0.5,1,0.5,4,1,0,8,0.875,1,0
+boobarian,2,WR,no,n,boob,n,barbarian,n,,,Thurner (AL),,"a habitually crass, stupid or vulgar person. Coined by H. L. Mencken",-3,-12,0.5,1,0.5,1,0.5,3,1,0,9,0.777777778,2,0
+boobocracy,2,WR,no,n,boob,n,bureaucracy,n,,,Thurner (MBD),,government by imbeciles. Coined by H. L. Mencken,-3,-13,0,1,1,1,0.5,3,1,0,10,0.7,3,0
+booboisie,2,WR,no,n,boob,n,bourgeoisie,n,,,Thurner (AL),,coined by Mencken to describe a class of people distinguished mainly by their stupidity and boorishness,-2,-9,0.5,1,0.5,1,0.5,3,1,0,8,0.625,3,0
+booklegger,2,WR,no,n,book,n,bootlegger,n,,,Thurner (TM),,a smuggler of books. Coined as a means of referring to those persons who managed to smuggle copies of the banned first edition of James Joyce's novel Ulysses into the United States,-2,-8,1,1,0,0,0.5,3,1,0,7,0.714285714,2,0
+bootician,2,WR,no,n,bootlegger,n,beautician,n,,,Thurner (AL),,"proposed by H. L. Mencken in 1925, at the height of Prohibition, as a means of designating ""a high-toned, big-city bootlegger""",0,-1,0,1,1,1,1,7,0.428571429,4,8,0.875,1,1
+boozician,2,WR,no,n,booze,n,musician,n,,,Thurner (DS),,a drunkard,-2,-9,0,1,1,0,0.5,3,1,0,8,0.75,2,0
+Bosphorescense,2,LR,no,n,Bosphorus,n,phosphorescence,n,,,Thurner (DS),,"a name given by journalists to the speculative financial investments undertaken by European banks in Turkey during the years 1900-07. The investments were initially promoted as shining opportunities, but they eventually proved to be disastrously unsound for the financiers involved",-1,-5,0.5,1,0.5,1,0.5,7,1,0,10,0.9,1,0
+bovie,1,LR,no,n,book,n,movie,n,,,Thurner (MBN),,a book based on the screenplay of a movie and produced in order to capitalize on the movie's popularity,-1,-3,1,1,0,1,1,3,0.333333333,2,4,0.75,1,1
+boylesque,2,WR,no,n,boy,n,burlesque,n,,,Thurner (DJ),,"a variety show, particularly one that includes striptease acts and male performer, intented to appeal to a homosexual audience",-1,-6,0.5,1,0.5,1,0.5,2,1,0,6,0.833333333,1,0
+Braford,both,LR,no,n,Brahman,n,Hereford,n,,,Thurner (WE),,a variety of beef cattle developed by crossing Brahman and Hereford stock,-1,-3,1,0,1,1,1,6,0.5,3,7,0.571428571,3,1
+Bralusion,1,WR,yes,n,bra,n,illusion,n,,,Thurner (BTC),,"foundation garments (Warnaco, Inc.)",,,,,,,,,,,,,,
+brandstanding,2,WR,no,n,brand,n,grandstanding,n,,,Thurner (ISC),,ambitious promotion of a brand name product,-2,-11,1,1,0,0,0.5,5,1,0,12,0.916666667,1,0
+brangle,both,LR,no,v,brawl,v,wrangle,v,,,Thurner (WE),,a harsh squibble or dispute,-1,-4,1,1,0,1,0.5,4,0.75,1,6,1,0,1
+Brangus,both,LR,no,n,Brahman,n,Angus,n,,,Thurner (WES),,a variety of hybrid beef cattle which is 3/8 Brahman and 5/8 Angus stock,0,1,1,1,0,1,0.5,6,0.5,3,5,1,0,1
+branwagon,2,WR,no,n,bran,n,bandwagon,n,,,Thurner (NW),sw2 - KS,"a word used to describe the food industry's rush to introduce new products containing bran, promoted as an important element in a healthy diet",-2,-9,1,1,0,0,0.5,4,1,0,9,0.888888889,1,0
+brattitude,2,WW,no,n,brat,n,attitude,n,,,Thurner (DA),,"the characteristically stubbor, arrogant, or ill-mannered behavior of adolescents, especially while attending school",-2,-6,1,1,0,0,0,4,1,0,6,1,0,0
+breviloquence,both,LR,no,n,brevity,n,eloquence,n,,,Thurner (WE),,characterized by brevity in one's speech,0,-1,0.5,1,0.5,0,0.5,7,0.714285714,2,8,1,0,1
+Bridallure,2,WW,yes,n,bridal,adj,allure,n,,,Thurner (BTC),KS,bridal gowns (Alfred Angelo),,,,,,,,,,,,,,
+brinkles,2,LR,no,n,bed,n,wrinkles,n,,,Thurner (FW),,"marks left on a person's face by folds or seams in a blanket, sheet, or pillow after awakening",-1,-6,1,1,0,0,0.5,3,0.333333333,2,7,1,0,1
+Brisbanality,2,WW,no,n,Brisbane,n,banality,n,,,Thurner (AL),,"a derisive name given to the notoriously platitudinous comments of Arthur Brisbane, former editor and columnist for the chain of newspapers owned by William Randolph Hearst",-2,-5,0.5,1,0.5,1,0.5,7,0.857142857,1,8,1,0,1
+broast,both,LR,no,v,broil,v,roast,v,,,Thurner,,a commercial method of cooking that involved deep frying food at higher than ordinary temperatures for a shorter time in order to preserve more of its flavor,0,0,1,1,0,1,0.5,4,0.5,2,4,1,0,1
+broccoflower,both,LR,no,n,broccoli,n,cauliflower,n,,,Thurner,,a vegetable that is green like broccoli but with a compact head of fleshy stalks and buds that is similar to cauliflower,-1,-3,1,1,0,1,1,7,0.857142857,1,8,0.75,2,0
+bromidiom,2,LW,no,n,bromide,n,idiom,n,,,Thurner (WE),,a commonplace or hackneyed expression,-1,-1,1,1,0,0,0.5,6,0.833333333,1,5,1,0,1
+brunch,both,LR,no,n,breakfast,n,lunch,n,,,Thurner (YNW),,"a meal combining elements of breakfast and lunch, or served midway between the time when breakfast and lunch are customarily eaten",1,6,1,1,0,1,1,8,0.375,5,4,0.75,1,1
+bruncheon,both,LR,no,n,breakfast,n,luncheon,n,,,Thurner (SWW),,"a more recent variation of brunch, apparently coined because of its snob appeal",0,2,1,1,0,1,1,8,0.375,5,6,0.833333333,1,1
+brunner,both,LMR,no,n,breakfast,n,lunch,n,dinner,n,Thurner (BN),,all three meals of the day combined into one ample feast,,,,,,,,,,,,,,
+brutal nitrate,2,WR,no,n,brutal,adj,butyl nitrate,n,,,Thurner (BDN),,"the colloquial name given to butyl nitrate, a stimulant containing isobutyl alcohol, also known as ""popper"" or ""poor man's cocaine""",-2,-10,1,1,0,0,0.5,6,1,0,12,0.916666667,1,0
+brutalitarian,2,WR,no,adj,brutal,adj,totalitarian,adj,,,Thurner (WE),,one who advocates or practices physical brutality as an aspect of personal behavior or political doctrine,-4,-14,0,1,1,1,1,6,0.833333333,1,12,0.833333333,2,0
+buffion,both,LR,no,n,buffoon,n,ruffian,n,,,Thurner (OED),,a buffoon,-1,-3,0,1,1,0,1,5,0.8,1,6,0.833333333,1,1
+bulimarexia,both,LR,no,n,bulimia,n,anorexia,n,,,Thurner (OED),,"an eating disorder consisting of frequent binging and purgin, practiced as a means of sustaining weight loss and controlling appetite",-1,-2,0.5,1,0.5,0,0.5,8,1,0,8,0.75,2,0
+bullionare,2,WR,no,n,bullion,n,billionaire,n,,,Thurner (BAI),,one who has become wealthy by dealing in the gold market,-1,-4,1,0.5,0.5,0,0.5,6,1,0,8,0.875,1,0
+bungaloafer,2,WW,no,n,bungalow,n,loafer,n,,,Thurner (BL),,a person who lounges about in a bungalow,1,5,0.5,1,0.5,1,0,7,1,0,4,1,0,0
+bungersome,2,LR,no,adj,bungle,v,cumbersome,adj,,,Thurner (WE),,awkward or clumsy,-1,-4,1,1,0,0,1,6,0.833333333,1,8,0.625,3,0
+bureaucrap,2,LW,no,n,bureaucrat,n,crap,n,,,Thurner (WAW),,a derisive name for the official pronouncements of government agencies,2,9,1,0.5,0.5,0,0.5,9,0.888888889,1,4,1,0,1
+bureaucrazy,2,LW,no,adj,bureaucracy,n,crazy,adj,,,Thurner (BDN),,government policy or procedure that is characterized by illogic and confusion,2,9,0,1,1,1,0.5,10,0.7,3,5,1,0,1
+bureaucrock,both,LW,no,n,bureaucrat,n,crock,n,,,Thurner (BAI),,"a pretentious, incompetent government official",2,9,1,0.5,0.5,1,0.5,9,0.777777778,2,4,1,0,1
+bureausis,2,LR,no,n,bureaucracy,n,neurosis,n,,,Thurner (WO),,an inability to cope with even the simplest of bureaucratic rules and regulations,1,5,1,1,0,0,1,10,0.6,4,7,0.857142857,1,1
+burletta,both,LR,no,n,burlesque,n,operetta,n,,,Thurner (MBD),,a short comic opera,-2,-4,1,1,0,1,1,6,0.666666667,2,6,0.666666667,2,0
+buscapade,2,WR,no,n,bus,n,escapade,n,,,Thurner (TM),,a group tour by bus that is enlivened by a series of improbable events or comic misadventures,-2,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+butterine,both,WR,no,n,butter,n,margarine,n,,,Thurner (AL),,"a blend of margarine and butter, resulting in a product that is supposed to taste like butter, with less fat and calories",-1,,1,1,0,1,0.5,4,1,0,7,0.428571429,4,0
+buttlegger,2,WR,no,n,butt,n,bootlegger,n,,,Thurner (BNE),,a person engaging in the ilegal transport or sale of cigarettes upon which no taxes have been paid,-2,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+cabarazy,2,WR,no,adj,cabaret,n,crazy,adj,,,Thurner (BL),,a psychological condition characterized by an obsession with nightclubs and the gaudy lifestyle of the cabaret,1,,1,1,0,0,0.5,5,1,0,5,0.8,1,0
+cabatoe,both,LR,no,n,cabbage,n,potato,n,,,Thurner (WO),,a hybrid plant which produces a head of cabbage aboveground and potatoes below,-1,,0,1,1,0,1,5,0.6,2,6,0.5,3,0
+cafetorium,both,LR,no,n,cafeteria,n,auditorium,n,,,Thurner (SEL),,a room in a school that is used as both a cafeteria and an auditorium,0,,1,1,0,1,1,9,0.888888889,1,9,0.777777778,2,0
+Calada,both,LR,yes,n,California,n,Nevada,n,,,Thurner (NOL),,a name given to one of three locations on the California-Nevada border where railroads crossed in the mid-19th century,,,,,,,,,,,,,,
+Califamous,2,LW,no,adj,California,n,famous,adj,,,Thurner (TND),,"slips (Blou Slip Co., Inc.)",2,,1,1,0,0,0.5,10,0.6,4,5,1,0,1
+californicate,2,LW,no,v,California,n,fornicate,v,,,Thurner (BNE),,"the process by which natural landscape is ravaged by uncontrolled urban sprawl, in the manner typical of Southern California",1,,1,1,0,0,0.5,10,0.8,2,8,1,0,1
+calligram,both,LR,no,n,calligraphy,n,anagram,n,,,Thurner (DJ),,a visual pun; a word drawn or printed to form a visually arresting picture or image,1,,0,1,1,0,1,9,0.444444444,5,7,0.857142857,1,1
+Calmanac,both,LW,yes,n,calendar,n,almanac,n,,,Thurner (BTC),,"calendars (Colombian Art Works, Inc.)",,,,,,,,,,,,,,
+Calneva,both,LL,yes,n,California,n,Nevada,n,,,Thurner (NOL),,a name given to one of three locations on the California-Nevada border where railroads crossed in the mid-19th century,,,,,,,,,,,,,,
+Calvada,both,LR,yes,n,California,n,Nevada,n,,,Thurner (NOL),,a name given to one of three locations on the California-Nevada border where railroads crossed in the mid-19th century,,,,,,,,,,,,,,
+camelcade,2,WR,no,n,camel,n,cavalcade,n,,,Thurner (AL),,"a procession of camels, as in a caravan",-1,,1,1,0,0,0.5,5,1,0,8,0.875,1,0
+camelry,2,WR,no,n,camel,n,cavalry,n,,,Thurner (WE),,a contingent of troops mounted on camels,-1,,1,1,0,0,0.5,5,1,0,7,0.857142857,1,0
+camerabatics,2,WR,no,n,camera,n,acrobatics,n,,,Thurner (BAI),,unorthodox activities or behavior involving the use of a camera,-1,,0.5,1,0.5,1,0.5,5,1,0,10,0.8,2,0
+Cameralarm,2,WW,yes,n,camera,n,alarm,n,,,Thurner (TND),KS,"gadget bag with built-in alarm (Spiratone, Inc.)",,,,,,,,,,,,,,
+camerantics,2,WR,no,n,camera,n,antics,n,,,Thurner (BAI),,unorthodox activities or behavior involving the use of a camera,1,,0.5,1,0.5,1,0.5,5,0.8,1,6,1,0,1
+camerature,2,WR,no,n,camera,n,caricature,n,,,Thurner (WO),,a distorted photographic portrait,-1,,1,1,0,0,0.5,5,1,0,8,0.5,4,0
+Camford,both,LR,no,n,Cambridge,n,Oxford,n,,,Thurner,,a collective term for the English universities of Oxford and Cambridge,0,,1,1,0,1,1,7,0.428571429,4,6,0.666666667,2,1
+camouflanguage,2,WR,no,n,camouflage,n,language,n,,,Thurner (AM),,language which is intended to deceive or in some way to disguise the truth,1,,0.5,0.5,0,0,0.5,8,0.75,2,7,1,0,1
+camporee,2,WR,no,n,camp,n,jamboree,n,,,Thurner (WE),,a gathering of boy scouts or girl scouts for the purpose of holding contests or exhibitions of scoutcraft,-2,,1,1,0,0,0.5,4,1,0,7,0.714285714,2,0
+Campusport,2,WW,yes,n,campus,n,sport,n,,,Thurner (BTC),KS,sportswear (Campus Sportswear Co.),,,,,,,,,,,,,,
+Canadarm,2,WW,yes,n,Canada,n,arm,n,,,Thurner (BDC),KS,a remote-controlled device which was built in Canada for use on the American space shuttle to manipulate cargo in space,,,,,,,,,,,,,,
+Canalaska,both,LW,yes,n,Canada,n,Alaska,n,,,Thurner (NA),,the name of a mountain situated on the border of Alaska and Canada,,,,,,,,,,,,,,
+candelabracadabra,2,WW,no,n,candelabra,n,abracadabra,expr,,,Thurner (TM),,"literally, the ""magic of candlelight""; the means by which candles are used to create distinctive moods or decorative effects",-1,,0.5,1,0.5,1,0,10,1,0,11,1,0,0
+Candelicious,1,WW,yes,n,candy,n,delicious,adj,,,Thurner (BTC),KS,candy (Warner-Lambert Co.),,,,,,,,,,,,,,
+canogganing,2,LR,no,n,canoe,n,tobogganing,n,,,Thurner (WO),,a winter sport in which one or more persons slide downhill by riding a canoe instead of a toboggan,-2,,1,1,0,0,1,4,0.75,1,9,0.777777778,2,1
+canoodle,2,LR,no,v,canoe,n,paddle,v,,,Thurner (BL),,the act of paddling a canoe,0,,1,1,0,0,0.5,4,1,0,5,0.6,2,0
+Canvaseal,2,WW,yes,n,canvas,n,seal,n,,,Thurner (BTC),KS,"canvas waterproofing coating (Everseal Mfg. Co., Inc.)",,,,,,,,,,,,,,
+Canvaskin,2,WW,yes,n,canvas,n,skin,n,,,Thurner (BTC),KS,canvas textured paper (Bee Paper Co.),,,,,,,,,,,,,,
+caplet,both,LR,no,n,capsule,n,tablet,n,,,Thurner (BAR),,a coated medicine tablet in the shape of a capsule,0,,1,1,0,1,1,6,0.666666667,2,6,0.666666667,2,0
+caraburger,2,LW,no,n,carabao,n,burger,n,,,Thurner (LWW),,"ground meat derived from the carabao, a species of water buffalo native to the Philippines",1,,1,1,0,0,0.5,6,0.833333333,1,4,1,0,1
+carbecue,2,WR,no,n,car,n,barbecue,n,,,Thurner (OWW),,a room-sized oven which is designed to melt away the unsalvageable components of an automobile while it revolves on a large spit,-2,,1,1,0,0,0.5,3,1,0,8,0.875,1,0
+Carboloy,2,LR,yes,n,carbon,n,alloy,n,,,Thurner (WE),KS,"trademark for a hard metallic substance produced through powder metallurgy, consisting primarily of cemented carbide of tungsten, with cobalt or nickel as a binder",,,,,,,,,,,,,,
+carcinomenclature,2,LW,no,n,carcinoma,n,nomenclature,n,,,Thurner (WAW),sw1 - KS,a derisive name for government gobbledygook.,0,,1,1,0,0,0,9,1,0,10,1,0,0
+Cargoyle,1,WR,yes,n,car,n,gargoyle,n,,,Thurner (BTC),KS,"toy vehicles (Mattel, Inc.)",,,,,,,,,,,,,,
+carideer,both,LR,no,n,caribou,n,reindeer,n,,,Thurner (WE),,a hybrid of the caribou and reindeer,1,,1,0,1,1,1,6,0.666666667,2,6,0.666666667,2,0
+carnibbleous,matrix,embed,no,adj,carnivorous,adj,nibble,n,,,Thurner (BL),,carnivorous,,,,,,,,,,,,,,
+carnivoracity,2,LW,no,n,carnivorous,adj,voracity,n,,,Thurner (OED),,an acute appetite for flesh,0,,0.5,1,0.5,1,0.5,9,0.888888889,1,7,1,0,1
+Carpentree,1,orth,yes,n,carpentry,n,tree,n,,,Thurner (BTC),KS,"framed pictures and prints (Carpentree, Inc.)",,,,,,,,,,,,,,
+Carroushelf,2,LW,yes,n,carousel,n,shelf,n,,,Thurner (BTC),KS,"lazy susans (Lescoa, Inc.)",,,,,,,,,,,,,,
+cassingle,both,LW,no,n,cassette,n,single,n,,,Thurner (BAR),,"a tape cassette consisting of only one or two recorded songs, marketed to take the place of ""single"" 45 rpm records",0,,1,1,0,1,0.5,5,0.6,2,6,1,0,1
+catapunch,2,LW,no,n,catapult,n,punch,n,,,Thurner,,a spring-activated center punch which can be used to stamp or pierce metal without employing a hammer,2,,1,0.5,0.5,0,0.5,8,0.75,2,4,1,0,1
+catazine,both,LR,no,n,catalog,n,magazine,n,,,Thurner (BNW),,a sales catalog which also features some editorial content,0,,0.5,0,0.5,1,1,7,0.571428571,3,7,0.714285714,2,1
+cattalo,both,WR,no,n,cattle,n,buffalo,n,,,Thurner (FO),,"a meat animal that has been bred in the United States since the 1880s, produced by crossing a female polled Angus with a male American bison",-1,,1,1,0,1,0.5,5,1,0,6,0.5,3,0
+Catviar,2,WR,yes,n,cat,n,caviar,n,,,Thurner (BTC),KS,cat food (Ralston Purina Co.),,,,,,,,,,,,,,
+Cedaroma,both,WW,yes,n,cedar,n,aroma,n,,,Thurner (TND),KS,"red-cedar gifts and accessories (Blair Cedar & Novelty Works, Inc.)",,,,,,,,,,,,,,
+celebutante,both,LR,no,n,celebrity,n,debutante,n,,,Thurner (BDC),,a young woman who becomes a celebrity upon her first appearance in society; someone who seeks the limelight by associating with celebrities,1,,1,1,0,1,1,9,0.666666667,3,9,0.888888889,1,1
+cellophane,both,LR,no,n,cellulose,n,diaphane,n,,,Thurner (WSC),,"transparent sheets of material composed primarily of cellulose and diaphane, widely used in various types of product packaging",0,,1,1,0,1,1,8,0.5,4,6,0.5,3,0
+celtuse,both,LR,no,n,celery,n,lettuce,n,,,Thurner (WE),,"a celery-like vegetable derived from a variety of lettuce, with thick, succulent stems and unpalatable leaves",1,,1,1,0,1,1,5,0.6,2,5,0.8,1,1
+Cemestos,both,LR,yes,n,cement,n,asbestos,n,,,Thurner (AS),KS,"trade name for a wall panel made of fiberboard with asbestos cement facings, used exensively during the post-war building boom in the United States in the construction of prefabricated homes",,,,,,,,,,,,,,
+censcissor,both,LW,no,v,censor,v,scissor,v,,,Thurner (PBW),,the excising of morally objectional material from a written work,0,,0.5,1,0.5,0,0,5,1,0,4,1,0,0
+Centrahoma,2,LR,yes,n,central,adj,Oklahoma,n,,,Thurner (NOL),,the name of a city in central Oklahoma,,,,,,,,,,,,,,
+Centralia,2,LR,yes,n,central,adj,Australia,n,,,Thurner (OED),,a name given to the remote central region of the Australian continent,,,,,,,,,,,,,,
+ceramagnet,2,LW,no,n,ceramic,n,magnet,n,,,Thurner (DST),,a magnet that is a composite of metallic and ceramic materials,1,,0,1,1,1,0.5,6,0.666666667,2,6,1,0,1
+ceramal,both,LL,no,n,ceramic,n,alloy,n,,,Thurner (OED),,"a combination of ceramic materials and metal alloys, resulting in a substance noted for its resistance to high temperatures",,,,,,,,,,,,,,
+cermet,both,LL,no,n,ceramic,n,metal,n,,,Thurner (OED),,"a combination of ceramic materials and metal alloys, resulting in a substance noted for its resistance to high temperatures",,,,,,,,,,,,,,
+chaffinch,2,WW,no,n,chaff,n,finch,n,,,Thurner (OED),,"a species of finch, named for its habit of scratching for food among threshed or winnowed husks of grain",0,,1,0.5,0.5,0,0,3,1,0,4,1,0,0
+chairborne,2,WR,no,adj,chair,n,airborne,adj,,,Thurner (LWW),,the status of Air Force officers who were assigned to desk jobs instead of flying combat missions during World War II,-1,,1,1,0,0,0,3,1,0,6,1,0,0
+chairoplane,1,WW,no,n,chair,n,aeroplane,n,,,Thurner (WE),,an amusement park ride consisting of a revolving wheel with seats hanging on chains so that they swing out when the wheel is revolved,-2,,1,1,0,1,0,3,1,0,7,1,0,0
+Charaids,2,orth,yes,n,charades,n,aids,n,,,Thurner (BTC),KS,"preselected titles for charades (Learning Things, Inc.)",,,,,,,,,,,,,,
+charitarian,2,LR,no,n,charity,n,humanitarian,n,,,Thurner (WE),,a person who devotes a large amount of time and energy to charitable activities,-3,,0.5,1,0.5,1,0.5,6,1,0,13,0.461538462,7,0
+Charmaternity,2,WW,yes,n,charm,n,maternity,n,,,Thurner (BTC),KS,"nursing and maternity bras (Charma, Inc.)",,,,,,,,,,,,,,
+Charmour,2,WW,yes,n,charm,n,armor,n,,,Thurner (BTC),KS,"bras and girdles (Charma, Inc.)",,,,,,,,,,,,,,
+chastigate,both,LR,no,v,chastise,v,castigate,v,,,Thurner (SSS),,to correct by rebuke or admonishment,-1,,1,1,0,1,1,6,0.666666667,2,8,0.875,1,1
+Cheeslicers,both,WW,yes,n,cheese,n,slicers,n,,,Thurner (BTC),KS,"cheese slicers (C.J. Schneider Mfg. Co., Inc.)",,,,,,,,,,,,,,
+chemagination,2,LR,no,n,chemistry,n,imagination,n,,,Thurner (BAI),,the imaginative use of chemicals in the research and development of new products,-2,,0,1,1,1,1,8,0.5,4,10,0.9,1,1
+chemiloon,both,LR,no,n,chemise,n,pantaloon,n,,,Thurner (AET),,"a woman's undergarment that resembles a pants slip, advocated as an alternative to rigid stays and corsets by 19th century American physician and feminist Mary Walker",-1,,0,0,0,1,1,5,0.6,2,8,0.5,4,0
+chemiluminescence,2,LW,no,n,chemical,adj,luminescence,n,,,Thurner (DST),,"the emission of light as the result of a chemical reaction, with no apparent change in temperature",-1,,0.5,1,0.5,1,0.5,7,0.714285714,2,10,1,0,1
+chemonomics,2,LR,no,n,chemical,n,economics,n,,,Thurner (DNW),,the economic aspects of the chemical industry,-1,,1,1,0,0,1,7,0.714285714,2,9,0.888888889,1,1
+Chessie,2,LR,yes,n,Chesapeake,n,Nessie,n,,,Thurner (WO),,"the popular name given to a sea monster believed to live in Chesapeake Bay. The name is patterned after ""Nessie,"" a colloquial name for the Loch Ness Monster",,,,,,,,,,,,,,
+Chewels,2,WR,yes,n,chew,v,jewels,n,,,Thurner (BTC),KS,sugarless liquid-center chewing gum (American Chicle Co.),,,,,,,,,,,,,,
+Chicagorilla,2,WW,no,n,Chicago,n,gorilla,n,,,Thurner (DD),,"a name given to the mobsters who ruled Chicago by means of bribery, intimidation, and violence during the Prohibition era. Coined by Walkter Winchell",0,,0.5,1,0.5,1,0.5,6,0.833333333,1,5,1,0,1
+Chicargot,2,orth,no,n,Chicago,n,argot,n,,,Thurner (DS),,the British term for a style of speech characterized by an overabundance of American slang,,,,,,,,,,,,,,
+chizzly,both,LR,no,adj,chilly,adj,drizzly,adj,,,Thurner (FW),,"uncomfortably wet, cold weather",0,,1,1,0,1,0.5,4,1,0,6,0.666666667,2,0
+Chocolips,2,LR,yes,n,chocolate,n,chips,n,,,Thurner (BTC),KS,chocolate-covered potato chips (U.S. Chocolate),,,,,,,,,,,,,,
+Chromonica,2,WR,yes,n,chrome,n,harmonica,n,,,Thurner (BTC),KS,harmonicas (H.S.S. Hohner),,,,,,,,,,,,,,
+Chudge,both,LR,yes,n,cheese,n,fudge,n,,,Thurner (TND),,"cheese fudge (Original Herkimer County Cheese Co., Inc.)",,,,,,,,,,,,,,
+Chunnel,2,LR,no,n,channel,n,tunnel,n,,,Thurner (DWP),,"a railroad tunnel beneath the English Channel, linking England with France",0,,1,1,0,0,1,5,0.8,1,5,0.8,1,0
+chuppie,both,LR,no,n,Chicano,n,yuppie,n,,,Thurner (SL),,an upwardly mobile person of Hispanic descent,1,,0,1,1,0,1,6,0.166666667,5,4,0.75,1,1
+churchianity,2,WR,no,n,church,n,Christianity,n,,,Thurner (WE),,excessive devotion to a particular church,-4,,0.5,1,0.5,1,0.5,3,1,0,11,0.636363636,4,0
+churkey,both,LR,no,n,chicken,n,turkey,n,,,Thurner (OED),,a hypothetical hybrid resulting from the cross-breeding of a chicken and a turkey,0,,1,1,0,1,1,5,0.4,3,4,0.75,1,1
+cigaroot,both,LR,no,n,cigarette,n,cheroot,n,,,Thurner (DAS),,a slang word for a cigarette,1,,1,1,0,1,1,6,0.833333333,1,4,0.75,1,0
+cinemactor,2,WW,no,n,cinema,n,actor,n,,,Thurner (DNW),,"a movie actor. Normally used when describing an actor appearing exclusively in films, with little or no experience on the stage",1,,0.5,1,0.5,1,0.5,6,0.833333333,1,4,1,0,1
+cinemactress,2,WW,no,n,cinema,n,actress,n,,,Thurner (DNW),,"a movie actress. Normally used when describing an actress appearing exclusively in films, with little or no experience on the stage",1,,0.5,1,0.5,1,0,6,1,0,6,1,0,0
+cinemaddict,2,WW,no,n,cinema,n,addict,n,,,Thurner (DNW),,a person who habitually goes to see motion pictures,1,,0.5,1,0.5,1,0.5,6,0.833333333,1,5,1,0,1
+cinemagpie,2,WW,no,n,cinema,n,magpie,n,,,Thurner (BAI),,a film actor or actress whose performance is characterized by excessive talk,1,,0.5,1,0.5,1,0.5,6,0.833333333,1,5,1,0,1
+cinemalefactor,2,WW,no,n,cinema,n,malefactor,n,,,Thurner (TM),,a motion picture villain,-1,,0.5,1,0.5,1,0,6,1,0,9,1,0,0
+cinemammoth,2,WW,no,n,cinema,n,mammoth,n,,,Thurner (BAI),,"an elaborately produced, extremely expensive motion picture",1,,0.5,1,0.5,1,0,6,1,0,5,1,0,0
+cinemaniac,2,LW,no,n,cinema,n,maniac,n,,,Thurner (DNW),,a person obsessed with motion pictures or motion picture celebrities,0,,0.5,1,0.5,1,0.5,6,0.833333333,1,6,1,0,1
+cinemenace,2,LW,no,n,cinema,n,menace,n,,,Thurner (BAI),,a movie villain,1,,0.5,1,0.5,1,0,6,1,0,5,1,0,0
+cinemogul,2,LW,no,n,cinema,n,mogul,n,,,Thurner (NWE),,"a powerful person in the movie industr, particularly a producer at a major movie studio",1,,0.5,1,0.5,1,0,6,1,0,5,1,0,0
+Cinnamint,both,LW,yes,n,cinnamon,n,mint,n,,,Thurner (BTC),KS,chewing gum (Clark Gum Co.),,,,,,,,,,,,,,
+citrange,2,LR,no,n,citrus,n,orange,n,,,Thurner (FO),,"a hybrid variety of orange, produced by cross-breeding a hardytrifoliate orange with a common sweet orange. The result is a highly aromatic fruit, somewhat bitter to the taste",0,,1,1,0,0,1,6,0.833333333,1,5,0.8,1,0
+citrangequat,both,WR,no,n,citrange,n,kumquat,n,,,Thurner (we,,"a citrus fruit which is the hybrid of a citrange and a kumquat, resulting in a small, acidic, limelike fruit",0,,1,0,1,1,0.5,7,1,0,7,0.714285714,2,0
+Citruslim,2,WW,yes,v,citrus,n,slim,v,,,Thurner (TND),KS,an appetite suppressant (Source Naturals),,,,,,,,,,,,,,
+clacket,both,LR,no,n,clatter,n,racket,n,,,Thurner (OED),,"to ""clack"" or make noise like a hen; to chatter",0,,1,1,0,1,1,5,0.8,1,5,0.8,1,0
+Clamato,both,WR,yes,n,clam,n,tomato,n,,,Thurner (BTC),KS,clam and tomato juice (Motts USA),,,,,,,,,,,,,,
+clamburger,2,WR,no,n,clam,n,hamburger,n,,,Thurner (AL),,a hamburger patty containing ground or chopped clams,-2,,1,1,0,0,0.5,4,1,0,7,0.857142857,1,0
+clantastical,both,LR,no,adj,clandestine,adj,fantastical,adj,,,Thurner (BL),,pertaining to a hidden or imaginary phenomenon,-1,,1,1,0,1,1,10,0.7,3,11,0.909090909,1,1
+clavicylinder,both,LW,no,n,clavichord,n,cylinder,n,,,Thurner (MI),,"a friction bar instrument in the shape of a square piano, invented in 1799. Clavicylinder music is produced by depressing keys on a keyboard, causing bars of graduated lengths to press against a wet glass cylinder rotated by a foot treadle",0,,0.5,1,0.5,0,0.5,9,0.666666667,3,7,1,0,1
+claviola,both,LW,no,n,clavichord,n,viola,n,,,Thurner (MI),,"a keyboard instrument in the shape of an upright piano, featuring metal strings sounded by a continuous bow",0,,1,1,0,1,0.5,9,0.555555556,4,5,1,0,1
+Cleanamel,2,WR,yes,n,clean,adj,enamel,n,,,Thurner (BTC),KS,"enamel cleaner (J.N.T. Mfg. Co., Inc.)",,,,,,,,,,,,,,
+clevertivity,2,WR,no,n,clever,adj,creativity,n,,,Thurner,,a tendency to be creative in a clever sort of way,-3,,0.5,1,0.5,1,0.5,5,1,0,10,0.7,3,0
+climatype,2,WW,no,n,climate,n,type,n,,,Thurner (WE),,a variety of plant or animal life which occurs as a distinct species because of the effects of climate or other environmental factors,1,,1,0.5,0.5,0,0,6,1,0,3,1,0,0
+clinicar,both,WL,no,n,clinic,n,car,n,,,Thurner (DNW),,a vehicle specially equipped and staffed to provide medical treatment in remote areas,1,,1,0.5,0.5,1,0,6,1,0,3,1,0,0
+coastel,2,WR,no,n,coast,n,hotel,n,,,Thurner (BDC),,a barge or floating barracks equipped with sleeping accommodations and moored near a coast to provide convenient off-shore lodgings,-1,,0.5,1,0.5,1,0.5,4,1,0,5,0.8,1,0
+Coca-Colonialism,2,LW,no,n,Coca-Cola,n,colonialism,n,,,Thurner (SE),,incorporation of American product and trademark names into a foreign language,-2,,0,1,1,1,0,8,1,0,12,1,0,0
+cockapoo,both,LL,no,n,cocker spaniel,n,poodle,n,,,Thurner (WES),,a hybrid of the cocker spaniel and poodle,,,,,,,,,,,,,,
+cocomat,2,LW,no,n,coconut,n,mat,n,,,Thurner (WE),,matting made of coconut fiber,2,,1,0.5,0.5,0,0.5,7,0.714285714,2,3,1,0,1
+Cointainer,2,WR,yes,n,coin,n,container,n,,,Thurner (BTC),KS,coin holders and wrappers (Data-Link Corp.),,,,,,,,,,,,,,
+Colorinse,2,WW,yes,n,color,n,rinse,n,,,Thurner (BTC),KS,hair-care products (The Neslemur Co.),,,,,,,,,,,,,,
+coloroto,2,WW,no,n,color,adj,roto,n,,,Thurner (WE),,a rotogravure image that is printed in more than one color,0,,0.5,1,0.5,1,0.5,4,1,0,4,0.75,1,0
+Comfitables,both,embed,yes,n,comfortables,n,fit,v,,,Thurner (BTC),KS,men's underwear (Hanes Hosiery),,,,,,,,,,,,,,
+commershills,1,orth,no,n,commercials,n,shills,n,,,Thurner (WW),,"personal appearances by celebrities in television commercials, selling products the celebrities may or may not actually use",,,,,,,,,,,,,,
+Communicards,2,LW,yes,n,communication,n,cards,n,,,Thurner (BTC),KS,"language materials (Communication Skill Builders, Inc.)",,,,,,,,,,,,,,
+communiversity,2,WW,no,n,commune,v,university,n,,,Thurner (OWW),,a university organize and managed according to the egalitarian standards of a commune,-3,,0.5,1,0.5,1,0,6,1,0,10,1,0,0
+commyrot,2,WR,no,n,commie,n,tommyrot,n,,,Thurner (DA),,a derisive name for communist ideology or propaganda,-1,,1,1,0,0,0.5,4,1,0,7,0.857142857,1,0
+compander,both,LR,no,n,compressor,n,expander,n,,,Thurner (BNE),,"a device which compresses transmission signals as they are sent, and also expands them upon reception",0,,1,1,0,1,1,8,0.625,3,8,0.75,2,1
+compossible,both,LW,no,adj,compatible,adj,possible,adj,,,Thurner (TGP),,"a social or political condition in which coexistence between opposing groups is possible. An arrangement of this kind may not represent complete harmony, but it does at least allow a measure of tolerance among the parties involved",1,,1,1,0,1,0.5,10,0.8,2,7,1,0,1
+compregnate,both,LR,no,v,compress,v,impregnate,v,,,Thurner (WE),,"to use heat in compressing thin sheets of wood impregnated with resins or chemical compounds into a dense, hard substance",-1,,1,1,0,1,1,7,0.857142857,1,9,0.888888889,1,1
+compunications,2,LR,no,n,computer,n,communications,n,,,Thurner (BDC),,a communications system operated by or dependent upon computers,-2,,0.5,1,0.5,1,0.5,8,0.75,2,13,1,0,1
+computeracy,2,WR,no,n,computer,n,literacy,n,,,Thurner (OED),,"knowledge of or experience with computers; the state of being ""computerate""",-1,,1,1,0,0,0.5,8,1,0,7,0.714285714,2,0
+computerate,2,WR,no,adj,computer,n,literate,adj,,,Thurner (OED),,having knowledge of or experience with computers,0,,1,1,0,0,0.5,8,1,0,6,0.666666667,2,0
+comrogue,both,LW,no,n,comrade,n,rogue,n,,,Thurner (BL),,a companion in roguery,1,,1,0.5,0.5,1,0.5,6,0.666666667,2,3,1,0,1
+conceptacle,2,LR,no,n,conception,n,receptacle,n,,,Thurner (DST),,"any body cavity shaped like a flask, with a pore opening to the outside, and containing reproductive structures",-1,,1,1,0,0,1,9,0.777777778,2,10,0.9,1,1
+conclusory,2,LR,no,adj,conclusion,n,illusory,adj,,,Thurner (FW),,"a decision, opinion, or judgment which appears to be based on facts, but actually is not",-1,,1,1,0,0,1,9,0.666666667,3,6,0.833333333,1,1
+concubub,both,LR,no,n,concubine,n,bub,n,,,Thurner (WW),,"a slang term utilizing ""bub,"" in informal form of male address, to create a masculine version of the word ""concubine."" Concubub is used to designate the male half of a couple living together out of wedlock",2,,1,0.5,0.5,1,0.5,9,0.777777778,2,3,1,0,1
+condomarinium,matrix,embed,no,n,condominium,n,marina,n,,,Thurner (DA),,a condominium complex where the residents are provided access to a boat marina,,,,,,,,,,,,,,
+condorminium,2,WR,no,n,condor,n,condominium,n,,,Thurner (TM),,"the popular name given to a specially designed aviary at the San Diego Wild Animal Park, where rare California condors are cared for and bred",-3,,0.5,1,0.5,1,0.5,5,1,0,11,0.909090909,1,0
+condotel,2,WR,no,n,condo,n,hotel,n,,,Thurner,,a hotel offering suites for purhcase under terms similar to that of a condominium,0,,0.5,1,0.5,1,0.5,5,1,0,5,0.8,1,0
+confectionate,2,WR,no,adj,confection,n,affectionate,adj,,,Thurner (FW),,sweetly affectionate,-1,,1,1,0,0,0,9,1,0,9,1,0,0
+congloperator,2,LW,no,n,conglomerate,n,operator,n,,,Thurner (TGP),,a derisive name given to the chief executive of a multinational corporation when that person is distinguished by his lack of competence,0,,1,1,0,0,0.5,10,0.8,2,6,1,0,1
+consloperator,2,LWW,no,n,conglomerate,n,slop,n,operator,n,Thurner (TGP),KS,a derisive name given to the chief executive of a multinational corporation when that person is distinguished by his lack of competence,,,,,,,,,,,,,,
+copelessness,2,WR,no,n,cope,v,hopelessness,n,,,Thurner (DNW),,a psychological condition characterized by a sense of helplessness and an inability to cope with life,-2,,1,1,0,0,0.5,3,1,0,9,0.888888889,1,0
+Cornfetti,both,WR,yes,n,corn,n,confetti,n,,,Thurner (BTC),KS,"popcorn (National Oats Co., Inc.)",,,,,,,,,,,,,,
+cornucopius,2,LW,no,adj,cornucopia,n,copious,adj,,,Thurner (OED),,abundant,2,,1,1,0,0,0,10,1,0,6,1,0,0
+Correctext,2,WW,yes,n,correct,adj,text,n,,,Thurner (BTC),KS,computer software (Houghton Mifflin Co.),,,,,,,,,,,,,,
+correctify,both,WW,no,v,correct,v,rectify,v,,,Thurner (OED),,to correct,-1,,1,1,0,1,0.5,5,1,0,7,0.857142857,1,0
+corruppie,2,LR,no,n,corrupt,adj,yuppie,n,,,Thurner (NW),,an ambitious yuppie who would abandon any standard of moral behavior to achieve success,0,,1,1,0,0,1,5,0.8,1,4,0.75,1,0
+cosmoceutical,both,LR,no,adj,cosmetic,adj,pharmaceutical,adj,,,Thurner (NWD),,a cosmetic prescribed by doctors to help improve the health and appearance of a patient's skin,-2,,0,1,1,0,1,8,0.875,1,12,0.833333333,2,0
+Costumakers,2,WW,yes,n,costume,n,makers,n,,,Thurner (BTC),KS,"craft products (Blumenthal & Co., Inc.)",,,,,,,,,,,,,,
+costumary,2,WR,no,adj,costume,n,customary,adj,,,Thurner (OED),,of or belonging to a costume,-2,,1,1,0,0,0.5,6,1,0,9,0.777777778,2,0
+craisin,2,LW,no,n,cranberry,n,raisin,n,,,Thurner,,"a cranberry which has been dried and sweetened for use in breakfast cereals, or as a snack food",1,,1,1,0,0,0.5,8,0.375,5,5,1,0,1
+crant,2,LR,no,n,cover,n,grant,n,,,Thurner (JA),,a government grant awarded to a private group under a fake project title so that the money can eventually be used as funding for covert intelligence operations,1,,1,1,0,0,1,4,0.25,3,5,0.8,1,1
+Crantastic,2,LR,yes,adj,cranberry,n,fantastic,adj,,,Thurner (BTC),KS,"cranberry juice drink (Ocean Spray Cranberries, Inc.)",,,,,,,,,,,,,,
+Crawligator,2,WR,yes,n,crawl,v,alligator,n,,,Thurner (BTC),KS,an infant's toy (Creative Playthings),,,,,,,,,,,,,,
+Creamassage,1,WW,yes,n,cream,n,massage,n/v,,,Thurner (BTC),KS,body rub (Stanlabs Pharmaceuticals Co.),,,,,,,,,,,,,,
+Creamedic,1,WW,yes,n,cream,n,medic,n,,,Thurner (BTC),KS,antiseptic soap (Harley Chemicals),,,,,,,,,,,,,,
+cremains,2,LW,no,n,cremation,n,remains,n,,,Thurner (WE),,human ashes; the residue that is left after a cremation,1,,1,1,0,0,0.5,8,0.75,2,6,1,0,1
+cricketiquette,2,WW,no,n,cricket,n,etiquette,n,,,Thurner (TM),,traditional rules of conduct regulating behavior while attending or participating in a cricket match,-1,,0.5,1,0.5,1,0,6,1,0,6,1,0,0
+Crinkelastic,2,WW,yes,n,crinkle,n,elastic,n,,,Thurner (BTC),KS,"knit goods (Jantzen, Inc.)",,,,,,,,,,,,,,
+criticular,both,LR,no,adj,critical,adj,particular,adj,,,Thurner (BL),,selective; discriminating,-1,,0,1,1,0,0.5,8,1,0,9,0.777777778,2,0
+croissandwich,2,LW,no,n,croissant,n,sandwich,n,,,Thurner,,a sandwich made by stuffing slices of meat or other filling into a croissant,0,,1,1,0,0,0.5,7,0.714285714,2,7,1,0,1
+crough,both,LR,no,n,crest,n,trough,n,,,Thurner (MBN),,a point midway between the crest and the trough of a wave,0,,1,1,0,1,1,5,0.4,3,4,0.25,3,0
+cruical,both,LR,no,adj,crucial,adj,critical,adj,,,Thurner (BL),,crucial; critical,-1,,1,1,0,1,1,6,0.833333333,1,8,0.75,2,0
+cruisine,2,LR,no,n,cruise,n,cuisine,n,,,Thurner,,the food served to passengers on a cruise ship,-1,,0.5,1,0.5,1,0.5,4,1,0,6,0.666666667,2,0
+Crunchips,2,WW,yes,n,crunch,n,chips,n,,,Thurner (BTC),KS,"snack food (Pepsico, Inc.)",,,,,,,,,,,,,,
+cubangle,2,WW,no,n,cube,n,angle,n,,,Thurner (OED),,"the solid angle of a cube, formed by three edges meeting at right angles",-1,,0.5,1,0.5,1,0,4,1,0,5,1,0,0
+cultivar,2,LL,no,n,cultivated,adj,variety,n,,,Thurner (WE),,an organism resulting from cultivation; a cultivated variety,,,,,,,,,,,,,,
+curfloozie,2,LW,no,n,curfew,n,floozie,n,,,Thurner (LWW),,"a young woman of dubious morals who exploited the wartime curfew established in American cities in 1945, ordering the closing of all places of entertainment at midnight. The ""lively social interaction"" which would occur when thousands of women and servicement were put out into the street at the same time was acknowledged by this coinage in the New York Daily News",0,,0,1,1,1,0.5,5,0.8,1,5,1,0,1
+curvessence,2,WW,no,n,curve,n,essence,n,,,Thurner (BAI),,an advertising coinage describing the flattering feminine curves which are supposed to result from the wearing of a particular garment,-1,,0,1,1,1,0,3,1,0,5,1,0,0
+daffynition,2,WR,no,n,daffy,adj,definition,n,,,Thurner (WWA),,a silly or humorous definition of a word or phrase,-2,,0.5,1,0.5,1,0.5,4,1,0,9,0.777777778,2,0
+daiquirita,both,WR,no,n,daiquiri,n,margarita,n,,,Thurner,,a daiquiri made with tequila instead of rum,-1,,0.5,1,0.5,0,0.5,5,1,0,8,0.5,4,0
+Dakoming,both,LR,no,n,Dakota,n,Wyoming,n,,,Thurner (AL),,"the region encompassing either side of the state line between Wyoming and South Dakota, including the Black Hills",0,,1,1,0,1,1,6,0.666666667,2,6,0.666666667,2,0
+dancercise,both,WR,no,n,dance,n,exercise,n,,,Thurner (NWD),,"a form of conditioning exercise involving rhythmic dancing to music, usually performed in a group",-2,,1,1,0,1,0.5,4,1,0,7,0.714285714,2,0
+dastardice,2,WR,no,n,dastard,n,cowardice,n,,,Thurner (BL),,cowardice. Coined by English novelist Samuel Richardson,-1,,1,1,0,0,0.5,6,1,0,6,0.666666667,2,0
+datamation,2,WR,no,n,data,n,automation,n,,,Thurner (JA),,"the technique of automated data storage, retrieval, and transfer",-2,,0.5,1,0.5,1,0.5,4,1,0,8,0.875,1,0
+dawk,both,LR,no,n,dove,n,hawk,n,,,Thurner (BNW),,"a blend word popular during the Vietnam War, when it was used to describe persons who would not take a position either supporting or opposing the war",0,,1,1,0,1,1,3,0.333333333,2,3,0.666666667,1,1
+debutantrum,2,LW,no,n,debutante,n,tantrum,n,,,Thurner (FW),,an outburst of bad temper by a young woman in fashionable society,1,,1,1,0,0,0.5,9,0.888888889,1,7,1,0,1
+debutramp,both,LW,no,n,debutante,n,tramp,n,,,Thurner (WW),,a young woman who seeks social status through promiscuous behavior. Coined by Walter Winchell,2,,1,1,0,1,0.5,9,0.666666667,3,5,1,0,1
+decathlete,2,LW,no,n,decathlon,n,athlete,n,,,Thurner (WES),,an athlete who compete in the decathlon,1,,1,0,1,0,0.5,8,0.75,2,5,1,0,1
+deceleron,2,LR,no,n,decelerate,v,aileron,n,,,Thurner (WE),,"a movable surface mounted on the wing of an airplane, combining the functions of an aileron and an air brake controlling the plane's speed",1,,1,1,0,0,1,8,0.75,2,5,0.8,1,1
+Decoraids,2,LW,yes,n,decorate,v,aids,n,,,Thurner (BTC),KS,decorations (Coronet Merchandise Corp.),,,,,,,,,,,,,,
+decoreographer,2,WW,no,n,decor,n,choreographer,n,,,Thurner (DNW),,the person responsible for designing or positioning scenery on a theatrical stage,-3,,0.5,1,0.5,1,0,5,1,0,10,1,0,0
+decrassify,matrix,embed,no,v,declassify,v,crass,adj,,,Thurner (TGP),,the editing of rude or objectionable material from publications such as news releases or transcripts prior to their release,,,,,,,,,,,,,,
+Defendamins,2,WR,yes,n,defend,v,vitamins,n,,,Thurner (BTC),KS,"vitamins (Nature's Way Products, Inc.)",,,,,,,,,,,,,,
+deformeter,2,LW,no,n,deform,v,meter,n,,,Thurner (WE),sw1,an instrument for measuring minute deformations in structural materials,0,,1,0.5,0.5,0,0,6,1,0,4,1,0,0
+Delicare,both,LW,yes,n,delicate,adj,care,n,,,Thurner (BTC),KS,"cold water detergent (Beecham, Inc.)",,,,,,,,,,,,,,
+Delicaseas,1,orth,yes,n,delicacies,n,seas,n,,,Thurner (BTC),KS,"prepared seafood entrees (Kiban Products International, Inc.)",,,,,,,,,,,,,,
+delushious,both,LW,no,adj,delicious,adj,luscious,adj,,,Thurner (DS),,pertaining to something that is remarkably delicious in taste,1,,1,1,0,1,0.5,7,0.714285714,2,5,1,0,1
+Democracity,2,LW,yes,n,democracy,n,city,n,,,Thurner,,"a hypothetical planned city of the future, portrayed in an elaborate scale model by background film projection and music and featured in the United States exhibition at the New York World's Fair in 1939",,,,,,,,,,,,,,
+democrapic,matrix,embed,no,adj,democratic,adj,crap,n,,,Thurner (WO),,"pertaining to a form of political hypocrisy, in whih a leader expresses earnest support for democratic principles, and yet demonstrates a complete lack of tolerance for those same principles the moment they are perceived as a threat to his political dominance",,,,,,,,,,,,,,
+demonagerie,2,WW,no,n,demon,n,menagerie,n,,,Thurner (OED),,a diverse gathering of demons,-2,,0.5,1,0.5,1,0,5,1,0,7,1,0,0
+Dependabolt,2,LW,yes,n,dependable,adj,bolt,n,,,Thurner (BTC),KS,anchor bolts (ITW Ramset/Red Head),,,,,,,,,,,,,,
+depicture,both,WW,no,v,depict,v,picture,v,,,Thurner (WE),,to depict; to imagine,0,,1,1,0,1,0.5,6,0.833333333,1,5,1,0,1
+dermabrasion,2,LW,no,n,dermal,adj,abrasion,n,,,Thurner (OED),,removal of surface layers of skin by means of an abrasive rotary tool,-1,,1,0.5,0.5,0,0.5,5,0.8,1,7,1,0,1
+Dermassage,2,LW,yes,n,dermal,adj,massage,n,,,Thurner (BTC),KS,medicated skin cream (Colgate-Palmolive Co.),,,,,,,,,,,,,,
+Deskretary,both,WR,yes,n,desk,n,secretary,n,,,Thurner (BTC),KS,"Desk calendars (Ad-A-Day Co., Inc.)",,,,,,,,,,,,,,
+detectifiction,2,LW,no,n,detective,n,fiction,n,,,Thurner (TM),,fiction dealing with the activities of criminals and criminal investigators,1,,1,0.5,0.5,0,0.5,8,0.875,1,6,1,0,1
+diesohol,both,LR,no,n,diesel,n,alcohol,n,,,Thurner (BAR),,"a mixture of diesel oil and ethyl alcohol, used as a fuel in diesel engines",-1,,1,1,0,1,0.5,5,1,0,7,0.571428571,3,0
+Dinersaurs,2,LR,yes,n,diner,n,dinosaurs,n,,,Thurner (BTC),KS,breakfast cereal (Ralston Purina Co.),,,,,,,,,,,,,,
+dingle,both,LR,no,adj,divorced,adj,single,adj,,,Thurner (WW),,"a person who has again become eligible for marriage because of a divorce, dingle being considered a more polite form of address than the term ""divorced""",0,,0,1,1,0,1,7,0.285714286,5,6,0.833333333,1,1
+Dinosnores,1,LW,yes,n,dinosaurs,n,snores,n,,,Thurner (TND),KS,"stuffed animals (Commonwealth Toy & Novelty Co., Inc.)",,,,,,,,,,,,,,
+diplonomics,2,LR,no,n,diplomacy,n,economics,n,,,Thurner (JO),,the use of economic policies to achieve diplomatic goals,0,,0,1,1,1,1,9,0.666666667,3,9,0.777777778,2,1
+disastrophe,both,LR,no,n,disaster,n,catastrophe,n,,,Thurner (BL),,a disaster of catastrophic proportions,-1,,1,1,0,1,1,7,0.857142857,1,10,0.7,3,0
+Discabinet,2,WW,yes,n,disc,n,cabinet,n,,,Thurner (BTC),KS,"record cabinets (wallach & Associates, Inc.)",,,,,,,,,,,,,,
+Disclean,2,WW,yes,v,disc,n,clean,v,,,Thurner (BTC),KS,"disc-drive cleaning system (Discwasher, Inc.)",,,,,,,,,,,,,,
+Dishtergent,2,WR,yes,n,dish,n,detergent,n,,,Thurner (BTC),KS,dishwashing detergent (Harley Chemicals),,,,,,,,,,,,,,
+Dixican,2,WR,no,n,Dixie,n,Republican,n,,,Thurner (BNW),,a member of the Republican Party from one of the southern states,-2,,1,1,0,0,0.5,5,1,0,10,0.4,6,0
+Dixiecrats,2,WR,no,n,Dixie,n,Democrats,n,,,Thurner (WE),,one of a group of southern Democrats who abandoned the Democratic Party when it chose to advocate civil rights legislation during the presidential campaign of 1948,-1,,1,1,0,0,0.5,5,1,0,9,0.666666667,3,0
+docutainment,both,LR,no,n,documentary,n,entertainment,n,,,Thurner (BDC),,a television program presenting factual information in a dramatic or theatrical manner,1,,1,1,0,1,1,11,0.727272727,3,11,0.636363636,4,0
+Dogloo,2,WR,yes,n,dog,n,igloo,n,,,Thurner (BTC),KS,pet shelters (Igloo Dog Homes),,,,,,,,,,,,,,
+doitrified,both,LR,no,adj,doited,adj,petrified,adj,,,Thurner (WE),,"dazed to the point of immobility. Doited is a Scottish dialect word, meaning confused",-1,,1,1,0,1,1,5,0.8,1,8,0.75,2,0
+dolfan,2,LW,no,n,Dolphin,n,fan,n,,,Thurner,,a fan of the Miami Dophins football team,1,,1,0.5,0.5,0,0.5,6,0.833333333,1,3,1,0,1
+Domebrella,2,WR,yes,n,dome,n,umbrella,n,,,Thurner (BTC),KS,umbrellas (Domebrella),,,,,,,,,,,,,,
+donkophant,both,LR,no,n,donkey,n,elephant,n,,,Thurner (BL),,"a name coined by political cartoonists to describe an animal which is a cross between a donkey, representing the Democratic Party, and an elephant, the symbol of the Republican Party. In 1911, when the word was first used, the two parties held positions that were virtually the same regarding many national issues",-1,,1,1,0,1,1,5,0.8,1,7,0.714285714,2,0
+dorgi,both,LR,no,n,dachshund,n,corgi,n,,,Thurner (FW),,the offspring of a dachshund and a corgi,0,,1,1,0,1,1,8,0.125,7,5,0.8,1,1
+dormantory,2,WR,no,n,dormant,adj,dormitory,n,,,Thurner,,a place where bodies are kept in cold storage; a morgue,-2,,1,1,0,0,0,7,1,0,9,1,0,0
+Dorsian,both,LR,yes,n,Dorset,n,Persian,n,,,Thurner (WE),,a hybrid of the Dorset Horn and Persian sheep,,,,,,,,,,,,,,
+doubleton,2,WR,no,n,double,adj,singleton,n,,,Thurner (OED),,"in card games such as whist or bridge, when two cards of one suit are in a player's hand",-1,,1,1,0,0,0.5,5,1,0,9,0.555555556,4,0
+Drainzyme,2,WR,yes,n,drain,v,enzyme,n,,,Thurner (BTC),KS,bacteria booster (Jancyn Mfg. Corp.),,,,,,,,,,,,,,
+dramassassin,2,WW,no,n,drama,n,assassin,n,,,Thurner (BAI),,a theater critic notorious for a tendency to write harshly critical reviews,-1,,0.5,1,0.5,1,0,5,1,0,6,1,0,0
+dramedy,both,WR,no,n,drama,n,comedy,n,,,Thurner,,"a film, play or television production combining the elements of a drama and a comedy",-1,,1,1,0,1,0.5,5,1,0,6,0.833333333,1,0
+drismal,2,LR,no,adj,drizzle,n,dismal,adj,,,Thurner (TGP),,"pertaining to an extended period of rainy weather, so relentlessly gloomy that it becomes psychologically debilitating",0,,1,1,0,0,0,6,1,0,6,1,0,0
+drizzerable,2,LR,no,adj,drizzle,n,miserable,adj,,,Thurner (DS),,a characteristic of weather that is unpleasantly damp and uncomfortable,-2,,1,1,0,0,0.5,6,1,0,8,0.875,1,0
+droppie,2,LR,no,n,dropout,n,yuppie,n,,,Thurner (NW),,a yuppie who drops out of the competition of professional life to seek an alternative lifestyle,0,,1,1,0,0,1,6,0.666666667,2,4,0.5,2,0
+drunch,2,LR,no,n,drinks,n,lunch,n,,,Thurner (SOL),,"a lunch consisting mostly of alcoholic drinks, a coinage attributed to Tallulah Bankhead",0,,1,1,0,0,1,6,0.333333333,4,4,0.75,1,1
+Druriolanus,1,WR,yes,n,Drury,n,Coriolanus,n,,,Thurner (DS),,"a theatrical nickname for the Drury Lane Theatre in London, with reference to Shakespeare's play Coriolanus",,,,,,,,,,,,,,
+Drynamite,2,WR,yes,n,dry,n,dynamite,n,,,Thurner (BTC),KS,"sump pumps (Goulds Pumps, Inc.)",,,,,,,,,,,,,,
+Dualastic,2,WR,yes,n,dual,adj,elastic,n,,,Thurner (BTC),KS,elastic hosiery (Bell-Horn),,,,,,,,,,,,,,
+Dulcitar,2,WR,yes,n,dulcet,adj,sitar,n,,,Thurner (BTC),KS,stringed instruments (Ledfords Musical Instruments),,,,,,,,,,,,,,
+dumbfound,2,WR,no,v,dumb,adj,confound,v,,,Thurner (WE),,to strike dumb; to amaze,-1,,1,0,1,0,0.5,3,1,0,7,0.571428571,3,0
+dumbfusion,2,WR,no,n,dumb,adj,confusion,n,,,Thurner (OE),,a state of confused stupidity,-2,,0.5,1,0.5,1,0.5,3,1,0,9,0.777777778,2,0
+dunch,both,LR,no,n,dinner,n,lunch,n,,,Thurner (DS),,the practice of eating a complete dinner at lunchtime; an afternoon meal which functions as both lunch and dinner,1,,1,1,0,1,1,4,0.5,2,4,0.75,1,1
+dungalow,2,WR,no,n,dung,n,bungalow,n,,,Thurner (TM),,"a derisive name for the functional but nondescript California bungalow, a word used primarily by Southern California real estate developers who demolished many such modest homes during the building boom of the 1980s to make way for sprawling luxury estates",-2,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+Durablend,2,LW,yes,n,durable,adj,blend,n,,,Thurner (BTC),KS,sleepwear and lingerie (Henson Kickernick),,,,,,,,,,,,,,
+Dustroyer,2,WR,yes,n,dust,adj,destroyer,n,,,Thurner (BTC),KS,dust mops (American Textile Products Co.),,,,,,,,,,,,,,
+dwizened,2,LR,no,adj,dwindle,v,wizened,adj,,,Thurner (BL),,extremely wrinkled; shrunken by age,0,,1,1,0,0,0.5,7,0.714285714,2,6,1,0,1
+Dyenamite,1,orth,yes,n,dye,n,dynamite,n,,,Thurner (BTC),KS,"fabric dyes (Carnival Arts, Inc.)",,,,,,,,,,,,,,
+dynamotor,2,WW,no,n,dynamo,n,motor,n,,,Thurner (WE),,a motor that performs as both a motor and a generator,1,,1,0.5,0.5,0,0,6,1,0,4,1,0,0
+earjerker,2,WR,no,n,ear,n,tearjerker,n,,,Thurner (DCS),,a motion picture that prominently features a soundtrack calculated to elicit an emotional response from the audience,-2,,1,1,0,0,0.5,2,1,0,7,0.857142857,1,0
+Earthoon,both,WR,yes,n,Earth,n,Moon,n,,,Thurner (DCS),,"one of the names proposed for the primordial body which existed during the formation of our solar system, and later broke apart to form the earth and moon. Suggested by physicist George Gamow",,,,,,,,,,,,,,
+Eastralia,2,WR,yes,n,east,adj,Australia,n,,,Thurner (DS),,an Australian name for the eastern region of Australia,,,,,,,,,,,,,,
+echosultant,2,WR,no,n,echo,n,consultant,n,,,Thurner (JA),,"a consultant hired for the express purpose of reconfirming and thus sanctioning the findings of a previous consultant, a ploy often used by government or business officials to justify their own policies",-1,,0.5,1,0.5,1,0.5,3,1,0,10,0.8,2,0
+econometric,2,LW,no,n,economic,adj,metrics,n,,,Thurner (WE),,having to do with the application of mathematical forms and statistical techniques to economic theories and problems,2,,0,1,1,1,1,8,0.625,3,7,0.857142857,1,1
+ecotage,2,WR,no,n,eco,adj,sabotage,n,,,Thurner (NWD),sw1 - KS,environmental terrorism; sabotage committed in the belief that acts such as driving spikes into tree trunks to ruin the saws of loggers will help save the environment,-1,,1,1,0,0,0.5,3,1,0,7,0.428571429,4,0
+ecotecture,2,WR,no,n,eco,adj,architecture,n,,,Thurner (JO),sw1 - KS,a work of architecture designed specifically to blend into the landscape and harmonize with its natural surroundings,-2,,1,1,0,0,0.5,3,1,0,9,0.666666667,3,0
+ecumaniac,2,LW,no,n,ecumenical,adj,maniac,n,,,Thurner (OED),,a zealous supporter of the ecumenical movement,2,,1,1,0,0,0.5,11,0.636363636,4,6,1,0,1
+ecumenopolis,2,LW,no,n,ecumenical,adj,metropolis,n,,,Thurner (TW),,"the basis of a theory that envisions all societies of the world evolving into one vast interlocking community, encompassing all nations and cultures into one universal city",1,,0,1,1,1,1,11,0.818181818,2,10,0.7,3,0
+edifice complex,2,WR,no,n,edifice,n,Oedipus complex,n,,,Thurner (DJ),,"an overwhelming obsession with large, imposing buildings, particularly buildings erected as government offices",-2,,1,1,0,0,0.5,6,1,0,14,0.857142857,2,0
+educant,2,LW,no,n,education,n,cant,n,,,Thurner (WAW),,a derisive name for teaching jargon,3,,0,0.5,0.5,1,0.5,8,0.625,3,4,1,0,1
+Educare,both,LW,yes,n,education,n,care,n,,,Thurner (BAI),KS,an educational program intended for persons at least 65 years old,,,,,,,,,,,,,,
+educatalog,2,LW,no,n,education,n,catalog,n,,,Thurner,,a product catalog that also features informative editorial content,1,,1,1,0,0,0.5,8,0.625,3,7,1,0,1
+educrat,2,LW,no,n,education,n,bureaucrat,n,,,Thurner (BNW),,an educational bureaucrat,1,,0,1,1,1,1,8,0.5,4,9,0.555555556,4,1
+Eggcessories,2,WR,yes,n,egg,n,accessories,n,,,Thurner (BTC),KS,"Easter-egg decorating kits (Imagineering, Inc.)",,,,,,,,,,,,,,
+Eggsact,1,WR,yes,n,egg,n,exact,adj,,,Thurner (BTC),KS,egg lecithin (Source Naturals),,,,,,,,,,,,,,
+Eggspert,2,WR,yes,n,egg,n,expert,n,,,Thurner (BTC),KS,housewares (J & J Mfg. Corp.),,,,,,,,,,,,,,
+Eggstendables,1,WR,yes,n,egg,n,extendables,n,,,Thurner (BTC),KS,"egg products (Schneider Brothers, Inc.)",,,,,,,,,,,,,,
+Eggstra,2,WR,yes,adj,egg,n,extra,adj,,,Thurner (BTC),KS,"canned foods (Tillie Lewis Foods, Inc.)",,,,,,,,,,,,,,
+Elasticap,2,WW,yes,n,elastic,n,cap,n,,,Thurner (BTC),KS,roof-paper adhesive (Missouri Paint & Varnish Co.),,,,,,,,,,,,,,
+Elasticlad,2,WW,yes,adj,elastic,n,clad,adj,,,Thurner (BTC),KS,wal coatings (Missouri Paint &Varnish Co.),,,,,,,,,,,,,,
+elastration,2,LR,no,n,elastic,n,castration,n,,,Thurner (WE),,"bloodless castration, achieved by fitting a strong rubber band around the scrotum. Elastration is a technique utilized mainly in the breeding of livestock",0,,0.5,1,0.5,1,1,7,0.714285714,2,9,0.888888889,1,1
+electionomics,2,WR,no,n,election,n,economics,n,,,Thurner (TM),,the costs involved in running an election campaign,-1,,0.5,1,0.5,1,0,7,1,0,9,1,0,0
+electret,2,LR,no,n,electric,adj,magnet,n,,,Thurner (WE),sw1,a dielectric body in which a permanent state of electric polarization has been achieved,1,,1,1,0,0,1,8,0.75,2,6,0.333333333,4,0
+Electrocities,2,LR,yes,n,electronic,adj,atrocities,n,,,Thurner (BTC),KS,electronic jewelry and belts (Electrocities Co.),,,,,,,,,,,,,,
+electrocute,2,LR,no,v,electric,adj,execute,v,,,Thurner (WWA),,the act of killing a criminal by administering a fatal charge of electricity; any act of killing by means of an electrical charge. Coined in 1890 to describe the function of the newly invented electric chair,0,,1,1,0,0,1,8,0.875,1,8,0.875,1,0
+electrolier,2,LR,no,n,electric,adj,chandelier,n,,,Thurner (AL),,a chandelier in which electric bulbs have taken the place of candles,0,,0.5,1,0.5,1,1,8,0.875,1,8,0.5,4,0
+electromatic,both,LR,no,adj,electric,adj,automatic,adj,,,Thurner (OED),,pertaining to any electrical equipment that can be operated automatically,-1,,0.5,1,0.5,0,0.5,8,1,0,8,0.875,1,0
+electropult,2,LR,no,n,electric,adj,catapult,n,,,Thurner (DNW),,an electrical propulsion device that is used to help aircraft accelerate and take off from short runways,0,,1,1,0,0,1,8,0.75,2,8,0.875,1,1
+elevon,both,LR,no,n,elevator,n,aileron,n,,,Thurner (WE),,an airplane control surface that combines the functions of an aileron and an elevator,1,,1,1,0,1,1,7,0.571428571,3,5,0.6,2,1
+Elmonica,both,LW,yes,n,Eleanor,n,Monica,n,,,Thurner (NOL),,the name of a community in Oregon said to have been named after the daughters of the city's founder,,,,,,,,,,,,,,
+Elvisitor,2,LW,no,n,Elvis,n,visitor,n,,,Thurner (TM),,"a tourist who visits Graceland Mansion in Memphis, Tennessee, the former home of popular singer Elvis Presley",-1,,0.5,1,0.5,1,0.5,5,0.8,1,6,1,0,1
+embargaining,2,LW,no,n,embargo,n,bargaining,n,,,Thurner (JA),,"the imposing of special conditions upon a journalist by a news source, in which the journalist is given exclusive information with the understanding that it won't be released until permission to do so has been granted by the source",0,,1,1,0,0,0.5,7,0.857142857,1,8,1,0,1
+Embracelette,2,WW,yes,n,embrace,n,bracelette,n,,,Thurner (BTC),KS,watches (Benrus Watch Co.),,,,,,,,,,,,,,
+embrangle,both,LR,no,v,embroil,v,entangle,v,,,Thurner (ND),,the act of confusing or involving another in some difficulty,-1,,1,1,0,1,1,6,0.833333333,1,8,0.75,2,0
+Emersonthusiast,2,WR,no,n,Emerson,n,enthusiast,n,,,Thurner (AL),,one who is extremely fond of the works of Ralph Waldo Emerson,-1,,0.5,1,0.5,1,0,6,1,0,9,1,0,0
+Energenius,2,WR,yes,n,energy,n,genius,n,,,Thurner (BTC),KS,"thermostats (Jameson Home Products, Inc.)",,,,,,,,,,,,,,
+Entergy,2,WR,yes,n,enter,v,energy,n,,,Thurner (TND),KS,steel door systems (Ceco Corp.),,,,,,,,,,,,,,
+entremanure,1,LW,no,n,entrepreneur,n,manure,n,,,Thurner (TM),,"an enterprise involving an experimental commercial power plant which burns dried cattle chips for fuel. The prototype for such a plant began producing electric power near El Centro, California, in 1988",2,,1,1,0,1,0.5,10,0.6,4,5,1,0,1
+entreporneur,matrix,embed,no,n,entrepreneur,n,porn,n,,,Thurner (BAI),,a person engaged in the production or distribution of pornographic materials,,,,,,,,,,,,,,
+entrepreneurtia,2,WR,no,n,entrepreneur,n,inertia,n,,,Thurner (DJ),,"the condition afflicting a corporation when its executive managers, having exerted sufficient effort to reach the top, discourage any similar efforts from lower management personnel that might threaten their own position",1,,1,1,0,0,0.5,10,1,0,5,0.8,1,0
+Envelock,2,LW,yes,n,envelope,n,lock,n,,,Thurner (BTC),KS,envelope fasteners (Ames Safety Envelope Co.),,,,,,,,,,,,,,
+Envelopener,2,WW,yes,n,envelope,n,opener,n,,,Thurner (BTC),KS,envelope openers (Omatron Corp.),,,,,,,,,,,,,,
+Enviromelt,2,LW,yes,v,environment,n,melt,v,,,Thurner (BTC),KS,chemicals for melting ice and snow (Para Products),,,,,,,,,,,,,,
+Enviromins,2,LR,yes,n,environment,n,vitamins,n,,,Thurner (BTC),KS,vitamins (Twin Laboratories),,,,,,,,,,,,,,
+environics,2,LR,no,n,environment,n,electronics,n,,,Thurner (BNW),,"the use of electronic equipment to control environmental conditions, pertaining primarily to the regulation of laboratory environments",0,,0,1,1,1,1,11,0.090909091,10,11,0.545454545,5,1
+environmental illness,2,WW,no,n,environmental,adj,mental illness,n,,,Thurner,,a chronic inability to regard the environment as anything but an expendable resource to be exploited for profit,1,,1,0,1,0,0.5,13,1,0,11,0.272727273,8,0
+epicurate,2,WW,no,n,epicure,n,curate,n,,,Thurner (BL),,a clergyman distinguished by his acute fondness for good food,1,,0.5,1,0.5,1,0,7,1,0,6,1,0,0
+epigrammar,2,WW,no,n,epigram,n,grammar,n,,,Thurner (TM),,written or spoken language that is rich in epigrams,1,,1,0.5,0.5,0,0,7,1,0,5,1,0,0
+epoxidation,2,LW,no,n,epoxy,n,oxidation,n,,,Thurner (DST),,a chemical reaction yielding an epoxy compound,-1,,0.5,1,0.5,1,0.5,6,0.833333333,1,9,1,0,1
+eroduction,2,LR,no,n,erotic,adj,production,n,,,Thurner (DA),,"a film, television program, or stage play featuring erotic scenes or episodes",0,,0,1,1,1,1,6,0.5,3,9,0.888888889,1,1
+Erusticator,matrix,embed,yes,n,eradicator,n,rust,n,,,Thurner (BTC),KS,"rust remover (Albatross USA, Inc.)",,,,,,,,,,,,,,
+estatescape,both,WR,no,n,estate,n,escape,n,,,Thurner (NW),,an estate used as a refuge or vacation retreat,0,,1,0.5,0.5,1,0,5,1,0,5,1,0,0
+eunanch,2,LL,no,n,eunuch,n,anchor,n,,,Thurner (JA),,a print journalist's derisive name for a television news anchorperson,,,,,,,,,,,,,,
+euphemantics,2,LR,no,n,euphemistic,adj,semantics,n,,,Thurner (JA),,the business of selling products or services by means of indirect promotional messages,1,,1,1,0,0,1,10,0.7,3,9,0.777777778,2,1
+euphobia,2,LW,no,n,euphoria,n,phobia,n,,,Thurner (BNE),,"an obsessive fear of good news, generally used in a humorous or satiric sense",1,,1,1,0,0,0.5,7,0.714285714,2,5,1,0,1
+Eurafrican,both,LW,yes,n,European,n,African,n,,,Thurner (OED),,the name given to a race of dark-skinned people who once inhabited both the European and African coasts of the Mediterranean Sea,,,,,,,,,,,,,,
+Eurasian,both,LW,yes,n,European,n,Asian,n,,,Thurner (WE),,a person of mixed European and Asian descent,,,,,,,,,,,,,,
+Eurocracy,2,LR,no,n,European,adj,bureaucracy,n,,,Thurner (BNW),,"the administrative apparatus of the European Economic Community, or Common Market",0,,0,1,1,1,1,8,0.625,3,10,0.9,1,1
+Europhoria,2,LR,no,n,Europe,n,euphoria,n,,,Thurner (TM),,"an attitude of heightened optimism in regard to Europe's future, based on the continent's powerful economic expansion in the '80s and the prospect of increased cooperation among Common Market members",-2,,0.5,1,0.5,1,1,5,0.8,1,7,0.857142857,1,1
+Europort,2,LW,no,n,Europe,n,port,n,,,Thurner (BAR),,"a European seaport serving major international markets, and especially trade among the Common Market countries",1,,1,0.5,0.5,0,0,5,1,0,4,1,0,0
+Eurosclerosis,2,LR,no,n,Europe,n,arteriosclerosis,n,,,Thurner (TM),,"Europe's economic affliction during the 1970s, characterized by a constricted flow of business activity because of overregulation, underinvestment, and waning competitiveness",-5,,0.5,1,0.5,1,1,5,0.8,1,15,0.6,6,0
+evidentually,both,LR,no,adv,evidently,adv,eventually,adv,,,Thurner (FW),,"pertaining to something which is not now apparent, but which will be eventually",-1,,0.5,1,0.5,0,1,9,0.888888889,1,10,0.9,1,1
+exaccurate,both,LW,no,adj,exact,adj,accurate,adj,,,Thurner (PBW),,painstakingly precise,-1,,1,1,0,1,0,6,1,0,6,1,0,0
+examnesia,2,WW,no,n,exam,n,amnesia,n,,,Thurner (YNW),,the sudden loss of memory often experienced by students while writing an exam,-1,,0.5,1,0.5,1,0,5,1,0,6,1,0,0
+Excelerator,2,orth,yes,n,excel,v,accelerator,n,,,Thurner (BTC),KS,"toy vehicle (Mattel, Inc.)",,,,,,,,,,,,,,
+exclosure,2,LR,no,n,exclude,v,enclosure,n,,,Thurner (DNW),,an area from which animals are exclued by fencing or other barriers,-1,,1,1,0,0,1,7,0.714285714,2,7,0.857142857,1,1
+Exercycle,2,LW,yes,n,exercise,n,cycle,n,,,Thurner (BTC),KS,exercise equipment (Exercycle Corp.),,,,,,,,,,,,,,
+expectacle,2,LW,no,n,expect,v,spectacle,n,,,Thurner (MBN),,an event which is awaited with great anticipation,-1,,1,1,0,0,0,7,1,0,9,1,0,0
+expugn,both,LR,no,n,expunge,v,impugn,v,,,Thurner (BL),,"to expunge or erase; to impugn, or call into question",0,,1,1,0,1,1,7,0.714285714,2,6,0.833333333,1,1
+expunctuation,1,WR,no,n,expunction,n,punctuation,n,,,Thurner (OED),,the deletion of material from written copy during the process of editing,-1,,0.5,1,0.5,0,0,10,1,0,10,1,0,0
+Exquisiteyes,2,WW,yes,n,exquisite,adj,eyes,n,,,Thurner (BTC),KS,"optical products (Caesar, Inc.)",,,,,,,,,,,,,,
+extencisor,both,LR,no,n,extensor,n,exerciser,n,,,Thurner (BNE),,a mechanical device designed to aid in exercising and strengthening the fingers and wrist,-1,,1,0,1,1,0.5,8,1,0,8,0.75,2,0
+extrality,2,WR,no,n,extra,adj,territoriality,n,,,Thurner (OED),,"the right of jurisdiction claimed by a country in regard to its citizens while they are in another country; a compressed form of the word ""extraterritoriality""",-5,,1,1,0,0,0.5,6,1,0,13,0.615384615,5,0
+extreamline,2,WW,no,v,extreme,adj,streamline,v,,,Thurner,,the process of designing or producing something with a singularly streamlined form,0,,1,1,0,0,0,7,1,0,8,1,0,0
+Fabricadabra,both,WW,yes,n,fabric,n,abracadabra,n,,,Thurner (BTC),JM,"bras, Exquisite Form Industries",,,,,,,,,,,,,,
+Fabricork,both,WW,yes,n,fabric,n,cork,n,,,Thurner (BTC),JM,"vinyl plastic bulletin boards, Claridge Products & Equipment, Inc.",,,,,,,,,,,,,,
+Fabricushion,both,WW,yes,n,fabric,n,cushion,n,,,Thurner (BTC),JM,"stamp pads, Consolidated Business Products",,,,,,,,,,,,,,
+Fabulace,both,LW,yes,n,fabulous,adj,lace,n,,,Thurner (BTC),JM,"pantyhose, Burlington Industries",,,,,,,,,,,,,,
+Fabulash,both,LW,yes,n,fabulous,adj,lash,n,,,Thurner (BTC),JM,"eye makeup, Revlon, Inc.",,,,,,,,,,,,,,
+facho,2,LR,no,adj,female,adj,macho,adj,,,Thurner (OL),,"an exaggerated sense of female pride, coined by Claire Boothe Luce in answer to the popular use of 'macho'",0,,1,1,0,0,1,5,0.2,4,4,0.75,1,1
+faction,both,WR,no,n,fact,n,fiction,n,,,Thurner (BNE),,"a written work that is based on factual material, but written in the style of a fictional novel",-1,,1,1,0,1,1,4,0.75,1,6,0.833333333,1,1
+factrip,2,WW,no,n,fact,n,trip,n,,,Thurner (JA),,"a political fact-finding trip, undertaken to gather information about a particular problem or issue",0,,1,1,0,0,0,4,1,0,4,1,0,0
+faddict,2,WW,no,n,fad,n,addict,n,,,Thurner (BDC),,a person who tends to compulsively indulge in a fashion or craze.  Also:  'faddiction',-1,,1,1,0,0,0,3,1,0,5,1,0,0
+faddiction,2,WW,no,n,fad,n,addiction,n,,,Thurner,,Cf. 'faddict',-2,,0,1,1,1,0.5,3,1,0,7,0.857142857,1,0
+fadical,2,WR,no,n,fad,n,radical,n,,,Thurner (JA),,"someone attracted to a movement or cause simply because it is in vogue, and not because of any real sense of commitment",-2,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+fagtory,2,WR,no,n,fag,n,factory,n,,,Thurner (FW),,a manufacturing plant where cigarettes are produced,-2,,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+fakelore,2,WR,no,n,fake,adj,folklore,n,,,Thurner (WES),,"pseudo-folklore presented as genuine and traditional lore, despite the fact that it originates from sources other than folk tradition or belief.  Coined by American folklorist Richard Dorson in 1950",-1,,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+fandangled,2,LR,no,adj,fandango,n,new-fangled,adj,,,Thurner (DS),,of the newest or most novel fashion,0,,1,0,1,0,1,8,0.875,1,9,0.777777778,2,0
+fanglomerate,2,WR,no,n,fan,n,conglomerate,n,,,Thurner (OED),,a kind of rock consisting of fragments deposited in an alluvial fan and consolidated into a single mass,-3,,1,1,0,0,0.5,3,1,0,10,0.8,2,0
+fantabulous,both,LR,no,adj,fantastic,adj,fabulous,adj,,,Thurner (DCS),,sublime; extraordinary,0,,1,1,0,1,0.5,9,0.666666667,3,8,1,0,1
+fantigue,2,LR,no,n,fantastic,adj,fatigue,n,,,Thurner (WE),,a state of great excitement or tension,1,,0,1,1,1,1,9,0.444444444,5,5,0.8,1,1
+Farmaster,both,LR,yes,n,farm,n,master,n,,,Thurner (BTC),JM,"fence and gates, Behlen Mfg. Co.",,,,,,,,,,,,,,
+farmerceutical,2,WR,no,n,farmer,n,pharmaceutical,n,,,Thurner (NW),,any one of a number of growth hormones used by farmers to increase the growth rate of livestock,-3,,0.5,1,0.5,1,0.5,5,1,0,12,0.916666667,1,0
+fatiloquent,2,WR,no,adj,fate,n,eloquent,adj,,,Thurner (WE),,eloquently prophetic,-2,,0.5,1,0.5,1,0,3,1,0,8,1,0,0
+feebility,2,LR,no,n,feeble,adj,debility,n,,,Thurner (PBW),,a state of acute physical weakness,-2,,0,1,1,1,1,5,0.8,1,8,0.75,2,0
+feep,2,LR,no,n,feeble,adj,beep,n,,,Thurner (SL),,the soft beeping sound a computer terminal makes when it is switched on,1,,1,1,0,0,1,5,0.4,3,3,0.666666667,1,1
+feevee,2,WR,no,n,fee,n,TV,n,,,Thurner (BJ),,an optional service available to cable subscribers in which more television channels are provided if the subscriber pays an additional monthly fee,-1,,1,1,0,0,0.5,2,1,0,4,0.75,1,0
+felsic,both,LL,no,adj,feldspar,n,silica,n,,,Thurner (OED),,"pertaining to a group of light-colored minerals, including feldspar and quartz",,,,,,,,,,,,,,
+femagoguery,2,LR,no,n,female,adj,demagoguery,n,,,Thurner (BDC),,"an appeal ot the basic emotions and fears of women, especially when in regard to economic or political issues",-3,,1,1,0,0,1,5,0.4,3,9,0.888888889,1,1
+Femarines,2,LW,no,n,female,adj,Marines,n,,,Thurner (LWW),,military slang for the women's Reserve of the US Marine Corps during World War II,0,,0.5,1,0.5,1,0.5,5,0.4,3,5,1,0,1
+femcee,2,LW,no,n,female,adj,emcee,n,,,Thurner (DD),,a female master of ceremonies,0,,1,1,0,0,0.5,5,0.4,3,4,1,0,1
+feminar,2,LR,no,n,female,adj,seminar,n,,,Thurner (JO),,a presentation or series of presentations intended for an audience of women,-1,,1,1,0,0,1,5,0.4,3,7,0.857142857,1,1
+femlin,2,LR,no,n,female,adj,gremlin,n,,,Thurner (SD),,"Australian slang for what is known in America as a ""beach bunny,"" a young woman who hangs around surfers but rarely surfs herself. A gremlin is a surfing enthusiast who Is not very adept at the sport",0,,1,1,0,0,1,5,0.6,2,7,0.714285714,2,1
+ferrod,2,LW,no,n,ferrite,n,rod,n,,,Thurner (DOC),,a ferrite rod that is used as a sensing device in computer data files,1,,1,0.5,0.5,0,0.5,5,0.6,2,3,1,0,1
+fertigation,both,LR,no,n,fertilization,n,irrigation,n,,,Thurner (TM),,a form of irrigation in which precise amounts of water and nutrients drip onto growing plants,1,,0,1,1,0,1,11,0.727272727,3,8,0.75,2,1
+figitated,2,WR,no,adj,fidget,v,agitated,adj,,,Thurner (BL),,uneasy; agitated,-2,,1,1,0,0,1,5,0.8,1,8,0.875,1,1
+Filamerican,1,LW,no,n,Filipino,n,American,n,,,Thurner (WE),,a Filipino who exhibits sympathetic or loyal feelings toward Americans,0,,1,1,0,1,0.5,8,0.625,3,8,1,0,1
+filmosque,2,WW,no,n,film,n,mosque,n,,,Thurner (DA),,a movie theater designed in the extravagantly arabesque style popular during the 1920s,0,,1,0.5,0.5,0,0,4,1,0,4,1,0,0
+finickety,both,LR,no,adj,finicky,n,persnickety,n,,,Thurner (DS),,exhibiting extrememly meticulous or exacting standards,-1,,0,1,1,0,1,6,0.833333333,1,9,0.666666667,3,0
+finitiative,2,LW,no,n,finish,v,initiative,n,,,Thurner (MBN),,the ability to finish what one has started,-2,,0,1,1,1,0,5,1,0,8,1,0,0
+Fintastic,2,WR,yes,adj,fin,n,fantastic,adj,,,Thurner (TND),KS,"fish food and aquarium supplies, Fintastic.",,,,,,,,,,,,,,
+fizzician,2,orth,no,n,fizz,n,physician,n,,,Thurner (DD),,a soda jerk; coined by H. L. Mencken,,,,,,,,,,,,,,
+flabbergasterisk,2,WW,no,n,flabbergast,v,asterisk,n,,,Thurner (OTW),,a punctuation mark suggested by journalists to serve as a more intense version of the exclamation point. A flabbergasterisk is represented by an exclamation point in which the period is replaced by an asterisk.,0,,0.5,1,0.5,1,0,9,1,0,7,1,0,0
+flamdoodle,both,WR,no,n,flam,n,flapdoodle,n,,,Thurner (WE),,"exaggerated, boastful speech; pretentious nonsense",-2,,1,1,0,1,0.5,4,1,0,9,0.888888889,1,0
+flaperon,both,WR,no,n,flap,n,aileron,n,,,Thurner (DNW),,a control surface mounted on a rocket or guided missile which provides the altitude control of ailerons and the lifting and braking effect of flaps,-2,,1,1,0,1,0.5,4,1,0,5,0.8,1,0
+flarp,both,LR,no,adj,flat,adj,sharp,adj,,,Thurner (ND),,"in music, a performance that is quavering, tentative, or off-pitch",0,,1,1,0,1,1,4,0.5,2,4,0.75,1,1
+flavorite,2,WR,no,"n, adj",flavor,n,favorite,"n, adj",,,Thurner,,"advertising coinage that is used to designate a preferred food, flavor, or taste",-1,,1,1,0,0,0,5,1,0,6,1,0,0
+flavory,2,WR,no,adj,flavor,n,savory,adj,,,Thurner (WE),,rich in flavor,-1,,1,1,0,0,0.5,5,1,0,5,0.8,1,0
+fleep,2,LR,no,n,fly,v,jeep,n,,,Thurner (BAI),,"a variety of ultra-light aircraft featuring flexible wings and a small engine, designed for use in rugged areas",0,,1,1,0,0,1,3,0.666666667,1,3,0.666666667,1,0
+flether,both,LR,no,v,flatter,v,blether,v,,,Thurner (WE),,to fawn and flatter,0,,1,1,0,1,1,5,0.6,2,5,0.8,1,1
+Flexerciser,2,WR,yes,n,flex,v,exerciser,n,,,Thurner (BTC),KS,"exerise exquipment, Saitama Kako Co.",,,,,,,,,,,,,,
+Flexibolts,2,LR,yes,n,flexible,adj,bolts,n,,,Thurner (BTC),KS,"nylon bolts, Heartwood Furniture",,,,,,,,,,,,,,
+flightseeing,2,WR,no,n,flight,n,sightseeing,n,,,Thurner,,the viewing of scenic landscapes from the air by means of an airplane or helicopter instead of from a vantage point on the ground,-2,,1,1,0,0,0.5,4,1,0,7,0.857142857,1,0
+flimmer,both,LR,no,v,flicker,v,glimmer,v,,,Thurner (OE),,to faintly flicker,0,,1,1,0,1,1,5,0.8,1,5,0.8,1,0
+flisk,both,LR,no,v,flick,v,whisk,v,,,Thurner (WE),,"to make a motion of flicking or whisking about, as an animal does with its tail",0,,1,1,0,1,0.5,4,1,0,4,0.75,1,0
+floatel,2,WR,no,n,float,v,hotel,n,,,Thurner (AL),,a semi-submersible oil drilling platform fully equipped with living quarters for the workers on board. Also used to describe a cruise ship.,-1,,0,1,1,1,0.5,4,1,0,5,0.8,1,0
+fluorod,2,LW,no,n,fluorescent,adj,rod,n,,,Thurner (DST),,a rod made of phosphate glass that absorbs ultraviolet light and emits orange fluorescent light,2,,0,0.5,0.5,1,0.5,9,0.444444444,5,3,1,0,1
+flusticate,both,LR,no,v,fluster,v,complicate,v,,,Thurner (DS),,to confuse,-1,,1,1,0,1,1,6,0.833333333,1,9,0.555555556,4,0
+flustrate,both,LR,no,v,fluster,v,frustrate,v,,,Thurner (DS),,to make or become nervous and confused,0,,1,1,0,1,1,6,0.833333333,1,8,0.875,1,1
+flycycle,2,WR,no,n,fly,v,bicycle,n,,,Thurner (MBN),,"an aircraft powered entirely by muscle-power, utilizing the pedal mechanism of a bicycle to turn the aircraft's propeller",-2,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+foggle,both,LR,no,n,fog,n,drizzle,n,,,Thurner (SOL),,weather conditions characterized by fog and light rain,-1,,1,1,0,1,0.5,3,1,0,6,0.333333333,4,0
+foolosopher,both,WR,no,n,fool,n,philosopher,n,,,Thurner (DS),,a foolish person who pretends to practice philosophy,-3,,0,1,1,0,0.5,3,1,0,8,0.875,1,0
+fozzle,both,LR,no,n,fog,n,drizzle,n,,,Thurner (SOL),,weather conditions characterized by fog and light rain,-1,,1,1,0,1,1,3,0.666666667,1,6,0.5,3,0
+Franglais,both,LR,no,n,francais,n,anglais,n,,,Thurner (SE),,popular French words or phases which have been borrowed or adopted from English,0,,1,1,0,1,0.5,6,0.666666667,2,5,1,0,1
+frarority,both,LR,no,n,fraternity,n,sorority,n,,,Thurner (DA BL),,student housing open to the emancipated of either sex. The first fratority was founded at a Kansas university in 1913 and intended to provide housing for married couples attending the school,0,,1,1,0,1,1,9,0.555555556,4,7,0.714285714,2,1
+fratority,both,LR,no,n,fraternity,n,sorority,n,,,Thurner (DA BL),,student housing open to the emancipated of either sex. The first fratority was founded at a Kansas university in 1913 and intended to provide housing for married couples attending the school,0,,1,1,0,1,1,9,0.777777778,2,7,0.714285714,2,0
+freezoree,2,WR,no,n,freeze,v,jamboree,n,,,Thurner (WE),,a gathering of boy scouts or girl scouts for the purpose of holding contests or exhibitions of scoutcraft held during the winter,-2,,0.5,1,0.5,1,0.5,4,1,0,7,0.428571429,4,0
+Frenglish,2,LR,no,n,French,n,English,n,,,Thurner (BNE),,English which is characterized by the frequent use of French words or phrases,-1,,1,1,0,0,1,5,0.6,2,6,0.833333333,1,1
+frickles,2,LR,no,n,fried,adj,pickles,n,,,Thurner (SL),,"fried pickles, a snack food popular in the southern United States",-1,,1,1,0,0,1,4,0.5,2,6,0.833333333,1,1
+frustraneous,2,LR,no,adj,frustrate,v,extraneous,adj,,,Thurner (AA),,futile or useless,-2,,1,1,0,0,1,8,0.875,1,10,0.8,2,0
+fuelish,2,WR,no,adj,fuel,n,foolish,adj,,,Thurner (BNE),,"carelessness in the use of gasoline or heating fuel, a word often used in public service announcements admoninishing the public to conserve non-renewable energy resources",0,,1,1,0,0,0.5,5,0.8,1,5,1,0,1
+fugly,both,LW,no,adj,fat,adj,ugly,adj,,,Thurner (NTC),,fat and ugly,-1,,1,1,0,1,0.5,3,0.333333333,2,4,1,0,1
+fumorist,2,LR,no,n,female,adj,humorist,n,,,Thurner,,"a female humorist or comedian, particularly one who specializes in feminist humor",-1,,1,1,0,0,1,5,0.4,3,8,0.875,1,1
+Funbrella,2,WR,yes,n,fun,adj,umbrella,n,,,Thurner (BTC),KS,"children's umbrella, Playskool, Inc.",,,,,,,,,,,,,,
+funch,both,LR,no,n,fuck,n,lunch,n,,,Thurner (DCS),,"slang term for a sexual liaison which has been arranged during one's lunch hour. Also known more politely as a ""matinee""",0,,1,1,0,1,1,3,0.666666667,1,4,0.75,1,1
+Funcils,2,LR,yes,n,fun,adj,pencils,n,,,Thurner (BTC),KS,"writing products, Alliance Rubber Co.",,,,,,,,,,,,,,
+funginert,2,WW,no,adj,fungi,n,inert,adj,,,Thurner (DNW),,"capable of resisting the growth of fungus, a characteristic similar to bacterinert",0,,1,0,1,0,0.5,5,0.8,1,4,1,0,1
+fustle,both,WR,no,v,fuss,v,bustle,v,,,Thurner (WE),,to exhibit a state of restless activity or agitation,-1,,1,1,0,1,0.5,3,1,0,5,0.8,1,0
+futilitarian,2,WR,no,n,futile,adj,utilitarian,n,,,Thurner (WE),,a person who engages in hopelessly futile pursuits,-4,,0,1,1,1,0.5,6,0.833333333,1,12,1,0,1
+fuzzstache,2,WR,no,n,fuzz,n,mustache,n,,,Thurner (BN),,a scant wisp of hair on the upper lip of a young man who has not yet begun to shave,-1,,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+fuzzword,2,LR,no,n,fuzzy,adj,buzzword,n,,,Thurner (OED),,a deliberately confusing or imprecise term,0,,1,1,0,0,0.5,4,0.75,1,6,1,0,1
+galimony,2,WW,no,n,gal,n,alimony,n,,,Thurner (BNW),,payment in lieu of alimony between estranged lesbians,-3,,1,1,0,0,0,3,1,0,7,1,0,0
+galvanneal,both,LW,no,v,galvanize,v,anneal,v,,,Thurner (WE),,"to coat with an alloy of iron or steel and zinc, a process achieved by heating a surface already galvanized with zinc",1,,0.5,1,0.5,0,0.5,8,0.75,2,4,1,0,1
+gamorous,2,WR,no,adj,gam,n,glamorous,adj,,,Thurner (SEL),,"descriptive of a female celebrity famous for her shapely legs, or ""gams""",-2,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+garbarge,2,LW,no,n,garbage,n,barge,n,,,Thurner,,a barge loaded with garbage. Garbarge was coined during the summer of 1987 to describe a barge filled with garbage which left New York City and was subsequently turned away from numerous ports of entry,1,,1,0.5,0.5,0,0.5,6,0.833333333,1,4,1,0,1
+garbitrageur,2,WW,no,n,garbage,n,arbitrageur,n,,,Thurner (SL),,a financial speculator who attempts to manipulate the value of stock by spreading rumors and misinformation,-2,,1,1,0,0,0.5,6,0.833333333,1,9,1,0,1
+garlion,both,LR,no,n,garlic,n,onion,n,,,Thurner (WE),,"a hybrid vegetable, a pungent cross between the garlic plant and the onion",0,,1,1,0,1,1,6,0.666666667,2,5,0.6,2,0
+gasid,both,WR,no,n,gas,n,acid,n,,,Thurner (JO),,"advertising coinage describing an upset stomach, as in gasid indigestion",-1,,1,1,0,1,0,3,1,0,4,1,0,0
+gasohol,both,WR,no,n,gas,n,alcohol,n,,,Thurner,,fuel which is a blend of 10 percent ethanol alcohol and 90 percent gasoline,-2,,1,1,0,1,0.5,3,1,0,7,0.571428571,3,0
+gasolier,2,WR,no,n,gas,n,chandelier,n,,,Thurner (WE),,a chandelier equipped with gas jets instead of candles,-2,,0,1,1,1,0.5,3,1,0,8,0.625,3,0
+gaspirator,2,WR,no,n,gas,n,respirator,n,,,Thurner (DS),,"another name for a gas mask, including a pun on the word ""gasp""",-3,,1,1,0,0,0.5,3,1,0,8,0.75,2,0
+gawkward,2,WR,no,adj,gawk,v,awkward,adj,,,Thurner (PBW),,clumsy or stupid,-1,,1,1,0,0,0,3,1,0,5,1,0,0
+gayola,2,WR,no,n,gay,adj,payola,n,,,Thurner (DCS),,slang for the practice of paying off police officers to look the other way regarding the activities of gay clubs and bars,-2,,0.5,1,0.5,1,0.5,2,1,0,5,0.8,1,0
+geriatrickster,2,WW,no,n,geriatric,adj,trickster,n,,,Thurner (DA),,an elderly person who exhibits an impish sense of humor and a fondness for practical jokes,2,,0.5,1,0.5,1,0,9,1,0,7,1,0,0
+gerrymander,both,WR,no,n,Gerry,n,salamander,n,,,Thurner (WE),,"redrawing of election districts to give one political party an unfair advantage over the other. Coined in response to the convoluted boundaries resulting from the reapportionment of Essex County, MA in 1812 by governor Elbridge Gerry, gerrymander was inspired by a political cartoon depicting the district as a contorted salamander",-2,,1,0.5,0.5,1,0.5,4,1,0,9,0.555555556,4,0
+Gidget,both,LR,no,n,girl,n,midget,n,,,Thurner (WO),,the name of the main character in a series of teen-oriented films,-1,,1,1,0,1,1,3,0.333333333,2,5,0.8,1,1
+gimble,1,LR,no,v,gambol,v,nimble,adj,,,Thurner (STY),,to frolic nimbly; coined by Lewis Carroll,0,,1,1,0,1,1,6,0.833333333,1,6,0.833333333,1,0
+Gingeraffe,2,WR,no,n,ginger,n,giraffe,n,,,Thurner (BTC),,"stuffed toy (Gund, Inc.)",0,,1,1,0,0,0,5,1,0,4,1,0,0
+gingerine,both,WR,no,n,gin,n,tangerine,n,,,Thurner (BG),,"a cocktail made from gin, grapefruit juice and tangerine juice",-2,,0.5,1,0.5,0,0.5,3,1,0,7,0.714285714,2,0
+ginormous,both,LR,no,adj,gigantic,adj,enormous,adj,,,Thurner (DD),,extremely large,0,,1,1,0,1,1,8,0.375,5,7,0.857142857,1,1
+girlesque,2,WR,no,n,girl,n,burlesque,n,,,Thurner (WAW),,a burlesque act featuring young women; coined by Walter Winchell,-1,,0,1,1,1,0.5,3,1,0,6,0.833333333,1,0
+giverous,2,WR,no,adj,give,v,generous,adj,,,Thurner (BL),,generous,-2,,1,1,0,0,0.5,3,1,0,6,0.5,3,0
+glamazon,2,LW,no,n,glamor,n,Amazon,n,,,Thurner (SEL),,"a statuesque woman, particularly a well-proportioned movie actress",-1,,1,1,0,0,0.5,5,0.8,1,6,1,0,1
+glassivation,2,WR,no,n,glass,n,passivation,n,,,Thurner (DST),,a process of making passive (reducting the reactivit of) silicon conductors by encapsulating them in glass,-3,,0.5,1,0.5,1,0.5,4,1,0,9,0.888888889,1,0
+glime,both,LR,no,n,glaze,n,rime,n,,,Thurner (DST),,a thin coating of ice with a consistency between that of glaze and rime,0,,1,1,0,1,1,4,0.5,2,3,0.666666667,1,1
+gliterary,2,WW,no,adj,glitter,n,literary,adj,,,Thurner (TM),,indicative of a literary style that is pretentious or self-promoting in tone,-2,,1,1,0,0,0,5,1,0,7,1,0,0
+glitterati,2,WW,no,n,glitter,n,literati,n,,,Thurner (DCS),,"a social class composed of the wealthy and the celebrated, made conspicuous by the amount of publicity they receive in the popular press",-2,,1,1,0,0,0,5,1,0,7,1,0,0
+globaloney,2,WW,no,n,global,adj,baloney,n,,,Thurner (WSC),,an unrealistical theory or program that is to be implemented on a global scale,-1,,1,1,0,0,0,6,1,0,6,1,0,0
+gloriole,2,WR,no,n,glory,n,aureole,n,,,Thurner (WE),,"in religious art, the depiction of a halo or nimbus around the head or body of a sacred person",-1,,0.5,0.5,0,0,0,5,1,0,5,1,0,0
+goditorium,2,WR,no,n,god,n,auditorium,n,,,Thurner (MBD),,a church,-4,,0.5,1,0.5,1,0.5,3,1,0,9,0.888888889,1,0
+grandacious,both,WR,no,adj,grand,adj,gracious,adj,,,Thurner (AET),,grand in stature and highly dignified in appearance,-1,,1,1,0,1,0,5,1,0,6,1,0,0
+grandificent,both,WR,no,adj,grand,adj,magnificent,adj,,,Thurner (AL),,marked by splendor and magnificence,-3,,1,1,0,1,0.5,5,1,0,11,0.818181818,2,0
+grasple,2,WR,no,v,grasp,v,grapple,v,,,Thurner (OED),,to grapple,-1,,1,1,0,0,0,5,1,0,6,1,0,0
+grice,both,LW,no,n,grime,n,ice,n,,,Thurner (FW),,"the dense mass of dirt, ice, and packed snow that accumulates inside the wheel wells of motor vehicles in wintertime",0,,1,1,0,1,0.5,4,0.75,1,2,1,0,1
+gription,both,WR,no,n,grip,n,traction,n,,,Thurner (FW),,adhesive friction; traction,-1,,1,1,0,1,0.5,4,1,0,7,0.571428571,3,0
+grismal,both,LR,no,adj,grim,adj,dismal,adj,,,Thurner (WSC),,exceedingly gloomy and miserable,-1,,1,1,0,1,0.5,4,1,0,6,0.833333333,1,0
+gritch,both,LR,no,v,gripe,v,bitch,v,,,Thurner (DCS),,to nag or complain bitterly,0,,1,1,0,1,1,4,0.5,2,3,0.666666667,1,1
+groceteria,both,LR,no,n,grocery,n,cafeteria,n,,,Thurner (OED),,a grocery store where customers serve themselves and pay for their groceries as they leave,-2,,1,1,0,1,0.5,6,1,0,9,0.666666667,3,0
+growsy,both,LR,no,adj,grumpy,adj,drowsy,adj,,,Thurner (DA,,displaying the ill-humored demeanor of someone just awakened abruptly from a deep sleep,0,,1,1,0,1,1,6,0.5,3,5,0.8,1,1
+gubbish,both,LR,no,n,garbage,n,rubbish,n,,,Thurner (SL),,incorrect or useless computer data,0,,1,1,0,1,1,6,0.5,3,5,0.8,1,1
+guestage,both,LR,no,n,guest,n,hostage,n,,,Thurner,,a guest of a foreign country who is not allowed to leave,-1,,1,1,0,1,0.5,4,1,0,6,0.666666667,2,0
+guestimate,both,WW,no,n,guess,n,estimate,n,,,Thurner (WE),,an estimate made with little or no supporting information,-2,,1,1,0,1,0,3,1,0,7,1,0,0
+gumbacco,both,WR,no,n,gum,n,tobacco,n,,,Thurner (FW),,an unsavority combination of chewing gum and tobacco popular among professional baseball players,-2,,1,1,0,1,0.5,3,1,0,6,0.833333333,1,0
+gungineer,2,WR,no,n,gun,n,engineer,n,,,Thurner (DS),,military slang for an engineer responsible for the task of mounting heavy guns,-2,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+Gymboree,2,WR,no,n,gym,n,jamboree,n,,,Thurner (BTC),KS,"play equipment, The Gymboree Corp.",-2,,0.5,1,0.5,1,0.5,3,1,0,7,0.714285714,2,0
+gyrene,both,LR,no,n,GI,n,Marine,n,,,Thurner (DAS),,a colloquial name for a United States Marine,0,,0.5,1,0.5,0,1,3,0.666666667,1,4,0.5,2,0
+habitude,both,WR,no,n,habit,n,attitude,n,,,Thurner (TGP),,"a particular, habitual way of doing things",-1,,1,1,0,1,0.5,5,1,0,6,0.833333333,1,0
+hain,both,LR,no,n,hail,n,rain,n,,,Thurner (TGP),,precipitation consisting of a mixture of hail and rain,0,,1,1,0,1,1,3,0.666666667,1,3,0.666666667,1,0
+hamateur,both,WW,no,n,ham,n,amateur,n,,,Thurner (SOL),,an actor who compensates for inexperience by overacting,-2,,1,1,0,1,0,3,1,0,5,1,0,0
+handraulic,2,WR,no,adj,hand,n,hydraulic,adj,,,Thurner (OED),,any process or operation performed by hand instead of by mechanical means,-2,,1,1,0,0,0.5,4,1,0,8,0.875,1,0
+handtector,2,WR,no,n,hand,n,detector,n,,,Thurner (BAR),,a hand-held metal detector,-2,,1,1,0,0,0.5,4,1,0,7,0.857142857,1,0
+hangarage,both,WW,no,n,hangar,n,garage,n,,,Thurner (OED),,a hangar that provides shelter for aircraft,0,,0.5,1,0.5,0,0.5,4,1,0,4,0.75,1,0
+harmelodic,both,LW,no,adj,harmonic,adj,melodic,adj,,,Thurner (BDC),,"a style of modern music featuring extensive improvisation and utilizing a variety of keys, tempos, and instruments",0,,0,1,1,0,0.5,8,0.875,1,7,1,0,1
+harmonicello,2,LW,no,n,harmonic,adj,cello,n,,,Thurner (MI),,a bowed musical instrument similar to the viola,1,,0.5,1,0.5,1,0.5,8,0.875,1,4,1,0,1
+harumphrodite,2,WR,no,n,harumph,int,hermaphrodite,n,,,Thurner (OED),,slang for a hermaphrodite,-2,,1,1,0,0,0.5,6,1,0,10,0.7,3,0
+Hashbury,both,LW,no,n,Haight,n,Ashbury,n,,,Thurner (DAS),,"a colloquial name for the Haight-Ashbury district of San Francisco, with an obvious reference to the drug ""hash""",-2,,1,1,0,1,0.5,3,0.333333333,2,6,1,0,1
+Hawcubites,both,RR,no,n,Mohawks,n,Jacobites,n,,,Thurner (BPF),,a band of ruffians who roamed the streets of 18th century London,-1,,1,1,0,1,1,6,0.666666667,2,8,0.75,2,1
+haylage,both,WR,no,n,hay,n,silage,n,,,Thurner (WE),,partially dried hay that has been stored as livestock forage,-1,,1,1,0,1,0.5,2,1,0,5,0.6,2,0
+Hearphone,2,WW,yes,n,hear,v,earphone,n,,,Thurner (BTC),KS,audio devices (Technical Exhibits Corp),,,,,,,,,,,,,,
+heartistic,2,WW,no,adj,heart,n,artistic,adj,,,Thurner (PBW),,characteristic of art that dwells on overly emotional or sentimental themes,-2,,1,1,0,0,0,4,1,0,8,1,0,0
+heatronic,2,WR,no,adj,heat,n,electronic,adj,,,Thurner (DNW),,heated by means of an electric current,-3,,0,1,1,1,0.5,3,1,0,10,0.6,4,0
+hective,both,LR,no,adj,hectic,adj,active,adj,,,Thurner (FW),,feverishly active,0,,1,1,0,1,1,6,0.833333333,1,5,0.8,1,0
+hellennium,2,WR,no,n,hell,n,millennium,n,,,Thurner (AL),,"a thousand-year period in hell, the antithesis of the Christian belief that the second coming of Christ will initiate His thousand-year reign on earth",-3,,1,1,0,0,0.5,3,1,0,8,0.75,2,0
+hellion,2,WR,no,n,hell,n,hallion,n,,,Thurner (WE),,"a disorderly or troublesome person, hallion being an archaic word meaning scamp or scoundrel",-1,,1,1,0,0,0.5,3,1,0,6,0.666666667,2,0
+hellophone,2,WR,no,n,hello,expr,telephone,n,,,Thurner (BL),,a telephone,-1,,0,1,1,1,0.5,4,1,0,7,0.857142857,1,0
+hempire,2,WW,no,n,hemp,n,empire,n,,,Thurner (DS),,a derisive name for the British Commonwealth of Nations,-2,,1,1,0,0,0,4,1,0,5,1,0,0
+heredipity,both,LR,no,n,heredity,n,serendipity,n,,,Thurner (MBD),,a search of ancestral records in an effort to establish family ties that would legitimize the right to claim a legacy,-1,,0,1,1,0,1,7,0.857142857,1,11,0.636363636,4,0
+herodynamics,2,WR,no,n,hero,n,aerodynamics,n,,,Thurner (TM),,a hypothetical group of laws governing the fortunes of heroic figures,-3,,1,1,0,0,0.5,4,1,0,11,0.909090909,1,0
+herohotic,both,WWR,no,n,hero,n,hot,adj,erotic,adj,Thurner (DS),,a euphemism describing the genre of sexually suggestive novels that enjoyed wide popularity around the turn of the century,,,,,,,,,,,,,,
+herstory,2,WR,no,n,her,pn,history,n,,,Thurner (BDC),,history written from the female point of view,-2,,1,0,1,0,0.5,2,1,0,6,0.833333333,1,0
+hesiflation,both,LR,no,n,hesitation,n,inflation,n,,,Thurner (BNE),,"a period of halting, sporadic economic growth, coupled with high inflation",1,,1,1,0,1,1,9,0.888888889,1,8,0.75,2,0
+hican,both,LR,no,n,hickory,n,pecan,n,,,Thurner (FO),,the hybrid of a hickory and a pecan tree,1,,0,1,1,0,1,5,0.6,2,5,0.6,2,0
+himmicane,2,WR,no,n,him,pn,hurricane,n,,,Thurner (BNE),,a humorous reference to the U.S. Weather Bureau's revised policy of giving hurricanes male names on an alternating basis with female names,-2,,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+Hinglish,both,LR,no,n,Hindi,n,English,n,,,Thurner (HDC),,Hindi words or phrases borrowed from the English language,0,,1,1,0,1,0.5,5,0.4,3,6,1,0,1
+hintimation,both,WW,no,n,hint,n,intimation,n,,,Thurner (FW),,a slight or indirect indication,-3,,0.5,1,0.5,0,0,4,1,0,9,1,0,0
+hobohemia,2,WW,no,n,hobo,n,Bohemia,n,,,Thurner (WE),,a rundown urban district where hoboes tend to congregate,-2,,0.5,1,0.5,1,0,4,1,0,7,1,0,0
+hobosexual,2,WR,no,n,hobo,n,homosexual,n,,,Thurner (JA),,a person with transient sexual habits,-3,,0.5,1,0.5,1,0.5,4,1,0,12,0.916666667,1,0
+hoggerel,2,WR,no,n,hog,n,doggerel,n,,,Thurner (MBD),,vulgar songs or poetry,-2,,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+hoke,both,LR,no,n,haze,n,smoke,n,,,Thurner (FW),,a blend of haze and smoke,0,,1,1,0,1,1,3,0.333333333,2,4,0.5,2,1
+hometel,2,WW,no,n,home,n,hotel,n,,,Thurner (BDC),,a hotel featuring apartment-like suites; a tourist home,-1,,0,1,1,1,0,3,1,0,5,1,0,0
+homocidious,2,LR,no,adj,homicide,n,insidious,adj,,,Thurner (AL),,murderously cunning,-1,,0.5,1,0.5,1,1,7,0.857142857,1,8,0.75,2,0
+homonymble,1,WW,no,n,homonym,n,nimble,adj,,,Thurner (IPE),,"a pun based upon a homonym, a word sounding the same as another, but with a different meaning",1,,0.5,1,0.5,0,0,7,1,0,6,1,0,0
+Honglomerate,2,LR,no,n,Hong Kong,n,conglomerate,n,,,Thurner (JA),,a multinational corporation with its headquarters in the Far East,-2,,0.5,1,0.5,1,1,8,0.5,4,10,0.7,3,1
+hoolivan,2,LW,no,n,hooligan,n,van,n,,,Thurner (OED),,"a police van equipped with cameras and video equipment, used to monitor crowd behaviour at sporting events, etc.",2,,1,0.5,0.5,0,0.5,7,0.714285714,2,3,1,0,1
+horrorscope,2,WW,no,n,horror,n,horoscope,n,,,Thurner (DS),,a frightening horoscope,-1,,1,1,0,0,0.5,4,1,0,8,0.875,1,0
+hozey,both,LR,no,n,honey,n,floozy,n,,,Thurner (DAS),,a woman of loose morals who is somewhat slovenly in appearance but affectionate in nature,0,,1,1,0,1,1,4,0.75,1,5,0.4,3,0
+huggle,both,WR,no,v,hug,v,snuggle,v,,,Thurner (FW),,to cuddle or nestle comfortably with another,-1,,1,1,0,1,0.5,3,1,0,6,0.666666667,2,0
+humalin,2,LR,no,n,human,n,insulin,n,,,Thurner (BAR),,"insulin that is effective in treating diseases of the human body, manufactured by means of genetic engineering",-1,,1,1,0,0,0.5,6,1,0,7,0.571428571,3,0
+humaniac,2,WW,no,n,humane,adj,maniac,n,,,Thurner,,an overly zealous animal rights activist,-1,,1,1,0,0,0,6,1,0,6,1,0,0
+humgumption,2,LW,no,n,humbug,n,gumption,n,,,Thurner (DS),,an exaggerated sense of self-importance; nonsense,0,,0.5,1,0.5,1,0.5,6,0.666666667,2,7,1,0,1
+humint,2,LL,no,n,human,n,intelligence,n,,,Thurner (SL),,military slang for intelligence information gathered by humans rather than electronically,,,,,,,,,,,,,,
+humiture,both,LR,no,n,humidity,n,temperature,n,,,Thurner (SEL),,a composite index that measures the effect of humidity on the human body,1,,0,1,1,0,1,9,0.555555556,4,8,0.5,4,0
+huppie,both,LR,no,n,hippie,n,yuppie,n,,,Thurner (SL),,a yuppie who chooses to live an upwardly mobile and also somewhat unconventional lifestyle,0,,1,1,0,1,1,4,0.75,1,4,0.75,1,0
+huskiing,2,LW,no,n,husky,n,skiing,n,,,Thurner (WO),,a winter sport in which a team of huskies pulls a person equipped with snow skis,0,,1,0,1,0,0,5,1,0,5,1,0,0
+ibsenity,2,WR,no,n,Ibsen,n,obscenity,n,,,Thurner (DS),,a play dealing with distasteful or disagreeable subjects. Many of the 19th century Norwegian dramatist Henrik Ibsen's plays included realistic and often scandalous portrayals of sensitive social problems,-2,,0.5,1,0.5,1,1,5,0.8,1,8,0.875,1,1
+Identikit,2,LW,yes,n,identity,n,kit,n,,,Thurner (BPF),sw1 - KS,trademark name for a means of identifying criminals by creating composite photographs which are an assemblage of individual features selected by witnesses from a variety of drawings,,,,,,,,,,,,,,
+identikit,2,LW,no,n,identical,adj,kit,n,,,Thurner (WES),,"an item produced by means of routine assembly of stock materials, the result being notably stereotyped in form",3,,1,0,1,0,0.5,9,0.666666667,3,3,1,0,1
+idylatry,2,WR,no,n,idyll,n,idolatry,n,,,Thurner (OE),,the worship of nature,-2,,1,0,1,0,0.5,4,1,0,8,0.875,1,0
+ignostic,2,LR,no,n,ignorant,adj,agnostic,n,,,Thurner (SEL),,a person who believes there is a way of knowing the truth without empiric proof,0,,0.5,1,0.5,1,1,7,0.571428571,3,8,0.875,1,1
+imagineer,2,WR,no,n,imagine,v,engineer,n,,,Thurner,,a person who undertakes the work of imagineering,0,,1,1,0,0,0.5,6,1,0,7,0.285714286,5,0
+imagineering,2,WR,no,n,imagine,v,engineering,n,,,Thurner (BNE),,"engineering and design through the use of computer graphics, in which it is presumed that one's imagination represents the only limit to what can be achieved",-1,,1,1,0,0,0.5,6,1,0,9,0.444444444,5,0
+immateur,2,LR,no,n,immature,adj,amateur,n,,,Thurner,,"a professional athlete whose career is characterized by outbursts of petulant, immature behavior, either during competitive events or in their personal life",0,,0,1,1,1,1,7,0.428571429,4,5,0.8,1,1
+immittance,both,LR,no,n,impedance,n,admittance,n,,,Thurner (WE),,"a characteristic of instruments of transmission or measurement, the function of which is to either impede or admit that which is being transmitted or measured",0,,1,1,0,1,1,8,0.625,3,8,0.75,2,1
+Immunitea,2,orth,yes,n,immunity,n,tea,n,,,Thurner (BTC),JM,herbal tea (Unitea Herbs),,,,,,,,,,,,,,
+imperviable,both,LR,no,adj,impervious,adj,impermeable,adj,,,Thurner (WE),,not permeable; not allowing entrance or passage through,-1,,1,1,0,1,1,8,0.875,1,10,0.7,3,0
+impittious,matrix,embed,no,adj,impetuous,adj,pity,adj,,,Thurner (IPE),sw2 - KS,in reckless haste. Used by Shakespeare in Hamlet to describe Laertes' reaction to the death of Ophelia,,,,,,,,,,,,,,
+incestry,both,WR,no,n,incest,n,ancestry,n,,,Thurner,,ancestral heritage that includes incestuous conduct,-1,,1,1,0,1,0.5,6,1,0,8,0.875,1,0
+Indocrat,2,LR,no,n,independent,adj,Democrat,n,,,Thurner (BL),,a member of the Democratic party who is inclined to take an independent or non-partisan stance on many issues,1,,0,1,1,1,1,11,0.454545455,6,8,0.75,2,1
+Industriever,2,LR,yes,n,industry,n,retriever,n,,,Thurner (BTC),JM,"storage and retrieval systems (Kardex Systems, Inc.)",,,,,,,,,,,,,,
+Indy-Yucky,both,LR,yes,n,Indiana,n,Kentucky,n,,,Thurner,,a colloquial name for the metropolitan area along the border of Kentucky and Indiana,,,,,,,,,,,,,,
+infanticipate,2,WW,no,v,infant,n,anticipate,v,,,Thurner (AL),,to look forward to the birth of a child. Coined by Walkter Winchell,-2,,0.5,1,0.5,1,0.5,6,0.833333333,1,9,1,0,1
+Infantoy,2,WW,yes,n,infant,n,toy,n,,,Thurner (BTC),JM,"toys (Alabe Products, Inc.)",,,,,,,,,,,,,,
+Infantray,2,WW,yes,n,infant,n,tray,n,,,Thurner (BTC),JM,"nursery organizer (A-Plus Products, Inc.)",,,,,,,,,,,,,,
+infernoise,2,LW,no,n,infernal,adj,noise,n,,,Thurner (TM),,an infernal amount of noise,2,,1,0.5,0.5,0,0.5,7,0.714285714,2,3,1,0,1
+Inflatoy,2,LW,yes,n,inflated,adj,toy,n,,,Thurner (BTC),JM,"pre-inflated toys  (Alvimar Mfg. Co., Inc.)",,,,,,,,,,,,,,
+infomaniac,2,LW,no,n,information,n,maniac,n,,,Thurner,,a person obsessed with trivial facts and information,1,,1,1,0,0,0.5,9,0.666666667,3,6,1,0,1
+infomercial,2,LW,no,n,information,n,commercial,n,,,Thurner,,"a semi-documentary feature of varying length, typically shown on cable television, combining general information on a particular topic with a subtle promotional message from a commercial sponsor",1,,0,0,0,0,1,9,0.666666667,3,7,0.857142857,1,1
+infopreneur,2,LR,no,n,information,n,entrepreneur,n,,,Thurner (NW),,a person engaged in the field of information technology,0,,0,1,1,1,1,9,0.666666667,3,10,0.6,4,0
+informance,2,LR,no,n,informative,adj,performance,n,,,Thurner (AM),sw1 - OED,"performance art in which a spokesperson, narrator, or artist speaks to the audience about aspects of the work being presented",1,,1,1,0,0,1,10,0.7,3,9,0.777777778,2,1
+informercial,2,LR,no,n,information,n,commercial,n,,,Thurner (NWD),,"a semi-documentary feature of varying length, typically shown on cable television, combining general information on a particular topic with a subtle promotional message from a commercial sponsor",1,,1,1,0,0,1,9,0.777777778,2,7,0.714285714,2,0
+infotainment,2,LR,no,n,information,n,entertainment,n,,,Thurner (DJ),,"television programming which is intended to be educational or informative in content, but also dramatic in the style of its presentation",0,,1,1,0,0,1,9,0.666666667,3,11,0.727272727,3,1
+innoventure,2,LW,no,n,innovative,adj,venture,n,,,Thurner (NW),,"a venture, epecially one involving finance or investment, which is innovative or unconventional",2,,0.5,1,0.5,1,0.5,8,0.5,4,5,1,0,1
+inscrewtable,matrix,orth,no,adj,inscrutable,adj,screw,v,,,Thurner (JA),,film industry jargon for a pornographic movie which features Oriental women,,,,,,,,,,,,,,
+Insectape,2,WW,yes,n,insect,n,tape,n,,,Thurner (BTC),KS,insecticides (Hercon Laboratories Corp.),,,,,,,,,,,,,,
+Insectocutor,2,WR,yes,n,insect,n,electrocutor,n,,,Thurner (TND),JM,insect electrocutor (Hercon Laboratories Corp.),,,,,,,,,,,,,,
+insinuendo,both,LR,no,n,insinuation,n,innuendo,n,,,Thurner (WE),,a veiled allusion or rumor which subtly discredits a person's character or reputation,1,,1,1,0,1,0.5,11,0.727272727,3,8,1,0,1
+Instalbum,2,LW,yes,n,instant,adj,album,n,,,Thurner (BTC),JM,"photo albums (Hudson Photographic Industries, Inc.)",,,,,,,,,,,,,,
+Instamatic,both,LR,yes,adj,instant,adj,automatic,adj,,,Thurner (BTC),KS,"cameras, projectors, and film (Eastman Kodak Co.)",,,,,,,,,,,,,,
+Instantan,2,WW,yes,n,instant,adj,tan,n,,,Thurner (BTC),JM,tanning aid (Professional Aids Corp.),,,,,,,,,,,,,,
+Instantea,2,WW,yes,n,instant,adj,tea,n,,,Thurner (BTC),JM,"instant tea (Redco Foods, Inc.)",,,,,,,,,,,,,,
+Insulectric,both,LR,yes,adj,insulating,adj,electric,adj,,,Thurner (BTC),KS,"paint (Standard T Chemical Co., Inc.)",,,,,,,,,,,,,,
+integraph,2,LW,no,n,integral,n,graph,n,,,Thurner (DST),sw2 - KS,a device used to complete a mathematical integration by graphical methods,2,,1,0.5,0.5,0,0.5,8,0.75,2,4,1,0,1
+intelligentleman,2,WW,no,n,intelligent,adj,gentleman,n,,,Thurner (AL),,a man who is equally respected for his impeccable manners and his intellectual abiliity. Coined by Walter Winchell,1,,0.5,1,0.5,1,0.5,10,0.9,1,9,1,0,1
+Intellivision,2,LW,yes,n,intelligent,adj,television,n,,,Thurner (TND),KS,"video game (Mattel, Inc.)",,,,,,,,,,,,,,
+interrobang,both,LW,no,n,interrogation point,n,bang,n,,,Thurner (WE),,"a punctuation mark intended for use after exclamatory rhetorical questions such as ""Why me?"" The interrobang is represented as an exclamation point superimposed over a question mark and borrows the source word bang from printer's slang for an exclamation point",5,,0,0.5,0.5,0,0.5,15,0.4,9,3,1,0,1
+Intimints,2,LW,yes,n,intimate,adj,mints,n,,,Thurner (BTC),JM,chocolate (Intimint Chocolate),,,,,,,,,,,,,,
+intrinsicate,both,WR,no,adj,intrinsic,adj,intricate,adj,,,Thurner,,"that which is complex and also hidden or internal in nature. It appears in the last act of William Shakespeare's Antony & Cleopatra, during the scene in which Cleopatra holds the asp to her breast: ""With thy sharp teeth this knot intrinsicate / Of life at once untie""",0,,1,1,0,1,0.5,9,0.888888889,1,8,1,0,1
+Invisibleach,2,WW,yes,n,invisible,adj,bleach,n,,,Thurner (BTC),JM,"facial hair bleach (Gambine Products, Inc.)",,,,,,,,,,,,,,
+irage,2,LW,no,n,Iran,n,rage,n,,,Thurner (WO),,the national feeling of rage and hostility toward Iran which was expressed by Americans during the 1979 embassy hostage crisis,1,,1,1,0,0,0.5,4,0.5,2,3,1,0,1
+Irrezestables,1,embed,yes,n,irresistibles,n,zest,n,,,Thurner (BTC),KS,frozen entrees (Stouffer Foods Corp.),,,,,,,,,,,,,,
+isolite,2,LR,no,n,isolate,v,light,n,,,Thurner (SBD),,"a particular replay technique during televised sports events which was briefly popular in the mid-1970s, in which an individual player appeared in a ring of light, while other players were shown in a visible, but dimmer, background",2,,1,0.5,0.5,0,0.5,6,0.833333333,1,3,1,0,1
+itchitate,2,WR,no,v,itch,n,irritate,v,,,Thurner (MBN),,to irritate by causing an itch; the act of irritating in a particularly annoying manner,-2,,1,1,0,0,0.5,2,1,0,6,0.833333333,1,0
+jackelope,both,LR,no,n,jackrabbit,n,antelope,n,,,Thurner,,"a legendary horned rabbit of the Amerian West, reputed to be a hybrid of the jackrabbit and the antelope. Proof of the existence of the jackalope consists mainly of spurious photographs produced for the benefits of tourists, plus occasional exhibits of jackrabbits mounted as trophies, complete with sets of antelope horns jutting from their heads",0,,1,1,0,1,1,8,0.5,4,7,0.714285714,2,1
+Jacobethan,both,LR,no,adj,Jacobean,adj,Elizabethan,adj,,,Thurner (AS),,"a style of architecture utilized in the design of many of the private homes built in the United States between 1890 and 1920. Blending traditional English Elizabethan and Jacobean characteristics, including the use of rough stucco exteriors and half-timber framing, this style has also been called ""Tudor"" or ""Medieval Revival"" style of architecture",-1,,1,1,0,1,0.5,8,1,0,10,0.6,4,0
+Jambrosia,both,WW,yes,n,jam,n,ambrosia,n,,,Thurner (TNT),JM,fruit spread (Emma's),,,,,,,,,,,,,,
+jamocha,both,LW,no,n,java,n,mocha,n,,,Thurner (WE),,a slang term for coffee,0,,0,1,1,0,0.5,4,0.5,2,4,1,0,1
+Japanazi,both,LW,no,n,Japanese,n,Nazi,n,,,Thurner (DAS),,military slang used in World War II to designate a military operation by combined Japanese and Nazi forces,1,,1,1,0,1,0.5,7,0.857142857,1,5,1,0,1
+jargantuan,2,LR,no,adj,jargon,n,gargantuan,adj,,,Thurner (AT),,a word describing the task of keeping pace with the constantly changing jargon of modern lanugage; the nature of the task of translating works written in professional jargon into plain English,-2,,0,1,1,1,0.5,6,1,0,10,0.9,1,0
+jargonaut,2,WR,no,n,jargon,n,argonaut,n,,,Thurner (SE),,"a person who uses, creates, or attempts to define jargon",-1,,1,1,0,0,0,6,1,0,7,1,0,0
+jargoneer,2,WR,no,n,jargon,n,engineer,n,,,Thurner (OL),,a person adept at creating or using jargon; a jargonaut,-1,,0.5,1,0.5,1,0.5,6,1,0,7,0.714285714,2,0
+jarming,matrix,embed,no,n,jogging,n,arm,n,,,Thurner (NW),,"strenuous and prolonged exercise of the upper body, a regimen considered by many to be as beneficial to cardiovascular fitness as jogging",,,,,,,,,,,,,,
+jasponyx,2,LW,no,n,jasper,n,onyx,n,,,Thurner (WE),,onyx containing layers which are partly or entirely jasper,0,,0.5,1,0.5,1,0.5,5,0.8,1,5,1,0,1
+jawbation,2,orth,no,n,jaw,n,jobation,n,,,Thurner (WE),,"a long, tiresome reproof, a jobation being a harangue or lecture",,,,,,,,,,,,,,
+jazzetry,2,WR,no,n,jazz,n,poetry,n,,,Thurner (OED),,poetry which is read aloud to the accompaniment of jazz music,-2,,1,1,0,0,0.5,3,1,0,6,0.666666667,2,0
+jeepney,both,WR,no,n,jeep,n,jitney,n,,,Thurner (SEL),,"a jeep converted into a jitney bus, a type of vehicle popular in the Philippines",-1,,1,1,0,1,0.5,3,1,0,5,0.6,2,0
+jetevator,2,WR,no,n,jet,n,elevator,n,,,Thurner (OED),,"a ring-shaped deflector around the exhaust of a rocket engine which can be swiveled to redirect the rocket exhaust, thus altering the direction of thrust",-3,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+Jewfro,2,WR,no,n,Jew,n,afro,n,,,Thurner (ND),,"a long, curly, full-bodied style of wearing one's hair, similar to an Afro",-1,,1,1,0,0,0.5,2,1,0,4,0.75,1,0
+jingle-bellegant,2,LR,no,adj,jingle bells,n,elegant,adj,,,Thurner (SEL),,elegantly dressed in a style or color appropriate to the Christmas season,0,,0.5,1,0.5,1,0.5,10,0.9,1,7,1,0,1
+jivernacular,2,WW,no,adj,jive,n,vernacular,n,,,Thurner (AM),,characteristic of the informal language used among blacks,-3,,0.5,1,0.5,1,0,3,1,0,9,1,0,0
+jocoserious,both,WW,no,adj,jocose,adj,serious,adj,,,Thurner (MBD),,that which is both funny and serious at the same time,-1,,0.5,1,0.5,0,0,5,1,0,6,1,0,0
+jollop,2,LR,no,n,jolly,adj,dollop,n,,,Thurner (NTC),,a drink of liquor,0,,1,1,0,0,1,4,0.75,1,5,0.8,1,1
+jolly bean,2,WR,no,n,jolly,adj,jelly bean,n,,,Thurner (JA),,drug slang for any stimulant taken orally as a pill or capsule,-1,,1,1,0,0,0.5,4,1,0,7,0.857142857,1,0
+judder,both,LR,no,v,jar,v,shudder,v,,,Thurner (WE),,"to vibrate intensely, a word often used to describe the vibration of aircraft engines",-1,,1,1,0,1,1,3,0.333333333,2,4,0.75,1,1
+Judicare,2,LW,no,n,judicial,adj,care,n,,,Thurner (BAR),JM,a government-sponsored program in which free legal services are provided to the poor,2,,0,0.5,0.5,1,0.5,7,0.571428571,3,3,1,0,1
+jummix,both,LW,no,v,jumble,v,mix,v,,,Thurner (PBW),,"to mix together in a confused, disorderly heap",1,,1,0.5,0.5,1,0.5,6,0.5,3,4,1,0,1
+jurisprude,2,LW,no,n,jurisprudence,n,prude,n,,,Thurner (WE),,one whose legal opinions are based on severely moralistic or puritanical principles,3,,0,0.5,0.5,1,0.5,12,0.666666667,4,4,1,0,1
+juvenescence,2,LR,no,adj,juvenile,adj,adolescence,n,,,Thurner (OED),,the state of being or becoming young,-1,,0.5,1,0.5,1,1,7,0.857142857,1,9,0.666666667,3,0
+juvescence,2,LR,no,adj,juvenile,adj,adolescence,n,,,Thurner,,the state of being or becoming young,-1,,0.5,1,0.5,1,1,7,0.714285714,2,9,0.555555556,4,0
+kaferita,2,LR,no,n,kafir,n,feterita,n,,,Thurner (WE),,"a hybrid of kafir and feterita, two common varieties of sorghum",-2,,0.5,1,0.5,1,0.5,4,1,0,7,0.714285714,2,0
+Kaleidiskettes,2,LW,yes,n,kaleidoscope,n,diskettes,n,,,Thurner (BTC),JM,"colored floppy diskettes (Allenbach Industries, Inc.)",,,,,,,,,,,,,,
+kangarooster,both,WW,no,n,kangaroo,n,rooster,n,,,Thurner (DS),,Australian slang for an amusing or eccentric person,1,,1,1,0,1,0.5,6,1,0,5,0.8,1,0
+Kanorado,both,LR,yes,n,Kansas,n,Colorado,n,,,Thurner (AL),,a city on the border of Kansas and Colorado,,,,,,,,,,,,,,
+Kensee,both,LR,yes,n,Kentucky,n,Tennessee,n,,,Thurner (NA),,a city on the border of Kentucky and Tennessee,,,,,,,,,,,,,,
+Kentuckiana,both,LR,yes,n,Kentucky,n,Indiana,n,,,Thurner,,"a colloquial name for the metropolitan area along the border of Kentucky and Indiana, including the city of Louisville, Kentucky. Despite the widespread acceptance of Kentuckiana as a label that promotes regional identity, some residents still prefer alternatives such as the self-deprecating ""Indy-Yucky""",,,,,,,,,,,,,,
+kerseymere,both,WR,no,n,kersey,n,cassimere,n,,,Thurner (WE),,"a fine woolen fabric with a close nap, similar to kersey or cassimere wool",-1,,1,1,0,1,0.5,4,1,0,7,0.571428571,3,0
+kidult,both,WR,no,n,kid,n,adult,n,,,Thurner (NWD),,a television industry term for that portion of the viewing audience between the ages of 12 and 34,-1,,0.5,1,0.5,0,0.5,3,1,0,5,0.8,1,0
+kissletoe,2,WR,no,n,kiss,n,mistletoe,n,,,Thurner (BL),,"the mistletoe, a reference to the popular custom of offering kisses beneath a hanging sprig of mistletoe at Christmas",-2,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+klavern,2,LR,yes,n,Klan,n,cavern,n,,,Thurner (WE),,a unit of the Ku Klux Klan; a place where such a group might meet,,,,,,,,,,,,,,
+kleagle,2,LW,yes,n,Klan,n,eagle,n,,,Thurner (WE),,a high-ranking officer in the hierarchy of the Ku Klux Klan,,,,,,,,,,,,,,
+Klonclave,2,LR,yes,n,Klan,n,conclave,n,,,Thurner (BAI),,a regular meeting of the members of the Ku Klux Klan,,,,,,,,,,,,,,
+Klonvocation,2,LR,yes,n,Klan,n,convocation,n,,,Thurner (BAI),,the supreme governing body of the Ku Klux Klan,,,,,,,,,,,,,,
+Kloran,2,LR,yes,n,Klan,n,Koran,n,,,Thurner (IH),,"a sacred book which spells out all the duties, passwords, and oaths of the Ku Klux Klan",,,,,,,,,,,,,,
+Knitility,2,LR,yes,n,knitting,n,utility,n,,,Thurner (TND),JM,knitting bags (Associated Needlecraft Corp.),,,,,,,,,,,,,,
+knurl,both,WR,no,n,knur,n,gnarl,n,,,Thurner (WE),,"a small protuberance, excrescence or knob; in Scotland, any short, thickset person. A knur is a rough knot or burr in wood",0,,1,1,0,1,0.5,2,1,0,4,0.5,2,0
+Koalaby,both,WR,yes,n,Koala,n,wallaby,n,,,Thurner (TND),JM,"stuffed toy (Gund, Inc.)",,,,,,,,,,,,,,
+lactalbumin,both,LW,no,n,lactose,n,albumin,n,,,Thurner (DST),,"a simple protein contained in milk which is similar to serum albumin, and of high nutritional quality",-1,,0.5,1,0.5,0,0.5,6,0.666666667,2,8,1,0,1
+lamburger,2,WW,no,n,lamb,n,hamburger,n,,,Thurner,,a hamburger patty made from ground lamb,-2,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+lasket,2,LR,no,n,latchet,n,gasket,n,,,Thurner (WE),,a type of latching used to fasten the sails of a sailboat,0,,1,1,0,0,1,6,0.666666667,2,6,0.833333333,1,1
+laspring,both,LW,no,n,last,adj,spring,n,,,Thurner (WE),,a British dialect word for young salmon,0,,1,0,1,1,0.5,4,0.75,1,5,1,0,1
+lassitudinarian,2,LR,no,n,lassitude,n,latitudinarian,n,,,Thurner (DS),,a person in ill health and lethargic spirits,-4,,0,1,1,1,0.5,7,1,0,14,0.857142857,2,0
+latensification,2,LR,no,n,latent,adj,intensification,n,,,Thurner (WE),,intensification of a latent photographic image by means of chemical treatment or exposure to light,-4,,0,1,1,1,1,6,0.833333333,1,14,0.857142857,2,1
+Lathurn,2,LW,yes,n,lather,n,urn,n,,,Thurner (BTC),JM,"soap dispenser, American Disposer Co., Inc.",,,,,,,,,,,,,,
+leerics,2,WR,no,n,leer,v,lyrics,n,,,Thurner (JA),,sexually suggestive song lyrics,-1,,1,1,0,0,0.5,3,0.666666667,1,6,1,0,1
+legitimactor,2,LW,no,n,legitimate,adj,actor,n,,,Thurner (TM),,an actor of proven merit,2,,0,1,1,1,0.5,9,0.888888889,1,4,1,0,1
+Leisuramics,both,LR,yes,n,leisure,n,ceramics,n,,,Thurner (BTC),JM,"art molds, Gare, Inc.",,,,,,,,,,,,,,
+Leisurest,both,LW,yes,n,leisure,n,rest,n,,,Thurner (BTC),JM,"upholstered couches, Imperial Leather Furniture Co.",,,,,,,,,,,,,,
+lemoncholy,2,WR,no,adj,lemon,n,melancholy,adj,,,Thurner (DS),,"in a state of melancholia.  Created by a transposition of letters, lemoncholy is also a pun in the sense that it aptly describes someone with a ""sour disposition""",-2,,1,1,0,0,1,5,0.6,2,9,0.666666667,3,1
+leopon,both,LR,no,n,leopard,n,lion,n,,,Thurner (BAR),,the offspring of a leopard and a lioness,0,,1,1,0,1,1,5,0.6,2,4,0.75,1,1
+leotites,both,LW,no,n,leotard,n,tights,n,,,Thurner (OWW),,"a garment providing close-fitting coverings for both the body and the legs, usually worn during dance or exercise",2,,1,0.5,0.5,1,0.5,7,0.571428571,3,4,1,0,1
+Levelawn,both,WW,yes,n,level,v,lawn,n,,,Thurner (BTC),,"rake and leveler, Cushman",,,,,,,,,,,,,,
+lewdity,2,WR,no,n,lewd,adj,nudity,n,,,Thurner,,"nudity, especially when presented in a frankly sexual way",-2,,1,1,0,0,0.5,3,1,0,6,0.666666667,2,0
+libratory,both,LR,no,n,library,n,laboratory,n,,,Thurner (WWA),,a university facility combining the functions of a research laboratory with that of a research library,-1,,1,1,0,1,1,7,0.857142857,1,9,0.888888889,1,1
+lidar,2,LR,no,n,light,n,radar,n,,,Thurner (WES),,"a device or system for locating objects.  Similar to radar, lidar operates by emitting pulsed laser light instead of microwaves",-1,,1,0,1,0,1,3,0.666666667,1,5,0.6,2,0
+liger,both,LR,no,n,lion,n,tiger,n,,,Thurner (WE),,"the hybrid of a female tiger and a male lion.  Normally the result of interbreeding among circus animals, these hybrid cats may also be called 'tiglons' or 'tigons', depending on the sex of the parents.  Back-crossing a liger with a tiger results in still another hybrid, known as a 'tili'.",0,,1,1,0,1,1,4,0.5,2,4,0.75,1,1
+Lightarget,2,WW,yes,n,light,n,target,n,,,Thurner (BTC),JM,"archery target, Bear Archery",,,,,,,,,,,,,,
+limequat,both,WR,no,n,lime,n,kumquat,n,,,Thurner (WE),,a hybrid of the lime and kumquat,-1,,1,1,0,1,0.5,3,1,0,7,0.714285714,2,0
+Limitimer,2,WW,yes,n,limit,n,timer,n,,,Thurner (BTC),JM,"timer for public speakers, D'San Corp.",,,,,,,,,,,,,,
+limon,both,LR,no,n,lime,n,lemon,n,,,Thurner (WE),,a hybrid of the lime and lemon,-1,,1,1,0,1,0.5,3,1,0,5,0.8,1,0
+Liquidose,2,WW,yes,n,liquid,n,dose,n,,,Thurner (BTC),JM,"food products, California-Omega Foods",,,,,,,,,,,,,,
+Liquifry,both,LW,yes,v,liquify,v,fry,v,,,Thurner (BTC),"sw1-KS, sw2-JM","fish food, Aquarium Products, Inc.",,,,,,,,,,,,,,
+Lockits,2,WW,yes,n,lock,n,kits,n,,,Thurner (BTC),JM,"combination locks, U.S. Fiberglass, Inc.",,,,,,,,,,,,,,
+Loctagons,2,LW,yes,n,lock,v,octagons,n,,,Thurner (BTC),JM,"educational toys, Lauri, Inc.",,,,,,,,,,,,,,
+Logoptics,both,WW,yes,n,logo,n,optics,n,,,Thurner (DJ),,"the trademark of a pictorial sign system that has been proposed as a means of replacing verbal language with a simple, universal system",0,,0,1,1,0,0.5,4,0.75,1,6,1,0,1
+lordolatry,2,WR,no,n,lord,n,idolatry,n,,,Thurner (TGP),,title worship; admiration for a person based solely on that person's social rank,-3,,0,1,1,1,0.5,4,1,0,8,0.875,1,0
+Louisvillain,2,LW,no,n,Louisville,n,villain,n,,,Thurner (AL),,"a native of Louisville, Kentucky.  Coined by H.L. Mencken",1,,0,1,1,1,0.5,6,0.833333333,1,5,1,0,1
+lovertine,2,WR,no,n,love,n,libertine,n,,,Thurner (MBD BL),,"a person devoted to the art of love-making, a word attributed to English dramatist Thomas Dekker",-2,,1,1,0,0,0.5,3,1,0,7,0.714285714,2,0
+loxygen,2,LW,no,n,liquid,adj,oxygen,n,,,Thurner (WE),,liquid oxygen,-1,,1,1,0,0,1,6,0.5,3,7,0.857142857,1,1
+lumbersome,2,WR,no,adj,lumber,v,cumbersome,adj,,,Thurner (WE),,ponderous or clumsy; cumbersome,-1,,1,1,0,0,0.5,5,1,0,8,0.875,1,0
+lumpshious,both,WR,no,adj,lovely,adj,scrumptious,adj,,,Thurner (DS),,"extremely delicious, or delightful in appearance",0,,1,1,0,1,1,5,0.4,3,8,0.625,3,1
+luncheon,both,WR,no,n,lunch,n,nuncheon,n,,,Thurner (AL),,a light lunch.  The root word 'nuncheon' dates from the 14th century,-1,,1,1,0,1,0.5,4,1,0,6,0.833333333,1,0
+lunk,2,LR,no,n,line,n,trunk,n,,,Thurner (DST),,"in telecommunications, an access line that terminates in an automatic dial exchange, where it functions as an access line for subscribers, and as a trunk line for the automatic dial exchange equipment",0,,1,1,0,0,1,3,0.666666667,1,5,0.4,3,0
+lupper,both,LR,no,n,lunch,n,supper,n,,,Thurner (YNW),,"an afternoon meal, considered either a late lunch or an early supper",-1,,1,1,0,1,1,4,0.5,2,4,0.75,1,1
+luptious,both,RR,no,adj,voluptuous,adj,delicious,adj,,,Thurner (DS),,having an appearance of loveliness and delight,1,,0,0,0,1,1,10,0.3,7,7,0.571428571,3,1
+Luxuray,2,orth,yes,n,luxury,adj,ray,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+Lyrichord,both,WW,yes,n,lyric,n,chord,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+lyrichord,2,WW,no,n,lyric,n,chord,n,,,Thurner (MI),,,1,,1,0.5,0.5,0,0,5,1,0,4,1,0,0
+machodrama,2,WR,no,n,macho,adj,melodrama,n,,,Thurner (ND),,,-2,,1,1,0,0,0.5,4,1,0,9,0.666666667,3,0
+macon,both,LR,no,n,mutton,n,bacon,n,,,Thurner (YNW),,,0,,1,1,0,1,1,5,0.6,2,5,0.8,1,1
+Madhattaner,both,embed,no,n,mad hatter,n,Manhattan,n,,,Thurner (NA),,,,,,,,,,,,,,,,
+magalog,both,LR,no,n,magazine,n,catalog,n,,,Thurner (NW),,,0,,1,1,0,1,1,7,0.571428571,3,7,0.714285714,2,1
+magniloquent,both,LR,no,adj,magnificent,adj,eloquent,adj,,,Thurner (TGP),,,1,,1,1,0,1,1,11,0.818181818,2,8,0.875,1,1
+magpiety,2,WW,no,n,magpie,n,piety,n,,,Thurner (OED),,,-1,,0.5,1,0.5,1,0,5,1,0,5,1,0,0
+malaphor,2,LR,no,n,malaprop,n,metaphor,n,,,Thurner (IPE),,,0,,1,1,0,0,1,8,0.625,3,7,0.714285714,2,1
+Manglish,2,WR,no,n,man,n,English,n,,,Thurner (DD),,,-1,,1,1,0,0,1,3,0.666666667,1,6,0.833333333,1,1
+Manimal,both,WW,no,n,man,n,animal,n,,,Thurner,,,-2,,1,1,0,1,0,3,1,0,6,1,0,0
+manit,2,WR,no,n,man,n,minute,n,,,Thurner (MBD),,,-1,,1,1,0,0,0.5,3,1,0,5,0.8,1,0
+mankey,both,WR,no,n,man,n,monkey,n,,,Thurner (NWE),,,-1,,1,0,1,1,0.5,3,1,0,5,0.6,2,0
+manscape,2,WR,no,n,man,n,landscape,n,,,Thurner (OED),,,-1,,1,1,0,0,0.5,3,1,0,8,0.75,2,0
+Manwich,2,LR,yes,n,man,n,sandwich,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+Mardi Grass,2,LW,no,n,Mardi Gras,n,grass,n,,,Thurner,,,2,,1,0.5,0.5,0,0.5,8,0.875,1,4,1,0,1
+maridelic,2,LR,no,adj,marijuana,n,psychedelic,adj,,,Thurner (NTC),,,0,,1,1,0,0,1,8,0.5,4,9,0.666666667,3,1
+martempering,2,LW,no,n,martensite,n,tempering,n,,,Thurner (WE),,,0,,0.5,1,0.5,1,0.5,9,0.444444444,5,7,1,0,1
+matax,both,LW,no,n,mattock,n,ax,n,,,Thurner (WE),,,1,,1,0.5,0.5,1,0.5,5,0.8,1,3,1,0,1
+mathemagician,both,LW,no,n,mathematician,n,magician,n,,,Thurner (TM),sw1 edit--KS,,2,,1,1,0,1,0.5,11,0.909090909,1,7,1,0,1
+mattergy,both,WR,no,n,matter,n,energy,n,,,Thurner (WSC),,,-1,,1,1,0,1,0.5,4,1,0,5,0.6,2,0
+maximin,both,LL,no,adj,maximum,n,minimum,n,,,Thurner (OED),,,,,,,,,,,,,,,,
+McGovernment,2,WW,no,n,McGovern,n,government,n,,,Thurner (JO),,,0,,1,1,0,0,0,7,1,0,8,1,0,0
+meacock,2,WR,no,n,meek,n,peacock,n,,,Thurner (WE),,,-1,,1,1,0,0,0.5,3,1,0,5,0.8,1,0
+meaconing,2,LR,no,n,misleading,adj,beaconing,n,,,Thurner (DST),,,0,,0,1,1,1,1,8,0.375,5,7,0.857142857,1,1
+meatlegger,2,WR,no,n,meat,n,bootlegger,n,,,Thurner (NWE),,,-2,,1,1,0,0,0.5,3,1,0,7,0.714285714,2,0
+mediamorphosis,2,WR,no,n,media,n,metamorphosis,n,,,Thurner (BAR),,,-2,,0.5,1,0.5,1,0.5,5,1,0,12,0.833333333,2,0
+medichair,2,LW,no,n,medical,adj,chair,n,,,Thurner (BAR),,,2,,1,1,0,0,0.5,7,0.571428571,3,3,1,0,1
+megalopolitan,2,LR,no,adj,megalopolis,n,metropolitan,n,,,Thurner (BAI),,,0,,0,1,1,1,1,11,0.727272727,3,12,0.833333333,2,1
+melodica,2,WR,no,n,melodic,adj,harmonica,n,,,Thurner (BAR),,,-1,,1,1,0,0,0.5,7,1,0,9,0.555555556,4,0
+meniable,2,LR,no,adj,menial,adj,amenable,adj,,,Thurner,,,-1,,1,0,1,0,0.5,6,1,0,8,0.875,1,0
+Mesopolonica,both,LR,no,n,Mesopotamia,n,Salonica,n,,,Thurner (DS),,,2,,1,1,0,1,0.5,11,0.636363636,4,8,1,0,1
+methodolatry,2,WR,no,n,method,n,idolatry,n,,,Thurner (DNW),,,-2,,0.5,1,0.5,1,0.5,5,1,0,8,0.875,1,0
+Metrollopis,matrix,embed,no,n,metropolis,n,trollop,n,,,Thurner (DS),,,,,,,,,,,,,,,,
+metropollyana,2,LW,no,n,metropolitan,adj,Pollyana,n,,,Thurner (WO),,,1,,0.5,1,0.5,1,0.5,12,0.75,3,7,1,0,1
+metropolypus,both,LW,no,n,metropolis,n,polypus,n,,,Thurner (BL),,,1,,0,1,1,0,0.5,10,0.5,5,7,1,0,1
+Mexicali,both,LL,no,n,Mexico,n,California,n,,,Thurner (AL),,,,,,,,,,,,,,,,
+Mexicancellation,2,WW,no,n,Mexican,n,cancellation,n,,,Thurner (DA),,,-1,,0.5,1,0.5,1,0,8,1,0,10,1,0,0
+Mexicatessen,2,LR,yes,n,Mexican,adj,delicatessen,n,,,Thurner (BTC),KS,,,,,,,,,,,,,,,
+mexicola,2,LW,no,n,Mexico,n,cola,n,,,Thurner (BG),,,1,,0.5,1,0.5,1,0,7,1,0,4,1,0,0
+middlescence,2,WR,no,n,middle,n,obsolescence,n,,,Thurner (BNE),,,-2,,0.5,1,0.5,1,0.5,5,1,0,10,0.7,3,0
+Mildoom,2,LW,yes,n,mildew,n,doom,n,,,Thurner (BTC),KS,,,,,,,,,,,,,,,
+milicrat,2,LR,no,n,military,n,bureaucrat,n,,,Thurner (SL),,,1,,1,1,0,0,1,8,0.625,3,9,0.555555556,4,0
+milkstache,2,WR,no,n,milk,n,mustache,n,,,Thurner (FW),,,-1,,1,1,0,0,0.5,4,1,0,6,0.833333333,1,0
+millionheiress,2,WW,no,n,millionaire,n,heiress,n,,,Thurner (DA),,,1,,1,1,0,0,0,8,1,0,4,1,0,0
+mimsy,both,LR,no,adj,miserable,adj,flimsy,adj,,,Thurner (AA),,,2,,1,1,0,1,1,8,0.375,5,6,0.666666667,2,1
+mingy,both,LR,no,adj,mean,adj,stingy,adj,,,Thurner (WE),,,-1,,1,1,0,1,1,3,0.666666667,1,6,0.666666667,2,0
+mirthquake,2,WW,no,n,mirth,n,earthquake,n,,,Thurner (OED),,,-1,,1,1,0,0,0,3,1,0,6,1,0,0
+mizzle,both,LR,no,n,mist,n,drizzle,n,,,Thurner (WE),,,-1,,1,1,0,1,1,4,0.5,2,6,0.666666667,2,1
+mobot,2,LR,no,n,motor,n,robot,n,,,Thurner (WSC),,,0,,1,1,0,0,1,4,0.75,1,5,0.8,1,1
+moccasock,both,LW,no,n,moccasin,n,sock,n,,,Thurner (DNW),,,2,,1,0.5,0.5,1,0.5,7,0.714285714,2,3,1,0,1
+mockabre,2,WR,no,adj,mock,adj,macabre,adj,,,Thurner (BAI),,,-2,,0,1,1,1,0.5,3,1,0,7,0.857142857,1,0
+mocktail,2,WR,no,n,mock,adj,cocktail,n,,,Thurner,,,-1,,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+modacrylic,2,LW,no,n,modified,adj,acrylic,n,,,Thurner (OED),,,0,,0.5,1,0.5,1,0.5,7,0.571428571,3,7,1,0,1
+mog,both,LR,no,v,move,v,jog,v,,,Thurner (WE),,,0,,1,1,0,1,1,3,0.333333333,2,3,0.666666667,1,1
+molectronics,2,LR,no,n,molecular,adj,electronics,n,,,Thurner (DST),,,0,,0.5,1,0.5,1,1,9,0.555555556,4,11,0.909090909,1,1
+momentaneity,2,LR,no,n,momentary,adj,spontaneity,n,,,Thurner (OED),,,-1,,0.5,1,0.5,1,1,9,0.777777778,2,11,0.727272727,3,0
+momentaneous,both,LR,no,adj,momentary,adj,spontaneous,adj,,,Thurner (OED),,,0,,0.5,1,0.5,0,1,9,0.777777778,2,10,0.7,3,0
+monstracious,both,LR,no,adj,monstrous,adj,ferocious,adj,,,Thurner (OTW),,,-1,,0,1,1,0,0.5,8,1,0,6,0.5,3,0
+moondoggle,2,WR,no,n,moon,n,boondoggle,n,,,Thurner (DJ),,,-2,,0.5,1,0.5,1,0.5,3,1,0,8,0.875,1,0
+Moorth,both,LR,yes,n,Moon,n,Earth,n,,,Thurner (DCS),,,,,,,,,,,,,,,,
+Moosevelt,2,WR,no,n,moose,n,Roosevelt,n,,,Thurner (BL),,,-2,,1,1,0,0,0.5,3,1,0,8,0.75,2,0
+motel,2,LR,no,n,motor,n,hotel,n,,,Thurner (YNW),,,0,,0,1,1,1,1,4,0.75,1,5,0.8,1,1
+motopia,2,LR,no,n,motor,n,utopia,n,,,Thurner (OED),,,-2,,0.5,1,0.5,1,1,4,0.75,1,7,0.714285714,2,0
+motorcade,2,WR,no,n,motor,n,cavalcade,n,,,Thurner (DAS),,,-1,,1,1,0,0,0.5,4,1,0,8,0.375,5,0
+mounce,2,LW,no,n,metric,adj,ounce,n,,,Thurner (DST),,,1,,1,1,0,0,0.5,6,0.166666667,5,3,1,0,1
+mousewife,2,WR,no,n,mouse,n,housewife,n,,,Thurner (BAI),,,-1,,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+movelist,2,LR,no,n,movie,n,novelist,n,,,Thurner (SEL),,,-1,,1,1,0,0,1,4,0.75,1,8,0.75,2,0
+movideo,both,LW,no,n,movie,n,video,n,,,Thurner (NWD),,,-1,,0.5,1,0.5,0,0,4,1,0,5,1,0,0
+mudge,both,LR,no,v,move,v,budge,v,,,Thurner (WE),,,0,,1,1,0,1,1,3,0.333333333,2,3,0.666666667,1,1
+mugid,both,LR,no,adj,muggy,adj,humid,adj,,,Thurner (FW),,,0,,1,1,0,1,1,4,0.75,1,6,0.5,3,0
+multiversity,2,LR,no,n,multiple,adj,university,n,,,Thurner (WES),,,-2,,0.5,1,0.5,1,1,8,0.75,2,10,0.7,3,0
+Mummerset,2,WR,no,n,mummer,n,Somerset,n,,,Thurner (DJ),,,-1,,1,1,0,0,0.5,4,1,0,7,0.857142857,1,0
+namesmanship,2,WR,no,n,names,n,gamesmanship,n,,,Thurner (OED),,,-2,,1,1,0,0,0.5,4,1,0,10,0.9,1,0
+napalm,both,LL,no,n,naphthene,n,palmitate,n,,,Thurner (WSC),,,,,,,,,,,,,,,,
+narcoma,2,LW,no,n,narcotic,n,coma,n,,,Thurner (BAI),,,1,,1,1,0,0,0.5,8,0.5,4,4,1,0,1
+neatnik,2,WR,no,n,neat,adj,beatnik,n,,,Thurner (OED),,,-1,,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+needcessity,both,WR,no,n,need,n,necessity,n,,,Thurner (WE),,,-3,,0.5,1,0.5,0,0.5,3,1,0,8,0.875,1,0
+negentropy,2,LW,no,n,negative,adj,entropy,n,,,Thurner (OED),,,0,,0.5,1,0.5,1,0.5,7,0.571428571,3,7,1,0,1
+Neurope,2,LR,no,n,new,adj,Europe,n,,,Thurner (DS),,,-1,,1,1,0,0,1,2,0.5,1,5,0.8,1,1
+newelty,2,WR,no,n,new,adj,novelty,n,,,Thurner (BL),,,-2,,1,1,0,0,0.5,2,1,0,7,0.714285714,2,0
+Newfanglia,2,LW,no,n,new-fangled,adj,Anglia,n,,,Thurner (DA),,,0,,0.5,1,0.5,1,0.5,9,0.777777778,2,6,1,0,1
+Newmania,2,LW,no,n,Newman,n,mania,n,,,Thurner (OED),,,-1,,0.5,1,0.5,1,0.5,5,0.8,1,5,1,0,1
+newszine,2,WR,no,n,news,n,magazine,n,,,Thurner (DJ),,,-2,,1,0,1,0,0.5,3,1,0,7,0.428571429,4,0
+newtique,2,WR,no,n,new,adj,boutique,n,,,Thurner (DA),,,-1,,0,1,1,1,0.5,2,1,0,5,0.8,1,0
+Newyorican,both,LR,no,n,New-York,n,Puerto-Rican,n,,,Thurner (BNE),,,-2,,0.5,1,0.5,0,0.5,6,1,0,11,0.545454545,5,0
+Newzak,1,WR,no,n,news,n,Muzak,n,,,Thurner (NW),,,-1,,1,1,0,1,0.5,3,1,0,6,0.666666667,2,0
+nickelodeon,both,WR,no,n,nickel,n,melodeon,n,,,Thurner (WE),,,-2,,0.5,1,0.5,0,1,5,0.8,1,8,0.75,2,0
+nicotunia,both,LR,no,n,nicotine,n,petunia,n,,,Thurner (BL),,,-1,,1,1,0,1,1,7,0.857142857,1,7,0.857142857,1,0
+niniversity,2,WR,no,n,ninny,n,university,n,,,Thurner (OED),,,-3,,0.5,1,0.5,1,0.5,4,1,0,10,0.8,2,0
+nitrogation,2,LR,no,n,nitrogen,n,irrigation,n,,,Thurner (DNW),,,-1,,0.5,1,0.5,1,1,8,0.75,2,8,0.875,1,1
+nobodaddy,both,LW,no,n,nobody,n,daddy,n,,,Thurner (OED),,,1,,1,0.5,0.5,1,0,6,1,0,4,1,0,0
+nonsensational,2,WW,no,adj,nonsense,n,sensational,adj,,,Thurner (DS),,,-2,,0.5,1,0.5,1,0,7,1,0,10,1,0,0
+noration,both,LW,no,n,narration,n,oration,n,,,Thurner (BL),,,0,,1,1,0,1,0.5,7,0.857142857,1,6,1,0,1
+nudgement,2,WR,no,n,nudge,v,judgment,n,,,Thurner (JA),,,-1,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+nukemare,2,WR,no,n,nuke,n,nightmare,n,,,Thurner (NW),,,-1,,1,1,0,0,0.5,3,1,0,6,0.666666667,2,0
+numberal,both,WR,no,n,number,n,numeral,n,,,Thurner (PBW),,,-1,,1,1,0,1,0.5,5,1,0,6,0.833333333,1,0
+numberous,2,WR,no,adj,number,n,numerous,n,,,Thurner (BL),,,-1,,1,1,0,0,0.5,5,1,0,6,0.833333333,1,0
+numeracy,2,LR,no,n,numeral,n,literacy,n,,,Thurner (OED),,,-1,,1,1,0,0,1,6,0.833333333,1,7,0.571428571,3,0
+nutter,2,WR,no,n,nut,n,butter,n,,,Thurner (OED),,,-1,,1,1,0,0,0.5,3,1,0,4,0.75,1,0
+obscureaucracy,2,WR,no,n,obscure,adj,bureaucracy,n,,,Thurner,,,-2,,0.5,1,0.5,1,0,7,1,0,10,1,0,0
+obscureaucrat,2,WR,no,n,obscure,adj,bureaucrat,n,,,Thurner,,,-1,,1,1,0,0,0,7,1,0,9,1,0,0
+obstipation,2,LR,no,n,obstinate,adj,constipation,n,,,Thurner (DST),,,-1,,0.5,1,0.5,1,1,8,0.75,2,11,0.818181818,2,1
+occultivated,2,WR,no,adj,occult,n,cultivated,adj,,,Thurner (TM),,,-2,,1,1,0,0,0,5,1,0,10,1,0,0
+ocicat,2,LW,no,n,ocelot,n,cat,n,,,Thurner,,,2,,1,0.5,0.5,0,0.5,6,0.666666667,2,3,1,0,1
+Octopush,2,WW,no,n,octopus,n,push,n,,,Thurner (NW),,,2,,1,0.5,0.5,0,0.5,7,0.857142857,1,3,1,0,1
+odditorium,2,orth,no,n,odd,adj,auditorium,n,,,Thurner (OED),,,,,,,,,,,,,,,,
+Ohiowa,both,WW,no,n,Ohio,n,Iowa,n,,,Thurner (AL),,,0,,1,1,0,1,0.5,4,0.75,1,4,1,0,1
+olfactronics,2,LR,no,n,olfactory,adj,electronics,n,,,Thurner (BNW),,,0,,0,1,1,1,1,8,0.75,2,11,0.818181818,2,1
+Omahogs,2,LW,no,n,Omaha,n,hogs,n,,,Thurner (DD),,,2,,1,0.5,0.5,0,0,5,1,0,4,1,0,0
+opacifier,2,LW,no,n,opacity,n,pacifier,n,,,Thurner (DST),sw1 - KS,,0,,1,1,0,0,0.5,7,0.714285714,2,7,1,0,1
+opinionnaire,2,WR,no,n,opinion,n,questionnaire,n,,,Thurner (DJ),,,0,,0.5,1,0.5,1,0.5,7,1,0,9,0.444444444,5,0
+Opticap,2,WW,yes,n,optical,adj,cap,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+Opticare,2,WW,yes,n,optical,adj,care,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+Opticase,2,WW,yes,n,optical,adj,case,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+oracy,2,LR,no,n,oral,adj,literacy,n,,,Thurner (BNW),,,-2,,1,0,1,0,1,4,0.75,1,7,0.428571429,4,0
+orangelo,both,WR,no,n,orange,n,pomelo,n,,,Thurner (WE),,,-1,,0.5,0,0.5,1,0.5,5,1,0,6,0.5,3,0
+oranghetti,2,LR,no,n,orange,adj,spaghetti,n,,,Thurner,,,-1,,0.5,1,0.5,1,1,5,0.8,1,7,0.714285714,2,0
+orature,2,LR,no,n,oral,adj,literature,n,,,Thurner (BAR),,,-2,,1,0,1,0,1,4,0.75,1,7,0.428571429,4,0
+orchideous,2,WW,no,adj,orchid,n,hideous,adj,,,Thurner (TM),,,-1,,0.5,1,0.5,1,1,5,0.8,1,6,0.833333333,1,1
+Organicolor,2,WW,yes,n,organic,adj,color,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+organiculture,2,WW,no,n,organic,adj,culture,n,,,Thurner (DNW),,,1,,1,0.5,0.5,0,0,7,1,0,5,1,0,0
+Organicure,2,WW,yes,n,organic,adj,cure,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+Organicurl,2,WW,yes,n,organic,adj,curl,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+organola,both,WR,no,n,organ,n,pianola,n,,,Thurner (MI),,,-2,,0.5,1,0.5,0,0.5,5,1,0,7,0.714285714,2,0
+orpharion,both,LW,no,n,Orpheus,n,Arion,n,,,Thurner (WE),,,0,,0.5,1,0.5,0,0.5,6,0.666666667,2,5,1,0,1
+ortanique,both,LLR,no,n,orange,n,tangerine,n,unique,adj,Thurner (OED),,,,,,,,,,,,,,,,
+ovalbumin,2,WW,no,n,ova,n,albumin,n,,,Thurner (DST),,,-1,,0.5,1,0.5,1,0,3,1,0,8,1,0,0
+owdacious,both,LR,no,adj,outrageous,adj,audacious,adj,,,Thurner (OED),,,0,,1,1,0,1,1,7,0.571428571,3,6,0.833333333,1,1
+Oxbridge,both,LR,no,n,Oxford,n,Cambridge,n,,,Thurner (BPF),,,0,,1,0,1,1,1,6,0.5,3,7,0.714285714,2,1
+oysterics,2,WR,no,n,oyster,n,hysterics,n,,,Thurner (DS),,,-1,,0.5,1,0.5,1,1,4,0.75,1,9,0.777777778,2,1
+pajamboree,2,LW,no,n,pajama,n,jamboree,n,,,Thurner (AL),,,0,,0.5,1,0.5,1,0,6,1,0,7,1,0,0
+palevent,2,LW,no,n,paleography,n,event,n,,,Thurner (DST),,,3,,1,1,0,0,0.5,10,0.3,7,5,1,0,1
+palimony,2,WW,no,n,pal,n,alimony,n,,,Thurner (DJ),,,-3,,1,1,0,0,0.5,3,1,0,7,0.857142857,1,0
+paltripolitan,2,WR,no,n,paltry,adj,metropolitan,n,,,Thurner (BYR),,,-3,,1,1,0,0,0.5,6,1,0,12,0.75,3,0
+pantler,2,LR,no,n,pantry,n,butler,n,,,Thurner (WE),,,0,,1,1,0,0,1,6,0.666666667,2,5,0.6,2,0
+paperalysis,2,WW,no,n,paper,n,paralysis,n,,,Thurner (YNW),,,-2,,0.5,1,0.5,1,0,4,1,0,8,1,0,0
+Paralympics,2,LR,no,n,paraplegic,n,Olympics,n,,,Thurner (BNE),,,1,,1,1,0,0,1,10,0.7,3,8,0.875,1,1
+parascending,2,LR,no,n,parachute,n,ascending,n,,,Thurner (OED),,,0,,0.5,1,0.5,1,0.5,7,0.571428571,3,7,1,0,1
+parasheet,both,LW,no,n,parachute,n,sheet,n,,,Thurner (DST),,,2,,1,0.5,0.5,1,0.5,7,0.857142857,1,3,1,0,1
+parlambling,both,LR,no,n,parlance,n,ambling,n,,,Thurner (OE),,,-1,,0.5,1,0.5,0,0.5,7,0.714285714,2,7,1,0,1
+patriotute,2,WR,no,n,patriot,n,prostitute,n,,,Thurner (BAI),,,0,,0.5,0,0.5,0,0.5,7,1,0,9,0.666666667,3,0
+pecurious,both,LW,no,adj,peculiar,adj,curious,adj,,,Thurner (BL),,,0,,1,1,0,1,0.5,8,0.5,4,7,1,0,1
+peekture,2,WR,no,n,peek,v,picture,n,,,Thurner (BAI),,,-1,,1,1,0,0,0.5,3,1,0,5,0.8,1,0
+peninsularity,2,WW,no,n,peninsular,adj,insularity,n,,,Thurner (OED),,,-1,,0.5,1,0.5,1,0.5,9,0.888888889,1,10,1,0,1
+perverb,2,LR,no,n,perverse,adj,proverb,n,,,Thurner (WE),,,0,,0,1,1,1,1,5,0.8,1,6,0.666666667,2,0
+pervertising,2,WR,no,n,pervert,n,advertising,n,,,Thurner (BAI),,,-2,,1,1,0,0,0.5,5,1,0,9,0.777777778,2,0
+pessimal,2,LR,no,adj,pessimistic,adj,optimal,adj,,,Thurner (SL),,,1,,0,1,1,1,1,10,0.5,5,7,0.714285714,2,1
+petishism,2,WR,no,n,pet,n,fetishism,n,,,Thurner (BNE),,,-3,,1,1,0,0,0.5,3,1,0,9,0.888888889,1,0
+petroil,both,LW,no,n,petrol,n,oil,n,,,Thurner (OED),,,1,,1,1,0,1,0.5,6,0.833333333,1,2,1,0,1
+pettiloon,both,LW,no,n,petticoat,n,pantaloon,n,,,Thurner (DS),,,0,,1,1,0,1,1,7,0.571428571,3,8,0.625,3,1
+philanthrobber,both,LW,no,n,philanthropist,n,robber,n,,,Thurner (WWA),,,2,,1,0.5,0.5,1,0.5,12,0.583333333,5,4,1,0,1
+photomaton,2,WR,no,n,photo,n,automaton,n,,,Thurner (OED),,,-2,,1,1,0,0,1,4,0.75,1,8,0.875,1,1
+pianologue,2,WR,no,n,piano,n,monologue,n,,,Thurner (WE),,,0,,1,1,0,0,0.5,5,1,0,7,0.714285714,2,0
+pinkermint,1,WR,no,adj,pink,adj,peppermint,n,,,Thurner (BAI),,,-2,,1,1,0,1,0.5,4,1,0,8,0.75,2,0
+planacea,both,WW,no,n,plan,n,panacea,n,,,Thurner (FW),,,-3,,1,1,0,1,0,4,1,0,7,1,0,0
+planetesimal,both,WR,no,n,planet,n,infinitesimal,n,,,Thurner (WE),,,-4,,0.5,1,0.5,0,0.5,6,1,0,13,0.615384615,5,0
+plantimal,both,WR,no,n,plant,n,animal,n,,,Thurner (BNE),,,-2,,1,1,0,1,0,5,1,0,6,1,0,0
+platitudinarian,2,WW,no,n,platitude,n,latitudinarian,n,,,Thurner (MBD),,,-4,,0.5,1,0.5,1,0.5,8,0.875,1,14,1,0,1
+playbore,both,LW,no,n,playboy,n,bore,n,,,Thurner (WW),,,1,,1,0.5,0.5,1,0.5,5,0.8,1,3,1,0,1
+plench,both,LR,no,n,pliers,n,wrench,n,,,Thurner (WE),,,1,,1,1,0,1,1,5,0.4,3,4,0.75,1,1
+plugola,both,WR,no,n,plug,n,payola,n,,,Thurner (WES),,,-2,,0.5,1,0.5,0,0.5,4,1,0,5,0.8,1,0
+plumcot,both,WR,no,n,plum,n,apricot,n,,,Thurner (WE),,,-2,,1,0,1,1,0.5,4,1,0,7,0.714285714,2,0
+plumpendicular,2,WR,no,n,plumb,adj,perpendicular,n,,,Thurner (BL),,,-4,,0.5,1,0.5,1,0.5,4,1,0,12,0.916666667,1,0
+pluranimity,both,LR,no,n,plurality,n,unanimity,n,,,Thurner (OED),,,-1,,0,1,1,0,1,8,0.75,2,10,0.7,3,0
+pockmanteau,2,LR,no,n,pocket,n,portmanteau,n,,,Thurner (OED),,,-1,,0.5,1,0.5,1,1,5,0.8,1,9,0.666666667,3,0
+poet lariat,1,LW,no,n,poet laureate,n,lariat,n,,,Thurner,,,2,,1,1,0,1,0.5,10,0.9,1,6,1,0,1
+politichine,2,LR,no,n,political,adj,machine,n,,,Thurner (BL),,,2,,1,0.5,0.5,0,1,9,0.666666667,3,5,0.8,1,1
+politricks,both,LW,no,n,politics,n,tricks,n,,,Thurner (TM),,,2,,1,0.5,0.5,1,0,8,1,0,5,1,0,0
+pollitician,2,WR,no,n,poll,n,politician,n,,,Thurner (TM),,,-3,,0.5,1,0.5,1,0.5,3,1,0,9,0.888888889,1,0
+polocrosse,both,WR,no,n,polo,n,lacrosse,n,,,Thurner (WE),,,0,,1,0.5,0.5,1,0.5,4,0.75,1,6,1,0,1
+pomato,both,LR,no,n,potato,n,tomato,n,,,Thurner (WE),,,0,,1,1,0,1,1,6,0.666666667,2,6,0.833333333,1,1
+pompass,2,LW,no,n,pompous,adj,ass,n,,,Thurner (FW),,,1,,1,0.5,0.5,0,0.5,6,0.833333333,1,2,1,0,1
+pompetent,both,LR,no,adj,pompous,adj,competent,adj,,,Thurner (SEL),,,-1,,1,1,0,1,1,6,0.833333333,1,9,0.888888889,1,1
+poncess,2,WR,no,n,ponce,n,princess,n,,,Thurner (DS),,,0,,1,1,0,0,1,5,0.8,1,7,0.714285714,2,0
+popestant,2,WR,no,n,Pope,n,Protestant,n,,,Thurner (OED),,,-2,,1,1,0,0,0.5,3,1,0,10,0.7,3,0
+populuxe,both,LR,no,adj,popular,adj,deluxe,adj,,,Thurner (NWD),,,1,,0.5,1,0.5,0,1,7,0.857142857,1,6,0.833333333,1,0
+pornicator,2,WR,no,n,porn,n,fornicator,n,,,Thurner (JO),,,-3,,1,1,0,0,0.5,4,1,0,9,0.888888889,1,0
+portmantologism,both,LR,no,n,portmanteau,n,neologism,n,,,Thurner (BYR),,,-2,,1,1,0,1,1,9,0.888888889,1,10,0.9,1,1
+positron,2,LR,no,n,positive,adj,electron,n,,,Thurner (WE),,,0,,1,0,1,0,1,7,0.714285714,2,8,0.5,4,0
+posolutely,both,LR,no,adv,positively,adv,absolutely,adv,,,Thurner (IPE),,,0,,0.5,1,0.5,0,1,9,0.777777778,2,9,0.666666667,3,0
+possibilitate,2,LR,no,v,possibility,n,facilitate,v,,,Thurner (TGP),,,1,,1,1,0,0,1,10,0.9,1,9,0.777777778,2,0
+potomato,both,LR,no,n,potato,n,tomato,n,,,Thurner (WE),,,0,,0,1,1,0,0,6,1,0,6,1,0,0
+povertician,2,LR,no,n,poverty,n,politician,n,,,Thurner (BNE),,,-1,,0.5,1,0.5,1,1,6,0.833333333,1,9,0.777777778,2,0
+presbygational,both,LR,no,n,Presbyterian,n,Congregational,n,,,Thurner (BL),,,0,,1,1,0,1,1,12,0.666666667,4,13,0.615384615,5,0
+prevaricaterer,2,WW,no,n,prevaricate,v,caterer,n,,,Thurner (BL),,,1,,0.5,1,0.5,1,0,10,1,0,5,1,0,0
+prickado,2,WR,no,n,prick,v,passado,n,,,Thurner (TA),,,-2,,1,1,0,0,0.5,4,1,0,6,0.666666667,2,0
+priestianity,2,WR,no,n,priest,n,Christianity,n,,,Thurner (WE),,,-4,,0.5,1,0.5,1,0.5,5,1,0,11,0.727272727,3,0
+processorhea,2,WR,no,n,processor,n,diarrhea,n,,,Thurner (NW),,,-1,,0.5,1,0.5,1,0.5,7,1,0,5,0.6,2,0
+profanatic,2,LW,no,n,profane,adj,fanatic,n,,,Thurner (OED),,,-1,,0,1,1,1,0.5,6,0.833333333,1,7,1,0,1
+Prohiblican,2,LR,no,n,Prohibition,n,Republican,n,,,Thurner (BL),,,0,,0,1,1,1,1,9,0.555555556,4,10,0.7,3,1
+promptual,both,WR,no,adj,prompt,adj,punctual,adj,,,Thurner (BL),,,-2,,1,1,0,1,1,6,0.833333333,1,8,0.625,3,0
+proprietariat,2,WR,no,n,proprietary,adj,proletariat,n,,,Thurner (OED),,,0,,0.5,1,0.5,1,0.5,11,1,0,11,0.818181818,2,0
+prostisciutto,both,LR,no,n,prostitute,n,prosciutto,n,,,Thurner (OED),,,0,,0.5,1,0.5,0,0.5,9,0.777777778,2,7,1,0,1
+psychergy,2,LR,no,n,psychic,adj,energy,n,,,Thurner (BAI),,,-1,,1,1,0,0,1,5,0.6,2,5,0.6,2,0
+psychiatricky,2,LW,no,adj,psychiatry,n,tricky,adj,,,Thurner (WWA),,,2,,0.5,1,0.5,1,0,8,1,0,5,1,0,0
+pulmonia,2,LR,no,n,pulmonary,adj,pneumonia,n,,,Thurner (BL),,,1,,0.5,1,0.5,1,1,9,0.555555556,4,7,0.714285714,2,1
+Pulmotor,2,LW,no,n,pulmonary,adj,motor,n,,,Thurner (WE),,,2,,0.5,1,0.5,1,0.5,9,0.444444444,5,4,1,0,1
+Pumpernibbles,2,LW,no,n,pumpernickel,n,nibbles,n,,,Thurner (BTC),,,2,,1,0.5,0.5,0,0.5,10,0.9,1,6,1,0,1
+pushency,2,WR,no,n,push,v,urgency,n,,,Thurner (BL),,,-2,,1,1,0,0,0.5,3,1,0,6,0.666666667,2,0
+pyschedelicatessan,2,WW,no,n,psychedelic,adj,delicatessen,n,,,Thurner (TM),,,-1,,0.5,1,0.5,1,0,9,1,0,11,1,0,0
+Pyschedelphia,2,LR,no,n,psychedelic,adj,Philadelphia,n,,,Thurner (BAI),,,-1,,1,1,0,0,1,9,0.777777778,2,10,0.7,3,0
+quackupuncture,2,WR,no,n,quack,n,acupuncture,n,,,Thurner (BNE),,,-3,,1,1,0,0,0,4,1,0,10,1,0,0
+querious,2,WR,no,adj,query,n,curious,n,,,Thurner (BL),,,-1,,1,1,0,0,0.5,5,1,0,7,0.714285714,2,0
+queutopia,2,WW,no,n,queue,n,utopia,n,,,Thurner (SEL),,,-3,,0,1,1,1,0,3,1,0,7,1,0,0
+racon,2,LR,no,n,radar,n,beacon,n,,,Thurner (DNW),,,0,,1,1,0,0,1,5,0.4,3,5,0.6,2,1
+radiodor,2,WW,no,n,radio,n,odor,n,,,Thurner (AL),,,1,,1,0.5,0.5,0,0,5,1,0,3,1,0,0
+radiorator,2,WW,no,n,radio,n,orator,n,,,Thurner (AL),,,0,,0.5,1,0.5,1,0.5,5,0.8,1,5,1,0,1
+radome,2,LW,no,n,radar,n,dome,n,,,Thurner (BNW),,,1,,1,0.5,0.5,0,0.5,5,0.6,2,3,1,0,1
+rantankerous,both,LR,no,adj,rancorous,adj,cantankerous,adj,,,Thurner (AET),,,-1,,0.5,1,0.5,0,0.5,7,1,0,10,0.9,1,0
+Reaganomics,2,WR,no,n,Reagan,n,economics,n,,,Thurner,,,-2,,0.5,1,0.5,1,0.5,5,1,0,9,0.777777778,2,0
+rebuse,both,LR,no,v,rebuke,v,abuse,v,,,Thurner (BL),,,0,,1,1,0,1,1,6,0.833333333,1,5,0.8,1,0
+recollember,both,LR,no,v,recollect,v,remember,v,,,Thurner (HDC),,,0,,1,1,0,1,1,8,0.75,2,7,0.714285714,2,0
+recomember,both,LR,no,v,recollect,v,remember,v,,,Thurner (HDC),,,0,,1,1,0,1,1,8,0.625,3,7,0.857142857,1,1
+rectenna,2,LR,no,n,rectifying,adj,antenna,n,,,Thurner (BNW),,,1,,0.5,1,0.5,1,1,9,0.555555556,4,6,0.666666667,2,1
+refujew,both,LW,no,n,refugee,n,Jew,n,,,Thurner (DCS),,,2,,1,0.5,0.5,1,0.5,7,0.857142857,1,2,1,0,1
+rendezwoo,1,LW,no,n,rendezvous,n,woo,v,,,Thurner (BAI),,,2,,1,0.5,0.5,1,0.5,7,0.857142857,1,2,1,0,1
+replicar,both,LW,no,n,replica,n,car,n,,,Thurner (BNE),,,2,,1,0.5,0.5,1,0.5,7,0.857142857,1,3,1,0,1
+Republocrat,both,LR,no,n,Republican,n,Democrat,n,,,Thurner (OED),,,1,,1,1,0,1,1,10,0.7,3,8,0.625,3,0
+reversicon,2,LR,no,n,reverse,adj,lexicon,n,,,Thurner (MBD),,,-1,,1,1,0,0,0.5,5,1,0,8,0.625,3,0
+revudeville,both,WR,no,n,revue,n,vaudeville,n,,,Thurner (AL),,,0,,1,1,0,1,0.5,5,1,0,6,0.833333333,1,0
+rimbellisher,2,WR,no,n,rim,n,embellisher,n,,,Thurner (OED),,,-3,,0.5,1,0.5,1,0,3,1,0,8,1,0,0
+ritzycratic,both,WR,no,adj,ritzy,adj,aristocratic,adj,,,Thurner (PBW),,,-3,,0.5,1,0.5,0,0.5,5,1,0,11,0.727272727,3,0
+roblitz,2,LW,no,n,robot,n,blitz,n,,,Thurner (DNW),,,1,,1,0.5,0.5,0,0.5,5,0.8,1,5,1,0,1
+robomb,2,LW,no,n,robot,n,bomb,n,,,Thurner (MBD),,,1,,1,0.5,0.5,0,0.5,5,0.8,1,3,1,0,1
+rockabilly,both,WR,no,n,rock,n,hillbilly,n,,,Thurner (OED),,,-2,,1,0,1,1,0.5,3,1,0,7,0.571428571,3,0
+rockapella,both,WR,no,n,rock,n,acapella,n,,,Thurner,,,-3,,0.5,1,0.5,0,0,3,1,0,7,1,0,0
+rockoon,2,LR,no,n,rocket,n,balloon,n,,,Thurner (BNW),,,0,,0.5,1,0.5,1,1,5,0.6,2,5,0.4,3,0
+rockumentary,2,WR,no,n,rock,n,documentary,n,,,Thurner (NWD),,,-4,,0.5,1,0.5,1,0.5,3,1,0,11,0.909090909,1,0
+roleo,2,LR,no,n,roll,v,rodeo,n,,,Thurner (WE),,,-2,,1,1,0,0,0.5,3,1,0,5,0.8,1,0
+rollick,both,LR,no,v,romp,v,frolic,v,,,Thurner (WE),,,-1,,1,1,0,1,1,4,0.5,2,6,0.833333333,1,1
+Romiette,both,LR,no,n,Romeo,n,Juliet,n,,,Thurner (AL),,,0,,1,1,0,1,1,5,0.8,1,6,0.5,3,0
+rotovator,2,LR,no,n,rotary,adj,cultivator,n,,,Thurner (BAR),,,-1,,1,1,0,0,1,5,0.8,1,9,0.666666667,3,0
+routinary,both,WR,no,adj,routine,adj,ordinary,adj,,,Thurner (OED),,,-2,,1,0,1,1,0.5,5,1,0,8,0.625,3,0
+rubbage,both,LR,no,n,rubbish,n,garbage,n,,,Thurner (TW),,,0,,1,1,0,1,1,5,0.8,1,6,0.666666667,2,0
+ruddervator,both,LR,no,n,rudder,n,elevator,n,,,Thurner (WE),,,-2,,1,1,0,1,0.5,4,1,0,7,0.714285714,2,0
+rumbustious,2,LR,no,adj,rumble,v,rambunctious,adj,,,Thurner (WE),,,-1,,0.5,1,0.5,1,1,6,0.833333333,1,10,0.6,4,0
+runagade,both,LR,no,n,runner,n,renegade,n,,,Thurner (BAI),,,-1,,1,1,0,1,1,4,0.75,1,7,0.857142857,1,1
+rurban,both,LW,no,adj,rural,adj,urban,adj,,,Thurner (DNW),,,0,,1,1,0,1,0.5,5,0.4,3,4,1,0,1
+saccharhinoceros,2,WW,no,n,saccharine,ad,rhinoceros,n,,,Thurner (OED),,,-1,,0.5,1,0.5,1,0,6,1,0,8,1,0,0
+saketini,both,WR,no,n,sake,n,martini,n,,,Thurner (BG),,,-2,,0.5,1,0.5,0,1,3,0.666666667,1,7,0.714285714,2,1
+salariat,2,LR,no,n,salary,n,proletariat,n,,,Thurner (WE),,,-2,,0.5,1,0.5,1,1,5,0.8,1,11,0.545454545,5,0
+saloonatic,2,WW,no,n,saloon,n,lunatic,n,,,Thurner (DA),,,-1,,1,1,0,0,0,5,1,0,7,1,0,0
+samink,both,LW,no,n,sable,n,mink,n,,,Thurner (BAR),,,1,,1,0.5,0.5,1,0.5,5,0.4,3,4,1,0,1
+sanctanimity,2,LR,no,n,sanctimonious,adj,magnanimity,n,,,Thurner (BL),,,0,,1,1,0,0,1,12,0.583333333,5,11,0.727272727,3,1
+sanctimoody,both,LW,no,adj,sanctimonious,adj,moody,adj,,,Thurner (DS),,,3,,1,1,0,1,0.5,12,0.666666667,4,4,1,0,1
+Sandimals,2,WR,yes,n,sand,n,animals,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+satelloon,1,LR,no,n,satellite,n,balloon,n,,,Thurner (ID),,,1,,1,0.5,0.5,1,1,7,0.714285714,2,5,0.8,1,1
+satisfice,both,LR,no,v,satisfy,v,suffice,v,,,Thurner (WES),,,1,,1,0.5,0.5,1,0,7,1,0,5,1,0,0
+saucerer,2,WR,no,n,saucer,n,sorcerer,n,,,Thurner (TM),,,-1,,1,1,0,0,0.5,4,1,0,6,0.833333333,1,0
+savagerous,both,WR,no,adj,savage,adj,dangerous,adj,,,Thurner (AET),,,-1,,1,0,1,1,0.5,5,1,0,7,0.571428571,3,0
+scance,both,LR,no,v,scan,v,glance,v,,,Thurner (BL),,,0,,1,1,0,1,0.5,4,1,0,5,0.6,2,0
+scandiculous,both,LR,no,adj,scandalous,adj,ridiculous,adj,,,Thurner (BL),,,-1,,0.5,1,0.5,0,0.5,9,1,0,10,0.8,2,0
+Scandiknavery,2,LW,no,n,Scandinavian,adj,knavery,n,,,Thurner (OED),,,2,,1,1,0,0,0.5,12,0.833333333,2,5,1,0,1
+scarify,both,WR,no,v,scare,v,terrify,v,,,Thurner (OED),,,-2,,1,1,0,1,0.5,4,1,0,6,0.833333333,1,0
+schooligan,2,WR,no,n,school,n,hooligan,n,,,Thurner (DA),,,-2,,1,1,0,0,0.5,4,1,0,7,0.857142857,1,0
+scollege,2,LW,no,n,scholar,n,college,n,,,Thurner (BL),,,0,,1,1,0,0,0.5,5,0.8,1,5,1,0,1
+scrapnel,2,WR,no,n,scrap,n,shrapnel,n,,,Thurner (BNE),,,-1,,1,1,0,0,0.5,5,1,0,7,0.857142857,1,0
+screwmatics,2,WR,no,n,screw,n,rheumatics,n,,,Thurner (OED),,,-2,,0.5,1,0.5,1,0.5,4,1,0,9,0.888888889,1,0
+scrowsy,both,LR,no,adj,screwy,adj,lousy,adj,,,Thurner (DAS),,,0,,1,1,0,1,1,5,0.8,1,4,0.75,1,0
+scrumple,both,LW,no,v,squeeze,v,crumple,v,,,Thurner (WE),,,-1,,1,1,0,1,0.5,5,0.4,3,7,1,0,1
+scrutineer,2,WR,no,n,scrutiny,n,engineer,n,,,Thurner (OED),,,0,,1,1,0,0,1,8,0.875,1,7,0.571428571,3,0
+seafari,2,WR,no,n,sea,n,safari,n,,,Thurner (OWW),,,-2,,0.5,1,0.5,1,0.5,2,1,0,6,0.833333333,1,0
+seaquarium,2,WR,no,n,sea,n,aquarium,n,,,Thurner (OED),,,-3,,0.5,1,0.5,1,0.5,2,1,0,8,0.875,1,0
+seavacuation,2,WR,no,n,sea,n,evacuation,n,,,Thurner (LWW),,,-4,,0.5,1,0.5,1,0,2,1,0,11,1,0,0
+sejole,both,LR,no,v,seduce,v,cajole,v,,,Thurner (FW),,,0,,1,1,0,1,1,5,0.4,3,5,0.6,2,1
+selectorate,2,WR,no,n,select,n,electorate,n,,,Thurner (OED),,,-2,,1,1,0,0,0.5,6,1,0,8,0.875,1,0
+Senegambia,both,LW,no,n,Senegal,n,Gambia,n,,,Thurner (OED),,,0,,1,1,0,1,0.5,7,0.714285714,2,6,1,0,1
+sexational,2,WR,no,adj,sex,n,sensational,adj,,,Thurner (OED),,,-3,,1,1,0,0,0.5,4,1,0,10,0.9,1,0
+sexcapade,2,WR,no,n,sex,n,escapade,n,,,Thurner (OED),,,-2,,1,1,0,0,0,4,1,0,7,1,0,0
+sexercise,both,WW,no,n,sex,n,exercise,n,,,Thurner (WW),,,-2,,1,1,0,1,0,4,1,0,7,1,0,0
+sexetary,2,WR,no,n,sex,n,secretary,n,,,Thurner (WW),,,-3,,1,1,0,0,0.5,4,1,0,9,0.888888889,1,0
+sexhibition,2,WW,no,n,sex,n,exhibition,n,,,Thurner (DA),,,-3,,1,1,0,0,0,4,1,0,9,1,0,0
+sexlusive,2,WW,no,adj,sex,n,exclusive,adj,,,Thurner (DD),,,-2,,1,1,0,0,0.5,4,1,0,9,0.888888889,1,0
+sexophone,2,WR,no,n,sex,n,saxophone,n,,,Thurner (OED),,,-2,,1,1,0,0,0.5,4,1,0,8,0.875,1,0
+sexpert,2,WW,no,n,sex,n,expert,n,,,Thurner (DAS),,,-1,,1,1,0,0,0,4,1,0,6,1,0,0
+sexplanatory,2,WW,no,adj,sex,n,explanatory,adj,,,Thurner (DA),,,-4,,1,1,0,0,0.5,4,1,0,12,0.916666667,1,0
+sexplicit,2,WW,no,adj,sex,n,explicit,adj,,,Thurner (DA),,,-2,,1,1,0,0,0.5,4,1,0,9,0.888888889,1,0
+sexploitation,2,WW,no,n,sex,n,exploitation,n,,,Thurner (DD),,,-3,,1,1,0,0,0,4,1,0,11,1,0,0
+sexplosion,2,WW,no,n,sex,n,explosion,n,,,Thurner (DD),,,-2,,1,1,0,0,0.5,4,1,0,9,0.888888889,1,0
+sexport,2,WW,no,n,sex,n,export,n,,,Thurner (DD),,,-1,,1,1,0,0,0,4,1,0,7,1,0,0
+sexpose,2,WW,no,n,sex,n,expose,n,,,Thurner (TM),,,-1,,1,1,0,0,0.5,4,1,0,6,0.833333333,1,0
+sextrovert,2,WW,no,n,sex,n,extrovert,n,,,Thurner (TM),,,-2,,1,1,0,0,0,4,1,0,9,1,0,0
+shakesperience,2,WW,no,n,Shakespeare,n,experience,n,,,Thurner,,,-2,,0.5,1,0.5,1,0.5,7,1,0,10,0.8,2,0
+shamateurism,2,WW,no,n,sham,n,amateurism,n,,,Thurner (DJ),,,-4,,1,1,0,0,0,3,1,0,9,1,0,0
+shedonism,2,WR,no,n,she,pn,hedonism,n,,,Thurner (TM),,,-3,,1,1,0,0,0.5,2,1,0,9,0.888888889,1,0
+shero,2,WR,no,n,she,pn,hero,n,,,Thurner,,,-1,,1,1,0,0,0.5,2,1,0,4,0.75,1,0
+shim,both,LR,no,pn,she,pn,him,pn,,,Thurner,,,0,,1,1,0,1,1,2,0.5,1,3,0.666666667,1,1
+shitticism,2,WR,no,n,shit,n,witticism,n,,,Thurner (OED),,,-3,,1,1,0,0,0.5,3,1,0,9,0.888888889,1,0
+shoat,both,LR,no,n,sheep,n,goat,n,,,Thurner (BNW),,,0,,1,1,0,1,1,3,0.333333333,2,3,0.666666667,1,1
+siabon,both,LR,no,n,siamang,n,gibbon,n,,,Thurner (BAR),,,1,,1,0,1,1,1,6,0.5,3,5,0.6,2,1
+siberbia,2,LR,no,n,Siberia,n,suburbia,n,,,Thurner (ID),,,0,,1,1,0,0,1,7,0.714285714,2,7,0.857142857,1,1
+silcott,both,LL,no,n,silk,n,cotton,n,,,Thurner (OED),,,,,,,,,,,,,,,,
+sinclination,2,WW,no,n,sin,n,inclination,n,,,Thurner,,,-3,,0.5,1,0.5,1,0,3,1,0,10,1,0,0
+sinema,2,orth,no,n,sin,n,cinema,n,,,Thurner (DA),,,,,,,,,,,,,,,,
+Singlish,2,LR,no,n,Singapore,n,English,n,,,Thurner (SE),,,1,,1,1,0,0,0.5,7,0.428571429,4,6,1,0,1
+singspiration,2,WR,no,n,sing,v,inspiration,n,,,Thurner (TGP),,,-3,,0.5,1,0.5,1,0.5,3,1,0,9,0.888888889,1,0
+sinsational,2,WR,no,adj,sin,n,sensational,adj,,,Thurner (TM),,,-3,,1,1,0,0,0.5,3,1,0,10,0.9,1,0
+skatebordello,2,WW,no,n,skateboard,n,bordello,n,,,Thurner (TM),,,-1,,0.5,1,0.5,1,0,8,1,0,7,1,0,0
+skitching,2,WR,no,n,ski,n,hitching,n,,,Thurner,,,-1,,1,1,0,0,1,3,0.666666667,1,5,0.8,1,1
+skitcom,both,WW,no,n,skit,n,sitcom,n,,,Thurner (SL),,,-1,,1,1,0,1,0,4,1,0,6,1,0,0
+skort,both,LR,no,n,skirt,n,short,n,,,Thurner (ID),,,0,,1,1,0,1,1,4,0.75,1,4,0.75,1,0
+skurfing,2,LW,no,n,skid,v,surfing,n,,,Thurner (BNW),,,-1,,1,1,0,0,0.5,4,0.75,1,5,1,0,1
+skyjack,2,WR,no,v,sky,n,hijack,v,,,Thurner (WE),,,-1,,1,1,0,0,0.5,3,1,0,5,0.8,1,0
+skylon,2,WR,no,n,sky,n,pylon,n,,,Thurner (OED),,,-1,,1,1,0,0,0.5,3,1,0,5,0.8,1,0
+slanguage,both,WW,no,n,slang,n,language,n,,,Thurner (SSS),,,-1,,1,1,0,1,0,4,1,0,7,1,0,0
+slantindicular,2,WR,no,adj,slant,n,perpendicular,adj,,,Thurner (DWP),,,-4,,1,1,0,0,0.5,5,1,0,12,0.75,3,0
+slickery,2,WR,no,n,slick,adj,trickery,n,,,Thurner (BAI),,,-2,,1,1,0,0,0.5,4,1,0,6,0.666666667,2,0
+Slimnastics,2,WR,no,n,slim,adj,gymnastics,n,,,Thurner (WES),,,-2,,1,1,0,0,0.5,4,1,0,10,0.9,1,0
+slimsy,both,WR,no,adj,slim,adj,flimsy,adj,,,Thurner (WE),,,-1,,1,1,0,1,0.5,4,1,0,6,0.833333333,1,0
+slithy,both,embed,no,adj,slimy,adj,lithe,adj,,,Thurner (AA),,,,,,,,,,,,,,,,
+sloburb,2,WR,no,n,slob,n,suburb,n,,,Thurner (BAI),,,-1,,1,1,0,0,0.5,4,1,0,5,0.8,1,0
+slopperati,2,WR,no,n,sloppy,adj,literati,n,,,Thurner (NW),,,-2,,1,1,0,0,0.5,5,1,0,7,0.714285714,2,0
+slumpflation,both,WR,no,n,slump,n,inflation,n,,,Thurner (DJ),,,-2,,0.5,1,0.5,0,0.5,5,1,0,8,0.75,2,0
+smaze,both,LR,no,n,smoke,n,haze,n,,,Thurner (TGP),,,0,,1,1,0,1,1,4,0.5,2,3,0.666666667,1,1
+smealth,1,WW,no,n,smell,n,health,n,,,Thurner,,,0,,1,1,0,1,0.5,4,1,0,4,0.75,1,0
+smelodious,2,WW,no,adj,smell,n,odious,adj,,,Thurner (SEL),,,-2,,1,1,0,0,0,4,1,0,5,1,0,0
+smice,both,LW,no,n,smoke,n,ice,n,,,Thurner (ID),,,0,,1,1,0,1,0.5,4,0.5,2,2,1,0,1
+smist,both,LW,no,n,smoke,n,mist,n,,,Thurner (FW),,,0,,1,1,0,1,0.5,4,0.5,2,4,1,0,1
+smog,both,LR,no,n,smoke,n,fog,n,,,Thurner (DWP),,,0,,1,1,0,1,1,4,0.5,2,3,0.666666667,1,1
+smokolotive,both,LR-metath,no,n,smoke,n,locomotive,n,,,Thurner (BL),,,,,,,,,,,,,,,,
+smorgasborgy,2,LW,no,n,smorgasbord,n,orgy,n,,,Thurner (DA),,,1,,0.5,1,0.5,1,0.5,11,0.909090909,1,4,1,0,1
+smothercate,both,WR,no,v,smother,v,suffocate,v,,,Thurner (WE),,,-1,,1,1,0,1,0.5,5,1,0,7,0.714285714,2,0
+smoud,both,LR,no,n,smoke,n,cloud,n,,,Thurner (SOL),,,0,,1,1,0,1,1,4,0.5,2,4,0.5,2,0
+smurk,both,LW,no,n,smoke,n,murk,n,,,Thurner (DNW),,,0,,1,1,0,1,0.5,4,0.75,1,3,1,0,1
+smust,both,LR,no,n,smoke,n,dust,n,,,Thurner (SEL),,,0,,1,1,0,1,1,4,0.5,2,4,0.75,1,1
+snain,both,LR,no,n,snow,n,rain,n,,,Thurner (TGP),,,0,,1,1,0,1,1,3,0.666666667,1,3,0.666666667,1,0
+snangle,both,LR,no,v,snarl,v,tangle,v,,,Thurner (BL),,,-1,,1,1,0,1,1,5,0.6,2,6,0.833333333,1,1
+snark,both,LR,no,n,snake,n,shark,n,,,Thurner (DWP),,,0,,1,1,0,1,1,4,0.75,1,4,0.75,1,0
+sneakret,2,LR,no,n,sneak,v,secret,n,,,Thurner (BL),,,-1,,1,1,0,0,0,4,1,0,6,1,0,0
+sneet,both,LR,no,n,snow,n,sleet,n,,,Thurner (TGP),,,0,,1,1,0,1,1,3,0.666666667,1,4,0.75,1,1
+snivelization,2,WW,no,n,snivel,v,civilization,n,,,Thurner (OED),,,-3,,0.5,1,0.5,1,0,6,1,0,11,1,0,0
+snobject,2,WW,no,n,snob,n,object,n,,,Thurner (BAI),,,-1,,1,1,0,0,0,4,1,0,6,1,0,0
+snoblem,2,WR,no,n,snob,n,problem,n,,,Thurner (BAI),,,-1,,1,1,0,0,0.5,4,1,0,7,0.714285714,2,0
+snofari,2,WR,no,n,snow,n,safari,n,,,Thurner (OWW),,,-2,,0.5,1,0.5,1,0.5,3,1,0,6,0.833333333,1,0
+snoopervise,2,WR,no,v,snoop,v,supervise,v,,,Thurner (HDC),,,-2,,1,1,0,0,0,4,1,0,7,1,0,0
+snoud,both,LR,no,n,snow,n,cloud,n,,,Thurner (FW),,,0,,1,1,0,1,1,3,0.666666667,1,4,0.5,2,0
+snurfing,2,LR,no,n,snow,n,surfing,n,,,Thurner (BNE),,,-1,,1,1,0,0,0.5,3,0.666666667,1,5,1,0,1
+soaperatic,2,WR,no,adj,soap,n,operatic,adj,,,Thurner (SEL),,,-3,,0.5,1,0.5,1,0.5,3,1,0,7,0.857142857,1,0
+sojourney,both,WW,no,v,sojourn,v,journey,v,,,Thurner (OED),,,0,,0,1,1,0,0,5,1,0,4,1,0,0
+solemcholy,both,WR,no,adj,solemn,adj,melancholy,adj,,,Thurner (DS),,,-2,,1,1,0,1,0.5,5,1,0,9,0.666666667,3,0
+soliloquacity,2,LW,no,n,soliloquy,n,loquacity,n,,,Thurner (BAI),,,0,,0.5,1,0.5,1,0.5,9,1,0,9,0.888888889,1,0
+soliloquery,both,LW,no,n,soliloquy,n,query,n,,,Thurner (TM),,,2,,1,0,1,1,0,9,1,0,5,1,0,0
+soliquid,both,LW,no,n,solid,n,liquid,n,,,Thurner (DST),,,,,,,,,,,,,,,,
+solunar,both,LW,no,adj,solar,adj,lunar,adj,,,Thurner (WE),,,,,,,,,,,,,,,,
+sorernity,both,LR,no,n,sorority,n,fraternity,n,,,Thurner (DA BL),,,0,,1,1,0,1,1,7,0.714285714,2,9,0.555555556,4,0
+soroptimist,2,LW,no,n,sorority,n,optimist,n,,,Thurner (WE),,,1,,1,1,0,0,0.5,7,0.571428571,3,8,1,0,1
+soundscape,2,WR,no,n,sound,n,landscape,n,,,Thurner (WES),,,-1,,1,1,0,0,0.5,4,1,0,8,0.75,2,0
+Sovietnam,2,WW,no,n,Soviet,adj,Vietnam,n,,,Thurner,,,0,,0.5,1,0.5,1,0,6,1,0,7,1,0,0
+Spanglish,both,LR,no,n,Spanish,n,English,n,,,Thurner (WES),,,0,,1,1,0,1,1,6,0.833333333,1,6,0.833333333,1,0
+spansule,2,WR,no,n,span,n,capsule,n,,,Thurner (BNW),,,-1,,1,1,0,0,0.5,4,1,0,6,0.666666667,2,0
+sparcity,2,WR,no,n,sparse,adj,scarcity,n,,,Thurner (BNW),,,-2,,1,1,0,0,0.5,5,1,0,8,0.75,2,0
+specialogue,2,WR,no,n,special,adj,catalog,n,,,Thurner (NW),,,-1,,1,1,0,0,0.5,6,1,0,7,0.571428571,3,0
+spendacious,2,WR,no,adj,spend,v,mendacious,adj,,,Thurner (DA),,,-2,,0,1,1,1,0.5,5,1,0,8,0.875,1,0
+splanch,both,LR,no,n,split,n,ranch,n,,,Thurner (BNE),,,0,,1,1,0,1,1,5,0.6,2,4,0.75,1,1
+splork,both,LR,no,n,split,n,fork,n,,,Thurner,,,0,,1,1,0,1,1,5,0.6,2,4,0.75,1,1
+spork,both,LR,no,n,spoon,n,fork,n,,,Thurner (BNE),,,0,,1,1,0,1,1,4,0.5,2,4,0.75,1,1
+sprinter,both,LR,no,n,spring,n,winter,n,,,Thurner (MBN),,,-1,,1,1,0,1,1,5,0.8,1,5,0.8,1,0
+squadrilla,both,LR,no,n,squadron,n,flotilla,n,,,Thurner (OED),,,-1,,0,1,1,0,1,8,0.875,1,7,0.428571429,4,0
+squanderlust,2,WR,no,n,squander,v,wanderlust,n,,,Thurner (OED),,,-1,,1,1,0,0,0,7,1,0,9,1,0,0
+squarson,both,LR,no,n,squire,n,parson,n,,,Thurner (MBD),,,-1,,1,1,0,1,1,5,0.8,1,6,0.833333333,1,1
+squattage,2,LR,no,n,squatter,n,cottage,n,,,Thurner (DS),,,0,,1,1,0,0,0.5,6,0.833333333,1,5,1,0,1
+squishop,both,LR,no,n,squire,n,bishop,n,,,Thurner (YNW),,,-1,,1,1,0,1,1,5,0.6,2,5,0.8,1,1
+stabile,both,LR,no,n,stable,adj,mobile,adj,,,Thurner (OED),,,0,,1,1,0,1,1,6,0.833333333,1,5,0.4,3,0
+stagflation,both,LR,no,n,stagnation,n,inflation,n,,,Thurner (DJ),,,0,,1,1,0,1,1,9,0.555555556,4,8,0.75,2,1
+stator,2,LR,no,n,stationary,adj,rotor,n,,,Thurner (DST),,,2,,1,1,0,0,1,9,0.333333333,6,4,0.5,2,1
+steelionaire,2,WR,no,n,steel,n,millionaire,n,,,Thurner (WWA),,,-2,,1,0,1,0,0.5,4,1,0,8,0.75,2,0
+stencilhouette,2,WW,no,n,stencil,n,silhouette,n,,,Thurner (BL),,,-1,,0,1,1,1,0,7,1,0,7,1,0,0
+stewp,both,WR,no,n,stew,n,soup,n,,,Thurner (FW),,,0,,1,1,0,1,0,3,1,0,3,1,0,0
+stiction,2,LR,no,n,static,adj,friction,n,,,Thurner (OED),,,0,,1,1,0,0,1,6,0.666666667,2,7,0.714285714,2,1
+stockateer,2,WR,no,n,stock,n,racketeer,n,,,Thurner (WE),,,-2,,0.5,1,0.5,1,0.5,4,1,0,7,0.714285714,2,0
+stripteuse,both,LR,no,n,stripper,n,chanteuse,n,,,Thurner (WWA),,,0,,0.5,1,0.5,0,1,6,0.833333333,1,6,0.5,3,0
+stuffocation,2,WR,no,n,stuff,v,suffocation,n,,,Thurner,,,-3,,0.5,1,0.5,1,0,4,1,0,9,1,0,0
+subtopia,2,LR,no,n,suburban,adj,utopia,n,,,Thurner (OED),,,-1,,1,1,0,0,1,7,0.571428571,3,7,0.714285714,2,1
+superfecta,2,WW,no,n,super,adj,perfecta,n,,,Thurner (WES),,,-1,,0.5,1,0.5,1,0,4,1,0,7,1,0,0
+surfari,2,WR,no,n,surf,v,safari,n,,,Thurner (OWW),,,-2,,0,1,1,1,0.5,3,1,0,6,0.833333333,1,0
+surroundary,2,WR,no,n,surround,v,boundary,n,,,Thurner (OED),,,-1,,1,1,0,0,0.5,5,1,0,6,0.833333333,1,0
+swacket,both,LR,no,n,sweater,n,jacket,n,,,Thurner (BAI),,,0,,1,1,0,1,1,5,0.6,2,5,0.8,1,1
+sweatspiration,both,WR,no,n,sweat,n,perspiration,n,,,Thurner (BL),,,-3,,0.5,1,0.5,0,1,4,0.75,1,9,0.777777778,2,1
+sweedle,both,LW,no,v,swindle,v,wheedle,v,,,Thurner (OED),,,0,,1,1,0,1,0.5,7,0.714285714,2,5,1,0,1
+swelegant,both,WW,no,adj,swell,adj,elegant,adj,,,Thurner (WW),,,-2,,1,1,0,1,0,4,1,0,7,1,0,0
+swingle,2,WR,no,n,swing,v,single,n,,,Thurner (DAS),,,-1,,1,1,0,0,0,4,1,0,6,1,0,0
+Swinglish,both,LW,no,n,Swedish,n,English,n,,,Thurner (SE),,,0,,1,1,0,1,0.5,6,0.666666667,2,6,1,0,1
+swoose,both,LR,no,n,swan,n,goose,n,,,Thurner (WE),,,0,,1,1,0,1,1,4,0.5,2,3,0.666666667,1,1
+symbolatry,2,WR,no,n,symbol,n,idolatry,n,,,Thurner (OED),,,-2,,0,1,1,1,1,6,0.833333333,1,8,0.75,2,0
+systemaniac,2,WW,no,n,system,n,maniac,n,,,Thurner (TM),,,-1,,0.5,1,0.5,1,0,6,1,0,6,1,0,0
+taboob,1,WW,no,n,taboo,n,boob,n,,,Thurner (AL),,,1,,1,1,0,1,0,4,1,0,3,1,0,0
+taileron,2,WW,no,n,tail,n,aileron,n,,,Thurner (OED),,,-2,,1,1,0,0,0,3,1,0,5,1,0,0
+tamboo,1,LR,no,n,tambour,n,bamboo,n,,,Thurner (OED),,,0,,1,1,0,1,1,6,0.666666667,2,5,0.8,1,1
+tangelo,both,LR,no,n,tangerine,n,pomelo,n,,,Thurner (FO),,,0,,0,1,1,0,1,7,0.571428571,3,6,0.5,3,0
+tangemon,both,LR,no,n,tangerine,n,lemon,n,,,Thurner (WE),,,1,,0,1,1,0,1,7,0.714285714,2,5,0.8,1,1
+tangor,both,LL,no,n,tangerine,n,orange,n,,,Thurner (WE),,,,,,,,,,,,,,,,
+telectorate,2,LW,no,n,television,n,electorate,n,,,Thurner (BDC),,,0,,0,1,1,1,1,9,0.444444444,5,8,0.875,1,1
+telegogue,2,LR,no,n,television,n,demagogue,n,,,Thurner (WW),,,,,1,1,0,0,1,9,0.444444444,5,7,0.714285714,2,1
+telephonograph,2,WW,no,n,telephone,n,phonograph,n,,,Thurner (OED),,,,,0.5,1,0.5,1,0,7,1,0,8,1,0,0
+televangelist,2,LW,no,n,television,n,evangelist,n,,,Thurner,,,,,0.5,1,0.5,1,1,9,0.666666667,3,10,0.9,1,1
+televisionary,2,WW,no,n,television,n,visionary,n,,,Thurner (DA),,,,,0.5,1,0.5,1,0,9,1,0,8,1,0,0
+tenoroon,2,WR,no,n,tenor,adj,bassoon,n,,,Thurner (OED),,,,,0.5,1,0.5,1,0.5,4,1,0,5,0.4,3,0
+tensegrity,2,WR,no,n,tense,adj,integrity,n,,,Thurner (WES),sw2edit-KS,,,,0,1,1,1,0.5,4,1,0,9,0.777777778,2,0
+terraqueous,2,WW,no,adj,terra,n,aqueous,adj,,,Thurner (WE),,,,,0,1,1,1,0,4,1,0,6,1,0,0
+terrorilla,both,WR,no,n,terrorist,n,guerilla,n,,,Thurner (NWD),,,,,0.5,1,0.5,0,1,7,0.714285714,2,5,0.8,1,1
+testiculating,2,LR,no,v,testicles,n,gesticulating,v,,,Thurner (DS),,,,,1,0,1,0,1,9,0.777777778,2,13,0.923076923,1,1
+testificate,2,LR,no,n,testimonial,n,certificate,n,,,Thurner (BL),,,,,0,1,1,1,1,11,0.454545455,6,9,0.888888889,1,1
+Texcentricity,2,LW,no,n,Texan,adj,eccentricity,n,,,Thurner (DD),,,,,0.5,1,0.5,1,0,6,1,0,12,1,0,0
+Texican,both,LR,no,n,Texan,n,Mexican,n,,,Thurner (OED),,,,,1,1,0,1,0.5,6,1,0,8,0.875,1,0
+Texico,2,LR,no,n,Texas,n,Mexico,n,,,Thurner (AL),,,,,1,1,0,0,1,6,0.833333333,1,7,0.857142857,1,1
+thermistor,2,LR,no,n,thermal,adj,resistor,n,,,Thurner (WE),,,,,0,1,1,1,1,5,0.6,2,7,0.571428571,3,0
+thoughtography,2,LR,no,n,thought,n,photography,n,,,Thurner (OED),,,,,0.5,1,0.5,1,0.5,3,1,0,9,0.777777778,2,0
+threepeat,2,WW,no,n,three,adj,repeat,n,,,Thurner,,,,,1,0,1,0,0,3,1,0,5,1,0,0
+throffer,both,?,no,n,threat,n,offer,n,,,http://en.wikipedia.org/wiki/Throffer,,,,,,,,,,,,,,,,
+tiglon,both,LR,no,n,tiger,n,lion,n,,,Thurner (WE),,,,,1,1,0,1,1,4,0.75,1,4,0.75,1,0
+tigon,both,LR,no,n,tiger,n,lion,n,,,Thurner (WE),,,,,1,1,0,1,1,4,0.5,2,4,0.5,2,0
+tilge,1,LR,no,n,tea,n,bilge,n,,,Thurner (BL),,,,,1,1,0,1,1,2,0.5,1,4,0.75,1,1
+tili,both,LL,no,n,tiger,n,liger,n,,,Thurner (WE),sw2 - JM,,,,1,0,1,1,1,4,0.5,2,4,0.5,2,0
+tinner,both,LR,no,n,tea,n,dinner,n,,,Thurner (DS),,,,,1,1,0,1,1,2,0.5,1,4,0.75,1,1
+tissue,2,LW,no,n,trivial,n,issue,n,,,Thurner (JA),,,,,1,0,1,0,1,7,0.285714286,5,3,0.666666667,1,1
+tobacconalian,2,WW,no,n,tobacco,n,bacchanalian,n,,,Thurner (OED),,,,,0.5,1,0.5,1,0.5,6,0.833333333,1,10,1,0,1
+topato,both,embed,no,n,tomato,n,potato,n,,,Thurner (WE),,,,,,,,,,,,,,,,
+topepo,both,embed,no,n,tomato,n,pepper,n,,,Thurner (WE),,,,,,,,,,,,,,,,
+torrible,both,LR,no,adj,torrid,adj,horrible,adj,,,Thurner (BL),,,,,1,1,0,1,1,5,0.8,1,7,0.857142857,1,1
+touron,both,LR,no,n,tourist,n,moron,n,,,Thurner (SL),,,,,1,1,0,1,1,6,0.5,3,5,0.6,2,1
+trainiasium,2,LR,no,n,training,n,gymnasium,n,,,Thurner (AEM),,,,,0.5,1,0.5,1,1,6,0.666666667,2,9,0.666666667,3,0
+trampede,2,LR,no,n,trample,v,stampede,n,,,Thurner,,,,,0,1,1,1,1,7,0.714285714,2,7,0.857142857,1,1
+tremense,both,LR,no,adj,tremendous,adj,immense,adj,,,Thurner (FW),,,,,1,1,0,1,1,9,0.777777778,2,5,0.8,1,1
+trendency,both,WW,no,n,trend,n,tendency,n,,,Thurner (DA),,,,,1,1,0,1,0,5,1,0,8,1,0,0
+trialevision,2,WR,no,n,trial,n,television,n,,,Thurner (TM),,,,,1,1,0,0,0.5,5,1,0,9,0.777777778,2,0
+triathlete,2,LW,no,n,triathlon,n,athlete,n,,,Thurner (WES),,,,,1,1,0,0,0.5,8,0.75,2,5,1,0,1
+tricknology,2,WR,no,n,trick,n,technology,n,,,Thurner (DA),,,,,0.5,1,0.5,1,0.5,4,1,0,9,0.888888889,1,0
+triticale,both,LR,no,n,Triticum,n,Secale,n,,,Thurner (BD),,,,,0,1,1,0,1,8,0.75,2,6,0.833333333,1,1
+triumphirate,2,WR,no,n,triumphant,adj,triumvirate,n,,,Thurner (BL),,,,,1,1,0,0,1,9,0.888888889,1,9,0.888888889,1,0
+troposcatter,2,LW,no,n,troposphere,n,scatter,n,,,Thurner (OED),,,,,1,0.5,0.5,0,0.5,9,0.666666667,3,5,1,0,1
+truppie,both,LR,no,n,trucker,n,yuppie,n,,,Thurner (NWD),,,,,1,1,0,1,1,5,0.6,2,4,0.75,1,1
+Tudorbethan,both,LR,no,adj,Tudor,adj,Elizabethan,adj,,,Thurner (OED),,,,,0.5,1,0.5,0,0.5,4,1,0,10,0.5,5,0
+tumblesault,both,WR,no,n,tumble,n,somersault,n,,,Thurner (DWP),,,,,1,0,1,1,0.5,6,1,0,8,0.125,7,0
+turken,both,LR,no,n,turkey,n,chicken,n,,,Thurner (WE),,,,,1,1,0,1,1,4,0.75,1,5,0.6,2,0
+tweenager,2,RW,no,n,between,p,teenager,n,,,Thurner,KS,,,,0,1,1,1,0.5,6,0.666666667,2,6,1,0,1
+twinight,both,LW,no,n,twilight,n,night,n,,,Thurner (WE),,,,,1,0.5,0.5,1,0.5,6,0.833333333,1,3,1,0,1
+twinsult,2,WW,no,n,twin,n,insult,n,,,Thurner (TM),,,,,1,1,0,0,0,4,1,0,6,1,0,0
+twirligig,2,WW,no,n,twirl,v,whirligig,n,,,Thurner (OED),,,,,1,1,0,0,0,4,1,0,7,1,0,0
+ubiquinone,2,LW,no,n,ubiquitous,adj,quinone,n,,,Thurner (OED),,,,,1,0,1,0,0.5,10,0.7,3,6,1,0,1
+ubookquitous,matrix,embed,no,adj,ubiquitous,adj,book,n,,,Thurner (MBN),,,,,,,,,,,,,,,,
+uffish,both,LR,no,adj,uppish,adj,selfish,adj,,,Thurner (FW),,,,,1,1,0,1,1,4,0.75,1,6,0.5,3,0
+ufocal,2,WW,no,n,UFO,n,focal,n,,,Thurner (DJ),,,,,1,1,0,0,0,5,1,0,5,1,0,0
+uforia,2,WR,no,n,UFO,n,euphoria,n,,,Thurner (MOT),,,,,1,1,0,0,0.5,5,0.8,1,7,1,0,1
+Ulsteria,2,WR,no,n,Ulster,n,hysteria,n,,,Thurner (BL),,,,,0.5,1,0.5,1,1,5,0.8,1,8,0.75,2,0
+Ultamints,2,LW,yes,n,ultimate,adj,mints,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+Ultime,2,LW,yes,n,ultimate,adj,time,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+ultraviolation,2,LW,no,n,ultraviolet,adj,violation,n,,,Thurner (OED),,,,,0,1,1,1,0.5,11,0.818181818,2,8,1,0,1
+Umbrellegant,2,WW,yes,adj,umbrella,n,elegant,adj,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+Umbroller,2,LR,yes,n,umbrella,n,stroller,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+umperor,1,LR,no,n,umpire,n,emperor,n,,,Thurner (BL),,,,,1,1,0,1,1,5,0.8,1,5,0.8,1,0
+Uncle Tomahawk,2,WW,no,n,Uncle Tom,n,tomahawk,n,,,Thurner (BNE),,,,,1,1,0,0,0,8,1,0,7,1,0,0
+uniquity,2,WR,no,n,unique,adj,iniquity,n,,,Thurner (WW),,,,,1,1,0,0,0.5,5,1,0,8,0.75,2,0
+Uniterm,both,WW,no,n,unit,n,term,n,,,Thurner (OED),,,,,1,1,0,1,0,5,1,0,3,1,0,0
+universanimous,both,LR,no,adj,universal,adj,unanimous,adj,,,Thurner (BL),,,,,0,1,1,0,0.5,9,0.888888889,1,9,1,0,1
+urbanality,both,WW,no,n,urbanity,n,banality,n,,,Thurner (WO),,,,,0,1,1,0,0.5,7,0.857142857,1,8,1,0,1
+urbanonymous,2,WW,no,adj,urban,adj,anonymous,adj,,,Thurner (JA),,,,,0.5,1,0.5,1,0,4,1,0,8,1,0,0
+urbantry,2,WR,no,n,urban,adj,country,n,,,Thurner (BAI),,,,,0.5,1,0.5,1,0.5,4,1,0,6,0.833333333,1,0
+urinalysis,2,WR,no,n,urine,n,analysis,n,,,Thurner (OED),,,,,0.5,1,0.5,1,0.5,4,1,0,8,0.875,1,0
+utopiate,2,WW,no,n,utopia,n,opiate,n,,,Thurner (OED),,,,,1,1,0,0,0,7,1,0,5,1,0,0
+vanitory,both,LR,no,n,vanity,n,lavatory,n,,,Thurner (WE),,,,,1,1,0,1,0.5,6,1,0,8,0.625,3,0
+Vaporub,2,WW,yes,n,vapor,n,rub,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+varactor,2,LR,no,n,varying,adj,reactor,n,,,Thurner (WE),,,,,0,1,1,1,1,6,0.333333333,4,6,0.833333333,1,1
+varistor,2,LR,no,n,variable,adj,resistor,n,,,Thurner (WE),,,,,0,1,1,1,1,8,0.25,6,7,0.714285714,2,1
+vash,2,LW,no,n,volcanic,adj,ash,n,,,Thurner (SSW),,,,,0,1,1,1,0.5,8,0.25,6,2,1,0,1
+vaudevillain,2,LW,no,n,vaudeville,n?,villain,n,,,Thurner (OED),,,,,0,1,1,1,0.5,6,0.833333333,1,5,1,0,1
+vegelate,both,LR,no,n,vegetable,n,chocolate,n,,,Thurner (NW),,,,,1,1,0,1,1,8,0.5,4,6,0.333333333,4,0
+vegucate,2,LR,no,v,vegetable,n,educate,v,,,Thurner (NW),,,,,1,0,1,0,0.5,8,0.5,4,6,1,0,1
+vegucation,2,LR,no,n,vegetable,n,education,n,,,Thurner,,,,,0.5,1,0.5,1,1,8,0.625,3,8,0.75,2,1
+velveteenager,2,WW,no,n,velveteen,adj,teenager,n,,,Thurner (BAI),,,,,0.5,0,0.5,0,0,8,1,0,6,1,0,0
+Velvetouch,2,WW,yes,n,velvet,adj,touch,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+verballistics,2,WW,no,n,verbal,adj,ballistics,n,,,Thurner (JO),,,,,0,1,1,1,0,5,1,0,9,1,0,0
+Versatool,2,LW,yes,n,versatile,adj,tool,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+Versatowel,2,LW,yes,n,versatile,adj,towel,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+versiflage,both,LR,no,n,verse,n,persiflage,n,,,Thurner (BL),,,,,0.5,0,0.5,1,0.5,3,1,0,8,0.5,4,0
+Vertebrace,2,WW,yes,n,vertebra,n,brace,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+vertebrarterial,both,LW,no,adj,vertebrate,adj,arterial,adj,,,Thurner (OED),,,,,0,1,1,0,0.5,8,0.875,1,8,1,0,1
+vestock,both,WW,no,n,vest,n,stock,n,,,Thurner (OED),,,,,1,0,1,1,0.5,4,1,0,4,0.75,1,0
+vexasperate,both,WW,no,v,vex,v,exasperate,v,,,Thurner (BL),,,,,0,0,0,1,0.5,4,1,0,9,0.666666667,3,0
+vibronic,2,LR,no,adj,vibration,n,electronic,adj,,,Thurner (DNW),,,,,1,1,0,0,1,8,0.625,3,10,0.5,5,0
+videbut,2,LW,no,n,video,n,debut,n,,,Thurner (DNW),,,,,1,0,1,0,1,5,0.6,2,5,0.8,1,1
+videotrocities,2,WR,no,n,video,n,atrocities,n,,,Thurner (WW),,,,,0.5,1,0.5,1,1,5,0.8,1,9,0.444444444,5,0
+vidience,2,LR,no,n,video,n,audience,n,,,Thurner (YNW),,,,,1,1,0,0,1,5,0.8,1,6,0.833333333,1,1
+vidiot,2,LW,no,n,video,n,idiot,n,,,Thurner (TM),,,,,1,1,0,0,0.5,5,0.8,1,5,1,0,1
+vidisk,2,LW,no,n,video,n,diskettes,n,,,Thurner (WW),,,,,1,0,1,0,1,5,0.6,2,7,0.428571429,4,0
+vidozer,2,LW,no,n,video,n,dozer,n,,,Thurner (FW),,,,,0,1,1,1,0.5,5,0.8,1,4,1,0,1
+vindictivolence,both,LR,no,n,vindictive,adj,malevolence,n,,,Thurner (OED),,,,,0,1,1,0,0.5,9,1,0,10,0.6,4,0
+Vinylattice,2,WW,yes,n,vinyl,n,lattice,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+vinylon,both,WW,no,n,vinyl,n,nylon,n,,,Thurner (OED),,,,,0,1,1,0,0.5,5,0.8,1,5,1,0,1
+vinyon,both,LR,no,n,vinyl,n,rayon,n,,,Thurner (DST),,,,,1,1,0,1,1,5,0.6,2,4,0.25,3,0
+Virgilina,both,LR,no,n,Virginia,n,Carolina,n,,,Thurner (NA),,,,,0,1,1,0,1,7,0.714285714,2,8,0.625,3,0
+vitamer,2,LR,no,n,vitamin,n,isomer,n,,,Thurner (WE),,,,,1,1,0,0,1,7,0.714285714,2,5,0.8,1,1
+Vitamilk,2,LW,yes,n,vitamin,n,milk,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+vitazyme,2,LR,no,n,vitamin,n,enzyme,n,,,Thurner,,,,,1,0,1,0,1,7,0.714285714,2,5,0.6,2,0
+vividity,2,WR,no,n,vivid,adj,avidity,n,,,Thurner (BL),,,,,0,1,1,1,0.5,5,1,0,7,0.714285714,2,0
+vocular,both,LR,no,adj,vocal,adj,jocular,adj,,,Thurner (Charles Dickens),,,,,1,1,0,1,1,5,0.8,1,7,0.714285714,2,0
+vodkatini,2,WR,no,n,vodka,n,martini,n,,,Thurner (BAI),,,,,0.5,1,0.5,1,0.5,5,1,0,7,0.714285714,2,0
+Voicercise,2,WR,yes,n,voice,n,exercise,n,,,Thurner (BTC),,,,,,,,,,,,,,,,
+voicespond,2,WR,no,v,voice,n,correspond,v,,,Thurner (OED),,,,,1,0.5,0.5,0,0.5,3,1,0,9,0.666666667,3,0
+volcaniclastic,both,LR,no,adj,volcanic,adj,clastic,adj,,,Thurner (OED),,,,,0.5,1,0.5,0,0.5,8,0.875,1,7,1,0,1
+volumeter,2,WW,no,n,volume,n,meter,n,,,Thurner (WE),,,,,1,0.5,0.5,0,0,6,1,0,4,1,0,0
+volumetric,2,WW,no,adj,volume,n,metric,n,,,Thurner (WE),,,,,0.5,1,0.5,1,0,6,1,0,6,1,0,0
+vulgularity,2,LR,no,n,vulgar,adj,popularity,n,,,Thurner (BL),,,,,1,0.5,0.5,0,1,5,0.8,1,11,0.272727273,8,0
+waddle,both,LR,no,v,wade,v,toddle,v,,,Thurner (WE),,,,,1,1,0,1,1,3,0.666666667,1,5,0.8,1,1
+wadge,both,LR,no,n,wad,n,wedge,n,,,Thurner (STY),,,,,1,1,0,1,1,3,0.666666667,1,3,0.666666667,1,0
+Wafrica,2,LW,no,n,West,adj,Africa,n,,,Thurner (BL),,,,,1,1,0,0,0.5,4,0.25,3,6,1,0,1
+wagery,2,WR,no,n,wage,n,slavery,n,,,Thurner (OED),,,,,1,1,0,0,0.5,3,1,0,6,0.5,3,0
+wallyball,2,WR,no,n,wall,n,volleyball,n,,,Thurner (NWD),,,,,1,1,0,0,1,3,0.666666667,1,7,0.714285714,2,1
+wargasm,both,WR,no,n,war,n,orgasm,n,,,Thurner (DJ),,,,,1,1,0,1,0,3,1,0,7,1,0,0
+warmedy,2,WR,no,n,warm,adj,comedy,n,,,Thurner,,,,,1,1,0,0,0.5,4,1,0,6,0.666666667,2,0
+warnography,both,WR,no,n,war,n,pornography,n,,,Thurner (NW),,,,,0,1,1,0,0.5,3,1,0,10,0.9,1,0
+warphan,2,WR,no,n,war,n,orphan,n,,,Thurner (LWW),,,,,1,1,0,0,0,3,1,0,5,1,0,0
+Waussie,2,LW,no,n,woman,n,Aussie,n,,,Thurner (DS),,,,,1,1,0,0,0.5,5,0.2,4,3,1,0,1
+wavicle,both,WR,no,n,wave,n,particle,n,,,Thurner (OED),,,,,1,1,0,1,0.5,3,1,0,8,0.5,4,0
+Weedigger,2,WW,yes,n,weed,n,digger,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+weeny-bopper,2,WR,no,n,weeny,adj,teeny-bopper,n,,,Thurner (BNE),,,,,1,0,1,0,0.5,4,1,0,8,0.875,1,0
+wegotism,2,WW,no,n,we,pn,egotism,n,,,Thurner (WAW),,,,,1,0,1,0,0,2,1,0,8,1,0,0
+Westralia,2,WR,no,n,west,adj,Australia,n,,,Thurner (DS),,,,,0,1,1,1,0.5,4,1,0,8,0.875,1,0
+whang,both,LR,no,v,whack,v,bang,v,,,Thurner (BL),,,,,1,1,0,1,1,3,0.666666667,1,3,0.333333333,2,0
+whirlicane,both,LR,no,n,whirlwind,n,hurricane,n,,,Thurner (BL),,,,,1,0,1,1,1,7,0.714285714,2,6,0.666666667,2,0
+whirlwig,2,LR,no,n,whirligig,n,earwig,n,,,Thurner (WE),,,,,1,0,1,0,1,7,0.571428571,3,5,0.6,2,1
+whirry,2,WR,no,v,whir,v,hurry,v,,,Thurner (WE),,,,,1,1,0,0,0.5,2,1,0,3,0.666666667,1,0
+Whitmaniac,2,WW,no,n,Whitman,n,maniac,n,,,Thurner (WE),,,,,0,0,0,0,0.5,6,0.833333333,1,6,1,0,1
+wholphin,both,LR,no,n,whale,n,dolphin,n,,,Thurner (TM),,,,,1,1,0,1,1,3,0.666666667,1,6,0.666666667,2,0
+whoopla,2,WW,no,n,whoop,n,hoopla,n,,,Thurner (WE),,,,,1,0,1,0,0.5,3,1,0,5,0.8,1,0
+whye,both,LR,no,n,wheat,n,rye,n,,,Thurner (ID),,,,,1,1,0,1,1,3,0.333333333,2,2,0.5,1,1
+widget,both,LR,no,n,wifflow,n,gadget,n,,,Thurner (DS),,,,,1,1,0,1,1,5,0.4,3,5,0.4,3,0
+Winchaul,both,WW,yes,n,winch,n,haul,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+Windial,2,WW,yes,n,wind,n,dial,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+Winegars,both,WR,yes,n,wine,n,vinegars,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+winsey,both,LR,no,n,woolsey,n,linsey,n,,,Thurner (WE),,,,,1,1,0,1,1,5,0.6,2,5,0.8,1,1
+winterim,2,WW,no,n,winter,n,interim,n,,,Thurner (WES),,,,,1,1,0,0,0,5,1,0,6,1,0,0
+Winterlude,2,WW,no,n,winter,n,interlude,n,,,Thurner,,,,,1,0,1,0,0,5,1,0,7,1,0,0
+Winterlude,2,WW,yes,n,winter,n,interlude,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+witticism,2,WR,no,n,witty,adj,criticism,n,,,Thurner (YNW),,,,,1,1,0,0,1,4,0.75,1,10,0.8,2,1
+wizzled,both,LR,no,adj,wizened,adj,shriveled,n,,,Thurner (WE),,,,,1,1,0,1,1,6,0.833333333,1,7,0.571428571,3,0
+wobbulator,2,LR,no,n,wobble,v,modulator,n,,,Thurner (WE),,,,,1,0,1,0,1,5,0.6,2,8,0.5,4,0
+woggle,both,LR,no,v,wobble,v,waggle,v,,,Thurner (WE),,,,,1,1,0,1,1,5,0.6,2,5,0.8,1,1
+womanagement,2,WW,no,n,woman,n,management,n,,,Thurner (BNE),,,,,0,1,1,1,1,5,0.8,1,9,0.555555556,4,0
+womannequin,2,WW,no,n,woman,n,mannequin,n,,,Thurner (JO),,,,,0,1,1,1,1,5,0.6,2,7,0.571428571,3,0
+womanpower,2,WW,no,n,woman,n,manpower,n,,,Thurner (WES),,,,,1,0,1,0,1,5,0.8,1,6,0.833333333,1,1
+womanthrope,2,WR,no,n,woman,n,misanthrope,n,,,Thurner (OED),,,,,1,0,1,0,1,5,0.8,1,9,0.777777778,2,0
+womoonless,2,LW,no,adj,woman,n,moonless,adj,,,Thurner (OED),,,,,0,1,1,1,0.5,5,0.6,2,6,1,0,1
+womure,2,LR,no,n,woman,n,manure,n,,,Thurner (WO),,,,,0,1,1,1,1,5,0.4,3,5,0.2,4,0
+Wonderods,2,WW,yes,n,wonder,n,rods,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+Woolyester,both,WR,yes,n,wool,n,polyester,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+workfare,2,WR,no,n,work,n,welfare,n,,,Thurner (WES),,,,,1,0,1,0,0.5,3,1,0,6,0.666666667,2,0
+workoholic,2,WR,no,n,work,n,alcoholic,n,,,Thurner (DCS),,,,,0.5,1,0.5,1,0.5,3,1,0,9,0.111111111,8,0
+Wraptures,both,WW,yes,n,wrap,n,raptures,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+Wrenaissance,2,WW,no,n,Wren,n,renaissance,n,,,Thurner (OED),,,,,1,0.5,0.5,0,0,3,1,0,8,1,0,0
+wrizzled,both,LR,no,adj,wrinkled,adj,frizzled,adj,,,Thurner (BAI),,,,,1,1,0,1,1,7,0.714285714,2,7,0.857142857,1,1
+wunk,2,LR,no,n,wasp,n,funk,n,,,Thurner (NWD),,,,,1,1,0,0,1,4,0.25,3,4,0.5,2,1
+yabber,both,LR,no,v,yack,v,jabber,v,,,Thurner (DS),,,,,1,1,0,1,1,3,0.666666667,1,4,0.75,1,1
+yahoomanity,2,WR,no,n,yahoo,n,humanity,n,,,Thurner (BYR),,,,,0.5,1,0.5,1,0.5,4,1,0,9,0.888888889,1,0
+yakalo,both,WR,no,n,yak,n,cattalo,n,,,Thurner (MBD),,,,,1,1,0,1,0.5,3,1,0,6,0.666666667,2,0
+yakow,both,WR,no,n,yak,n,cow,n,,,Thurner (BNE),,,,,1,0.5,0.5,1,0,3,1,0,2,1,0,0
+Yardarts,2,WW,yes,n,yard,n,darts,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+yarden,both,WR,no,n,yard,n,garden,n,,,Thurner (FW),,,,,1,1,0,1,0.5,4,1,0,6,0.833333333,1,0
+Yardener,2,WR,yes,n,yard,n,gardener,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+yatter,2,LR,no,n,yammer,n,chatter,n,,,Thurner (TGP),,,,,1,1,0,0,1,4,0.75,1,4,0.75,1,0
+yawn,both,LR,no,n,yard,n,lawn,n,,,Thurner (FW),,,,,1,1,0,1,1,4,0.5,2,3,0.333333333,2,0
+yellocution,2,WR,no,n,yell,n,elocution,n,,,Thurner (BL),,,,,0.5,1,0.5,1,0,3,1,0,9,1,0,0
+Yinglish,both,LR,no,n,Yiddish,n,English,n,,,Thurner (WES),,,,,1,1,0,1,0.5,5,0.8,1,6,1,0,1
+Yogonnaise,2,LR,yes,n,yogurt,n,mayonnaise,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+Yogourmet,2,LW,yes,n,yogurt,n,gourmet,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+yonks,both,LMR,no,n,years,n,months,n,weeks,n,Thurner (DS),,,,,,,,,,,,,,,,
+Youthair,2,WW,yes,n,youth,n,hair,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+youthquake,2,WR,no,n,youth,n,earthquake,n,,,Thurner (WES),,,,,1,1,0,0,0.5,3,1,0,6,0.833333333,1,0
+yumptious,both,LR,no,adj,yummy,adj,scrumptious,adj,,,Thurner (BNE),,,,,1,1,0,1,1,4,0.75,1,8,0.625,3,0
+Zappertites,2,WR,yes,n,zapper,n,appetites,n,,,Thurner (BTC),JM,,,,,,,,,,,,,,,
+zebrass,both,WW,no,n,zebra,n,ass,n,,,Thurner (WE),,,,,1,0.5,0.5,1,0.5,5,0.8,1,2,1,0,1
+zebrula,both,embed,no,n,zebra,n,mule,n,,,Thurner,,,,,,,,,,,,,,,,
+zebrule,both,LR,no,n,zebra,n,mule,n,,,Thurner (MBD),,,,,1,0.5,0.5,1,1,5,0.8,1,4,0.5,2,0
+zedonk,both,LL,no,n,zebra,n,donkey,n,,,Thurner (OED),,,,,,,,,,,,,,,,
+zircalloy,2,LW,no,n,zirconium,n,alloy,n,,,Thurner (WES),,,,,1,1,0,0,0.5,8,0.375,5,3,1,0,1
+zonkey,both,LR,no,n,zebra,n,donkey,n,,,Thurner (OED),,,,,1,1,0,1,1,5,0.4,3,5,0.8,1,1
+zumpkin,both,LR,no,n,zucchini,n,pumpkin,n,,,Thurner (SEL),,,,,0,1,1,0,1,6,0.5,3,7,0.857142857,1,1
+vampirate,both,LR,no,n,vampire,n,pirate,n,,,Supernatural (8x05),,,,,,,,,,,,,,,,
+Hothlanta,both,LR,no,n,Hoth,n,Atlanta,n,,,http://www.everydayshouldbesaturday.com/2014/1/29/5357246/heres-how-hothlanta-happened-again,,,,,,,,,,,,,,,,
+Chillow,2,WR,yes,n,chill,adj,pillow,n,,,https://www.chillow.com/,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
